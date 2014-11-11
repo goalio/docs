@@ -2,7 +2,7 @@ goalio Benutzerhandbuch
 =======================
 
 .. toctree::
-   :hidden:
+   :maxdepth: 4
    
 Erste Schritte mit goalio
 -------------------------
