@@ -19,7 +19,7 @@ Anwendungsbeispiele
 Wie kann ich inaktive Mitglieder ausblenden?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche  
+1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche
 |
 	.. image:: http://karstedt.org/public/goalio/suche-button.png
 
