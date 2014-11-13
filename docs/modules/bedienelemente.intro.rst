@@ -26,13 +26,13 @@ Haben Sie eine Seite geöffnet, blablubb
 Tastenkürzel
 ------------
 
-====	=====	====== 
-   Kürzel     Output 
-------------	------ 
+=====  =====  ====== 
+   Inputs     Output 
+------------  ------ 
   A      B    A or B 
-=====	=====	====== 
-STRG	Alpha	Speichern 
-STRG	Beta	Drucken 
-STRG	Gamma	Speichern 
-STRG	Delta	Drucken 
-=====	=====	======
+=====  =====  ====== 
+False  False  False 
+True   False  True 
+False  True   True 
+True   True   True 
+=====  =====  ======
