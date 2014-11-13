@@ -9,6 +9,6 @@ Hat man die grundlegenden Prinzipien der goalio-Benutzeroberfläche einmal verst
 Navigation
 ----------
 
-Das zentrale Element zur Navigationssteuerung ist die gelbe Menüleiste, welche sich zwischen der Kopfzeile und dem Seiteninhalt befindet. Bewegen Sie Ihren Mauszeiger auf einen der Einträge, um die verfügbaren Unterseiten angezeigt zu bekommen.
+Das zentrale Element Steuerelement in goalio ist die gelbe Menüleiste, welche sich zwischen der Kopfzeile und dem Seiteninhalt befindet. Bewegen Sie Ihren Mauszeiger auf einen der Einträge, um die verfügbaren Unterseiten angezeigt zu bekommen.
 
 	.. image:: http://karstedt.org/public/goalio/menuleiste.png
