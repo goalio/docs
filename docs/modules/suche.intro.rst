@@ -26,7 +26,9 @@ Anwendungsbeispiele
 	.. image:: http://karstedt.org/public/goalio/suche-button.png
 
 2.	Gehen Sie in das Feld Kündigungsdatum, geben Sie das aktuelle Datum ein und wählen Sie als Operator_ *größer oder gleich* aus. Dadurch werden nur jene Mitglieder dargestellt, deren Kündigungsdatum entweder in der Zukunft liegt, oder nicht eingetragen wurde.
+
 	.. image:: http://karstedt.org/public/goalio/operator.png
+
 3.	Die Mitgliederliste sollte sich nun automatisch aktualisieren und die Suche kann geschlossen werden.
 
 Weiterführendes
