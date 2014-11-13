@@ -26,13 +26,13 @@ Haben Sie eine Seite geöffnet, blablubb
 Tastenkürzel
 ------------
 
-=====  =====  ====== 
+====	=====	====== 
    Kürzel     Output 
-------------  ------ 
+------------	------ 
   A      B    A or B 
-=====  =====  ====== 
-STRG  Alpha  Speichern 
-STRG   Beta  Drucken 
-STRG  Gamma   Speichern 
-STRG   Delta   Drucken 
-=====  =====  ======
+=====	=====	====== 
+STRG	Alpha	Speichern 
+STRG	Beta	Drucken 
+STRG	Gamma	Speichern 
+STRG	Delta	Drucken 
+=====	=====	======
