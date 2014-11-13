@@ -12,7 +12,7 @@ Seitenbereiche
 I) Die Menüleiste
 ^^^^^^^^^^^^^^^^^
 
-Das zentrale Steuerelement in goalio ist die gelbe Menüleiste, welche sich zwischen der Kopfzeile und dem Seiteninhalt befindet. Bewegen Sie Ihren Mauszeiger auf einen der Einträge, um die verfügbaren Unterseiten angezeigt zu bekommen.
+Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sich über dem Seiteninhalt befindet. Bewegen Sie Ihren Mauszeiger auf einen der Einträge, um die verfügbaren Unterseiten angezeigt zu bekommen. Die momentan geöffnete Seite wird dabei blau hinterlegt.
 
 .. image:: http://karstedt.org/public/goalio/menuleiste.png
 
