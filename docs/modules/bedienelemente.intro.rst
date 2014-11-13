@@ -29,9 +29,11 @@ Tastenkürzel
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-STRG  False  False 
-STRG   False  True 
-STRG  True   True 
-STRG   True   True 
+  A      B    Funktion 
+=====  =====  ====== 
+False  False  False 
+True   False  True 
+False  True   True 
+True   True   True 
 =====  =====  ======
 
