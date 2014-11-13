@@ -29,7 +29,7 @@ Tastenkürzel
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-False  False  False 
+STRG   False  False 
 True   False  True 
 False  True   True 
 True   True   True 
