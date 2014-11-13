@@ -19,7 +19,7 @@ Voraussetzungen
 Anwendungsbeispiele
 ^^^^^^^^^^^^^^^^^^^^
 
-__Wie kann ich inaktive Mitglieder ausblenden?__
+*Wie kann ich inaktive Mitglieder ausblenden?*
 
 1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche  
 	.. image:: http://karstedt.org/public/goalio/suche-button.png
