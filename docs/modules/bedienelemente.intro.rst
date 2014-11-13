@@ -6,11 +6,8 @@ Einleitung
 
 Hat man die grundlegenden Prinzipien der goalio-Benutzeroberfläche einmal verstanden, so können selbst komplexe Operationen problemlos durchgeführt werden. Um also sicherzustellen, dass Sie bei der Benutzung von goalio keine Probleme haben, möchten wir Sie mit diesem Leitfaden in die wesentlichen Bedienelemente einführen.
 
-Seitenbereiche
+Navigation
 --------------
-
-I) Die Menüleiste
-^^^^^^^^^^^^^^^^^
 
 Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sich über dem Seiteninhalt befindet. Bewegen Sie Ihren Mauszeiger auf einen der Einträge, um die verfügbaren Unterseiten angezeigt zu bekommen. Die momentan geöffnete Seite wird dabei blau hinterlegt.
 
@@ -21,12 +18,21 @@ Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sic
 	
 .. _hier: http://www.enable-javascript.com/de/
 
-II) Der Seitenbereich
-^^^^^^^^^^^^^^^^^^^^^
+Vorschaufunktion
+----------------
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Haben Sie eine Seite geöffnet, blablubb
 
-III) Der Vorschaubereich
-^^^^^^^^^^^^^^^^^^^^^^^^
+Tastenkürzel
+------------
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+=====  =====  ====== 
+   Inputs     Output 
+------------  ------ 
+  A      B    A or B 
+=====  =====  ====== 
+False  False  False 
+True   False  True 
+False  True   True 
+True   True   True 
+=====  =====  ======
