@@ -32,7 +32,7 @@ I Wie kann ich inaktive Mitglieder ausblenden?
 Weiterführendes
 ---------------
 
-* Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Exportfunktion_ übernommen v2.
+* Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Exportfunktion_ übernommen.
 
 
 .. _Operator: http://goal.io
