@@ -27,9 +27,7 @@ Tastenkürzel
 ------------
 
 =====  =====  ====== 
-   Inputs     Output 
-------------  ------ 
-  A      B    A or B 
+   Kürzel     Output 
 =====  =====  ====== 
 False  False  False 
 True   False  True 
