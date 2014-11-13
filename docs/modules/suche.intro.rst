@@ -1,0 +1,28 @@
+# Goalio Kochbuch
+
+## Die Suche
+
+### Einleitung
+
+Die goalio Suche ist ein nützliches Werkzeug, um Informationen gezielt schnell und übersichtlich darzustellen. Sie kann durch einen Klick auf die entsprechende Schaltfläche rechts über einer Liste aufgerufen werden und passt sich dynamisch den Gegebenheiten des Vereins an. Sollten Sie also beispielsweise zusätzliche, vereinsspezifische Daten zu jedem Mitglied speichern, ist die Suche dazu in der Lage, diese ebenfalls zu filtern.
+
+![Goalio Suche](http://karstedt.org/public/goalio/suche.png)
+
+### Voraussetzungen
+
+* Vorhandensein von Daten, welche durchsucht werden können (Mitglieder, Abteilungen, ...)
+
+### Anwendungsbeispiele
+
+__Wie kann ich inaktive Mitglieder ausblenden?__
+
+1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche  
+	![Goalio Suche](http://karstedt.org/public/goalio/suche-button.png)
+1.	Gehen Sie in das Feld Kündigungsdatum, geben Sie das aktuelle Datum ein und wählen Sie als [Operator](http://goal.io "Goalio") *größer oder gleich* aus. Dadurch werden nur jene Mitglieder dargestellt, deren Kündigungsdatum entweder in der Zukunft liegt, oder nicht eingetragen wurde.  
+	![Goalio Suche](http://karstedt.org/public/goalio/operator.png)
+1.	Die Mitgliederliste sollte sich nun automatisch aktualisieren und die Suche kann geschlossen werden.
+
+
+### Weiterführendes
+
+* Haben Sie einen Suchfilter angewandt, so wird er beispielsweise von der [Export-Funktion](http://goalio.de "Goalio") übernommen
