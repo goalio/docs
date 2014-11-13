@@ -1,4 +1,4 @@
-$project
+goalio Benutzerhandbuch
 =======================
 
 .. toctree::
@@ -28,7 +28,7 @@ Finanzen
 Kochbuch
 --------
 	
-Verzeichnissed
+Verzeichnisse
 =============
 
 * :doc:`index`
