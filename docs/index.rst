@@ -1,4 +1,4 @@
-goalio Benutzerhandbuch
+$project
 =======================
 
 .. toctree::
