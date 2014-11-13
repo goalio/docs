@@ -26,12 +26,14 @@ Haben Sie eine Seite geöffnet, blablubb
 Tastenkürzel
 ------------
 
+Test 123
+
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-STRG   False  False 
-Alt    False  True 
-Shift  True   True 
-Shift  True   True 
+STRG   A      Drucken 
+Alt    B      Löschen 
+Shift  C      Speichern 
+Shift  D      Neu 
 =====  =====  ======
 
