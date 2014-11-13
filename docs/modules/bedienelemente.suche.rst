@@ -1,22 +1,22 @@
 Die Suche
 =========
 
-Einleitung
+I) Einleitung
 ----------
 
 Die goalio Suche ist ein nützliches Werkzeug, um Informationen gezielt schnell und übersichtlich darzustellen. Sie kann durch einen Klick auf die entsprechende Schaltfläche rechts über einer Liste aufgerufen werden und passt sich dynamisch den Gegebenheiten des Vereins an. Sollten Sie also beispielsweise zusätzliche, vereinsspezifische Daten zu jedem Mitglied speichern, ist die Suche dazu in der Lage, diese ebenfalls zu filtern.
 
 .. image:: http://karstedt.org/public/goalio/suche.png
 
-Voraussetzungen
+II) Voraussetzungen
 ---------------
 
 * Vorhandensein von Daten, welche durchsucht werden können (Mitglieder, Abteilungen, ...)
 
-Anwendungsbeispiele
+III) Anwendungsbeispiele
 -------------------
 
-I Wie kann ich inaktive Mitglieder ausblenden?
+Wie kann ich inaktive Mitglieder ausblenden?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche
@@ -29,7 +29,7 @@ I Wie kann ich inaktive Mitglieder ausblenden?
   
 3.	Die Mitgliederliste sollte sich nun automatisch aktualisieren und die Suche kann geschlossen werden.
 
-Weiterführendes
+IV) Weiterführendes
 ---------------
 
 * Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Exportfunktion_ übernommen.
