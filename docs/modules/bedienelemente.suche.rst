@@ -30,7 +30,7 @@ I) Wie kann ich inaktive Mitglieder ausblenden?
 3.	Die Mitgliederliste sollte sich nun automatisch aktualisieren und die Suche kann geschlossen werden.
 
 .. note::
-	Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Exportfunktion_ übernommen.
+	Haben Sie einen Suchfilter aktiviert, so wird er beispielsweise von der Exportfunktion_ übernommen.
 
 .. _Operator: http://goal.io
 .. _Exportfunktion: http://goal.io
