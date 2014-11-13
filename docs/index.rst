@@ -3,6 +3,10 @@ goalio Benutzerhandbuch
 
 .. toctree::
    :maxdepth: 4
+
+	intro
+	All about strings <strings>
+	datatypes
    
 Erste Schritte mit goalio
 -------------------------
