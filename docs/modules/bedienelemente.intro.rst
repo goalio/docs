@@ -29,9 +29,9 @@ Tastenkürzel
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-False  False  False 
-True   False  True 
-False  True   True 
-True   True   True 
+STRG  False  False 
+STRG   False  True 
+STRG  True   True 
+STRG   True   True 
 =====  =====  ======
 
