@@ -28,7 +28,7 @@ Finanzen
 Kochbuch
 --------
 	
-Verzeichnisse
+Verzeichnissee
 =============
 
 * :doc:`index`
