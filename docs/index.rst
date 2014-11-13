@@ -1,12 +1,11 @@
-goalio Benutzerhandbuche
+goalio Benutzerhandbuchx
 =======================
-
-.. toctree::
-	:maxdepth: 4
 	
-	intro
-	All about strings <strings>
-	datatypes
+.. toctree::
+   :numbered:
+
+   foo
+   bar
    
 Erste Schritte mit goalio
 -------------------------
