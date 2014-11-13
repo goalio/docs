@@ -31,8 +31,8 @@ Anwendungsbeispiele
 Weiterführendes
 ---------------
 
-* Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Export-Funktion`__ übernommen
+* Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Exportfunktion_ übernommen
 
 
 .. _Operator: http://goal.io
-__ http://www.goal.io/
+.. _Exportfunktion: http://goal.io
