@@ -29,7 +29,7 @@ Tastenkürzel
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-  A      B    A or B 
+  A      B    Funktion 
 =====  =====  ====== 
 False  False  False 
 True   False  True 
