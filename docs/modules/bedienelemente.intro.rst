@@ -26,13 +26,14 @@ Haben Sie eine Seite geöffnet, blablubb
 Tastenkürzel
 ------------
 
-=====  =====  ====== 
-   Inputs     Output 
-------------  ------ 
-  A      B    A or B 
-=====  =====  ====== 
-False  False  False 
-True   False  True 
-False  True   True 
-True   True   True 
-=====  =====  ======
++------------+------------+-----------+ 
+| Taste 1   | Taste 2   | Funktion  | 
++============+============+===========+ 
+| STRG | Alpha   | column 3  | 
++------------+------------+-----------+ 
+| STRG | Beta | 
++------------+------------+-----------+ 
+| STRG | Gamma  | - Cells   | 
++------------+ span rows. | - contain | 
+| STRG |            | - blocks. | 
++------------+------------+-----------+
