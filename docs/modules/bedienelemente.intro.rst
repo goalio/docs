@@ -4,6 +4,6 @@ Die goalio Benutzeroberfläche
 Einleitung
 ----------
 
-Die goalio Benutzeroberfläche ist leicht verständlich und ermöglicht eine einfache Bedienung der Software. Hat man die Grundlagen einmal verstanden, so
+Hat man die grundlegenden Prinzipien der goalio-Benutzeroberfläche einmal verstanden, so können selbst komplexe Operationen problemlos durchgeführt werden.
 
 	.. image:: http://karstedt.org/public/goalio/menuleiste.png
