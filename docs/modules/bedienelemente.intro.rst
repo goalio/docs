@@ -31,8 +31,8 @@ Tastenkürzel
 ------------  ------ 
   A      B    A or B 
 =====  =====  ====== 
-False  False  False 
-True   False  True 
-False  True   True 
-True   True   True 
+STRG  Alpha  Speichern 
+STRG   Beta  Drucken 
+STRG  Gamma   Speichern 
+STRG   Delta   Drucken 
 =====  =====  ======
