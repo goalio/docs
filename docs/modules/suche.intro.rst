@@ -34,7 +34,8 @@ Anwendungsbeispiele
 Weiterführendes
 ^^^^^^^^^^^^^^^^
 
-* Haben Sie einen Suchfilter angewandt, so wird er beispielsweise von der [Export-Funktion](http://goalio.de "Goalio") übernommen
+* Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der ´Export-Funktion´_ übernommen
 
 
 .. _Operator: http://goal.io
+.. _Export-Funktion: http://goal.io
