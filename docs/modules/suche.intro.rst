@@ -1,5 +1,16 @@
 # Goalio Kochbuch
 
+.. _goalio.finanzen.intro:
+
+Das goalio Finanzmodul
+======================
+
+Lorem ipsum
+
+
+.. note::
+	Ein Hinweis im Kasten.
+
 ## Die Suche
 
 ### Einleitung
