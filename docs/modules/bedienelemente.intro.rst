@@ -30,8 +30,8 @@ Tastenkürzel
    Eingaben     Ausgaben 
 ------------  ------ 
 STRG   False  False 
-True   False  True 
-False  True   True 
-True   True   True 
+Alt    False  True 
+Shift  True   True 
+Shift  True   True 
 =====  =====  ======
 
