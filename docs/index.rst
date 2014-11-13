@@ -17,8 +17,8 @@ Modul Referenz
 
 Bedienelemente
 ^^^^^^^^^^^^^^
-	* :doc:`modules/bedienungselemente.intro`
-	* :doc:`modules/bedienungselemente.suche`
+	* :doc:`modules/bedienelemente.intro`
+	* :doc:`modules/bedienelemente.suche`
 
 Finanzen
 ^^^^^^^^
