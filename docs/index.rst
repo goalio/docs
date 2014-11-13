@@ -1,4 +1,4 @@
-goalio Benutzerhandbuch
+goalio Benutzerhandbuche
 =======================
 
 .. toctree::
