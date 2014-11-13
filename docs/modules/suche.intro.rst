@@ -9,7 +9,7 @@ Einleitung
 
 Die goalio Suche ist ein nützliches Werkzeug, um Informationen gezielt schnell und übersichtlich darzustellen. Sie kann durch einen Klick auf die entsprechende Schaltfläche rechts über einer Liste aufgerufen werden und passt sich dynamisch den Gegebenheiten des Vereins an. Sollten Sie also beispielsweise zusätzliche, vereinsspezifische Daten zu jedem Mitglied speichern, ist die Suche dazu in der Lage, diese ebenfalls zu filtern.
 
-![Goalio Suche](http://karstedt.org/public/goalio/suche.png)
+.. image:: http://karstedt.org/public/goalio/suche.png
 
 Voraussetzungen
 ^^^^^^^^^^^^^^^^
