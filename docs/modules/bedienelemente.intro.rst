@@ -29,8 +29,6 @@ Tastenkürzel
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-  A      B    Funktion 
-=====  =====  ====== 
 False  False  False 
 True   False  True 
 False  True   True 
