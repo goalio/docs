@@ -15,9 +15,10 @@ Modul Referenz
 
 .. _goalio.finanzen:
 
-Suche
-^^^^^
-	* :doc:`modules/suche.intro`
+Bedienelemente
+^^^^^^^^^^^^^^
+	* :doc:`modules/bedienungselemente.intro`
+	* :doc:`modules/bedienungselemente.suche`
 
 Finanzen
 ^^^^^^^^
