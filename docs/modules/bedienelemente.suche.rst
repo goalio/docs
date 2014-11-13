@@ -16,7 +16,7 @@ Voraussetzungen
 Anwendungsbeispiele
 -------------------
 
-Wie kann ich inaktive Mitglieder ausblenden?
+I Wie kann ich inaktive Mitglieder ausblenden?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche
