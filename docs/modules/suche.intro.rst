@@ -37,5 +37,5 @@ Weiterführendes
 * Haben Sie einen Suchfilter angewendet, so wird er beispielsweise von der Export-Funktion`__ übernommen
 
 
-___ http://www.goal.io/
-__ http://www.python.org/
+.. _Operator: http://goal.io
+__ http://www.goal.io/
