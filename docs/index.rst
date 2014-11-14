@@ -27,6 +27,10 @@ Modul Referenz
 
 Kochbuch
 --------
+.. toctree::
+   :maxdepth: 2
+
+   module/intro
 
 Verzeichnisse
 =============
