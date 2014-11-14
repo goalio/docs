@@ -30,7 +30,7 @@ Kochbuch
 .. toctree::
    :maxdepth: 2
 
-   module/intro
+   kochbuch/intro
 
 Verzeichnisse
 =============
