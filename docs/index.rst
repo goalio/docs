@@ -6,23 +6,21 @@
 goalio Benutzerhandbuch
 =======================
 
-
-.. _erste-schritte:
-
 Erste Schritte mit goalio
 -------------------------
 .. toctree::
    :maxdepth: 2
-   erste-schritte
-   gui
+
+   erste-schritte/gui.intro
+   erste-schritte/gui.suche
 
 
-.. _module:
 Modul Referenz
 --------------
 .. toctree::
    :maxdepth: 2
-   finanzen
+
+   module/finanzen.intro
 
 Kochbuch
 --------
