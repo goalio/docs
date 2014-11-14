@@ -34,7 +34,7 @@ Kochbuch
 
 Verzeichnisse
 =============
-
+* :ref:`glossar`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
