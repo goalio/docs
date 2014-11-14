@@ -1,38 +1,41 @@
-goalio Benutzerhandbuchx
-=======================
-	
-.. toctree::
-   :numbered:
+.. goalio documentation master file, created by
+   sphinx-quickstart on Fri Nov 14 10:36:01 2014.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-   foo
-   bar
-   
+goalio Dokumentation
+====================
+
+Inhalt:
+
+.. toctree::
+   :maxdepth: 2
+
+
 Erste Schritte mit goalio
 -------------------------
 
-    * :doc:`getting-started/overview`
-    * :doc:`getting-started/installation`
+    * :doc:`erste-schritte/overview`
+    * :doc:`erste-schritte/gui.intro`
+    * :doc:`erste-schritte/gui.suche`
 
 Modul Referenz
 --------------
 
 .. _goalio.finanzen:
 
-Bedienelemente
-^^^^^^^^^^^^^^
-	* :doc:`modules/bedienelemente.intro`
-	* :doc:`modules/bedienelemente.suche`
-
 Finanzen
 ^^^^^^^^
-	* :doc:`modules/finanzen.intro`
-	* :doc:`modules/finanzen.beitragsberechnung`
+	* :doc:`module/finanzen.intro`
+	* :doc:`module/finanzen.beitragsberechnung`
 
 Kochbuch
 --------
-	
+
 Verzeichnisse
 =============
 
-* :doc:`index`
+* :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
+
