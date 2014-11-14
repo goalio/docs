@@ -11,6 +11,9 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
+   erste-schritte
+   module
+
 
 Erste Schritte mit goalio
 -------------------------
@@ -19,8 +22,9 @@ Erste Schritte mit goalio
     * :doc:`erste-schritte/gui.intro`
     * :doc:`erste-schritte/gui.suche`
 
-Modul Referenz
---------------
+
+Modul Dokumentation
+-------------------
 
 .. _goalio.finanzen:
 
