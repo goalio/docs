@@ -12,17 +12,17 @@ goalio Benutzerhandbuch
 Erste Schritte mit goalio
 -------------------------
 .. toctree::
-:maxdepth: 2
-        erste-schritte
-        gui
+   :maxdepth: 2
+   erste-schritte
+   gui
 
 
 .. _module:
 Modul Referenz
 --------------
 .. toctree::
-:maxdepth: 2
-       finanzen
+   :maxdepth: 2
+   finanzen
 
 Kochbuch
 --------
