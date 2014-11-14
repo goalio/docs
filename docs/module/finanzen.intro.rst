@@ -9,6 +9,7 @@ Lorem ipsum
 
 
 .. toctree::
+   :hidden:
 
    finanzen.beitraege
    finanzen.konten

@@ -12,7 +12,7 @@ goalio Benutzerhandbuch
 Erste Schritte mit goalio
 -------------------------
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    erste-schritte/benutzeroberflaeche
    erste-schritte/suche

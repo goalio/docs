@@ -1,5 +1,5 @@
-Beiträge
-========
+Konten
+======
 
 Lorem ipsum
 
