@@ -25,8 +25,10 @@ Haben Sie eine Seite geöffnet, blablubb
 
 Tastenkürzel
 ------------
-
-Test 123
+:kbd:`Strg+A`
+:kbd:`Alt+B`
+:kbd:`Shift+C`
+:kbd:`Shift+D`
 
 =====  =====  ====== 
    Eingaben     Ausgaben 

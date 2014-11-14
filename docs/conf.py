@@ -32,6 +32,7 @@ import os
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.pngmath',
+    'sphinxcontrib.httpdomain',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

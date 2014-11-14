@@ -32,10 +32,16 @@ Kochbuch
 
    kochbuch/intro
 
+Entwickler
+----------
+.. toctree::
+   :maxdepth: 1
+
+   developer/bookandplay.intro
+
 Verzeichnisse
 =============
 * :doc:`glossary`
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
