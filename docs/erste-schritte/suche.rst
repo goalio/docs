@@ -1,7 +1,5 @@
-.. _goalio.gui.suche:
-
-Die Suche
-=========
+Suche
+=====
 
 Einleitung
 ----------

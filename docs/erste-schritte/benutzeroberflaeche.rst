@@ -1,7 +1,5 @@
-.. _goalio.gui.intro:
-
-Die goalio Benutzeroberfläche
-=============================
+Benutzeroberfläche
+==================
 
 Einleitung
 ----------
