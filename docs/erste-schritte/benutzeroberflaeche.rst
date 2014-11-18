@@ -43,28 +43,17 @@ Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das Syste
 
 Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewertet werden soll. Wählt man beispielsweise *ist gleich*, so werden ausschließlich jene Ergebnisse angezeigt, die exakt mit dem Kriterium übereinstimmen. Möglich ist die Verwendung folgender Operatoren:
 
-=====  =======
-A      A and B
-=====  =======
-False  False
-True   False
-False  False
-True   True
-=====  =======
-
-Tabelle:
-
 ====================  =======
 Operator              A and B
 ====================  =======
-Beginnt mit           False
-Enthält               False
-Ist gleich            False
-Größer oder gleich    True
-Kleiner oder gleich   True
-Ist nicht gleich      True
-Nicht gesetzt         True
-Gesetzt               True
+Beginnt mit           Liefert alle Ergebnisse, die mit dem Kriterium beginnen (Mus **>** Mustermann, Muse)
+Enthält               Liefert alle Ergebnisse, die das Kriterium enthalten (ster **>** Mustermann, Holstern)
+Ist gleich            Liefert alle Ergebnisse, die identisch mit dem Kriterium sind (Mustermann **>** Mustermann)
+Größer oder gleich    (Bei Datumsangaben) Liefert Kriterium und alle Tage danach (01. Januar **>** 01. Jan., 02. Jan., 03. Jan., ...)
+Kleiner oder gleich   (Bei Datumsangaben) Liefert Kriterium und alle Tage davor (03. Januar **>** 03. Jan., 02. Jan., 01. Jan., ...)
+Ist nicht gleich      (Bei Datumsangaben) Liefert alles, ausser Kriterium (02. Januar **>** 01. Jan., 03. Jan., ...)
+Nicht gesetzt         Liefert alle Ergebnisse, bei denen keine Informationen zu diesem Feld vorliegen
+Gesetzt               Liefert alle Ergebnisse, bei denen Informationen zu diesem Feld vorliegen
 ====================  =======
 
 .. image:: ../images/gui/suche/operator.png
