@@ -18,6 +18,13 @@ Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sic
 	
 .. _hier: http://www.enable-javascript.com/de/
 
+Komponenten
+------------
+
+In goalio werden unterschiedliche Techniken angewandt, um Daten intuitiv und übersichtlich darzustellen. Die wichtigste Elemente dabei sind Fenster und Reiter.
+
+.. image:: ../images/gui/intro/reiter.png
+
 Vorschaufunktion
 ----------------
 
