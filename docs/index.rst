@@ -6,38 +6,51 @@
 
 .. _contents:
 
-goalio Benutzerhandbuch
-=======================
+Überblick
+=========
 
 Erste Schritte mit goalio
 -------------------------
+Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
+
 .. toctree::
    :maxdepth: 1
-
-   erste-schritte/benutzeroberflaeche
-   erste-schritte/suche
+   erste-schritte/index
 
 
 Modul Referenz
 --------------
+In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
+
 .. toctree::
    :maxdepth: 2
 
-   module/finanzen.intro
+   module/finanzen/index
+
 
 Kochbuch
 --------
+Im goalio Kochbuch finden sie Rezepte für ihre täglichen und nicht so alltäglichen Aufgaben.
+Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
+
 .. toctree::
    :maxdepth: 2
 
-   kochbuch/intro
+   kochbuch/index
+
 
 Entwickler
 ----------
 .. toctree::
    :maxdepth: 1
 
-   developer/bookandplay.intro
+   developer/index
+
+
+Sie benötigen Hilfe?
+====================
+
+
 
 Verzeichnisse
 =============
