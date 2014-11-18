@@ -1,5 +1,5 @@
-Book and Play
-=============
+BookAndPlay
+===========
 
 .. toctree::
    :maxdepth: 2

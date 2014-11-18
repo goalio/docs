@@ -44,7 +44,7 @@ Entwickler
 .. toctree::
    :maxdepth: 1
 
-   developer/index
+   developer/bookandplay/index
 
 
 Sie benötigen Hilfe?
