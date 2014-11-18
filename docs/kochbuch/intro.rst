@@ -2,7 +2,7 @@ Kochbuch
 ========
 
 Im goalio Kochbuch finden sie Rezepte für ihre täglichen und nicht so alltäglichen Aufgaben.
-Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel wie Sie am besten vorgehen.
+Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
 
 
 .. toctree::
