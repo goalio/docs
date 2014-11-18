@@ -54,14 +54,18 @@ True   True
 
 Tabelle:
 
-============  =======
-Operator      A and B
-============  =======
-Beginnt mit   False
-True          False
-False         False
-True          True
-============  =======
+====================  =======
+Operator              A and B
+====================  =======
+Beginnt mit           False
+Enthält               False
+Ist gleich            False
+Größer oder gleich    True
+Kleiner oder gleich   True
+Ist nicht gleich      True
+Nicht gesetzt         True
+Gesetzt               True
+====================  =======
 
 .. image:: ../images/gui/suche/operator.png
 
