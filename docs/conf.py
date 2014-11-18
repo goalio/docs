@@ -114,6 +114,9 @@ html_theme_options = {
     "show_source" : "False"
 }
 
+display_github = False
+show_source = False
+
 # Add any paths that contain custom themes here, relative to this directory.
 html_theme_path = ['_themes']
 
