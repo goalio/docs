@@ -23,12 +23,7 @@ Komponenten
 
 In goalio werden unterschiedliche Techniken angewandt, um Daten intuitiv und übersichtlich darzustellen. Die wichtigste Elemente dabei sind Fenster und Reiter.
 
-Fenster
-^^^^^^^
-
-Ein Fenster (bzw. Formular) öffnet sich, sobald Sie doppelt auf einen Datensatz klicken. Habenwifeneiwnfewijfdsk
-
-.. image:: ../images/gui/intro/fenster.png
+.. image:: ../images/gui/intro/reiter.png
 
 Vorschaufunktion
 ----------------
