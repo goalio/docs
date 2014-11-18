@@ -43,13 +43,13 @@ Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das Syste
 
 Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewertet werden soll. Wählt man beispielsweise *ist gleich*, so werden ausschließlich jene Ergebnisse angezeigt, die exakt mit dem Kriterium übereinstimmen. Möglich ist die Verwendung folgender Operatoren:
 
-==========  ====== 
-   Eingaben     Funktion 
-------------  ------ 
-STRGSTRGx  speichert aktuelle Änderungen 
-STRGSTRGx  kopiert markierte Eingabe 
-STRGSTRGx  fügt kopierte Eingabe ein 
-==========  ======
++--------+------+ 
+| nombre | edad | 
++========+======+ 
+| pepe   | 28   | 
++--------+------+ 
+| toto   | 29   | 
++--------+------+ 
 
 .. image:: ../images/gui/suche/operator.png
 
