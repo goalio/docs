@@ -52,6 +52,17 @@ False  False
 True   True
 =====  =======
 
+Tabelle:
+
+========  =======
+Operator  A and B
+========  =======
+False     False
+True      False
+False     False
+True      True
+========  =======
+
 .. image:: ../images/gui/suche/operator.png
 
 Vorschaufunktion
