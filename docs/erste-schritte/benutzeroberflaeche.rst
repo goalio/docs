@@ -31,11 +31,11 @@ Tastenkürzel
 :kbd:`Shift+D`
 
 =====  =====  ====== 
-   Eingaben     Ausgaben 
+   Eingaben     Funktion 
 ------------  ------ 
-STRG   S      Speichert aktuelle Änderungen 
-ESC           Schließt das aktive Fenster / den Vorschau-Bereich 
-Shift  C      Speichern 
-Shift  D      Neu 
+STRG   S      speichert aktuelle Änderungen 
+STRG   C      kopiert markierte Eingabe 
+STRG   V      fügt kopierte Eingabe ein 
+ESC           schließt aktives Fenster / den Vorschau-Bereich 
 =====  =====  ======
 
