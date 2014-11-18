@@ -185,6 +185,8 @@ html_show_sphinx = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'goaliodoc'
 
+html_style = 'foo'
+
 
 # -- Options for LaTeX output ---------------------------------------------
 
