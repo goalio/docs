@@ -22,9 +22,13 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 **Über die Mitgliederliste**
 
 1. Doppelklicken Sie in der Mitgliederliste auf das entsprechende Mitglied
+
 1. Öffnen Sie im neuen Fenster_ den Reiter_ *Beiträge*
+
 1. Klicken Sie auf die Schaltfläche *Neu*
-1. Legen Sie im neuen Fenster fest, welcher Beitrag ab wann (gegebenenfalls bis wann) zu zahlen ist
+
+1. Legen Sie im neuen Fenster fest, welcher Beitrag ab wann (gegebenenfalls biswann) zu zahlen ist
+
 1. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
 
 **Über die Beitragsseite**
