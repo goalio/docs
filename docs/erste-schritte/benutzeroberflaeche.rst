@@ -50,7 +50,7 @@ Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewer
 |                    |                    |
 +--------------------+--------------------+
 |                    |                    |
-|        d           |          d         |
+|        Kannich          |          d         |
 |                    |                    |
 +--------------------+--------------------+
 
