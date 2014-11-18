@@ -4,7 +4,7 @@ Kochbuch
 Lorem ipsum dolor sit amet
 
 Mitglieder
-=========
+----------
  .. toctree::
     :numbered:
 
@@ -13,7 +13,7 @@ Mitglieder
 
 
 Zahlungen
-=========
+---------
 
  .. toctree::
     :numbered:
