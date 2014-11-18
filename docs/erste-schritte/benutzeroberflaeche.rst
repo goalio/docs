@@ -23,7 +23,7 @@ Vorschaufunktion
 
 Haben Sie eine Datenübersicht (Mitgliederliste,  Abteilungsliste, ...) geöffnet, so können Sie durch Klick auf einen der Einträge die Vorschaufunktion aufrufen. Diese erscheint dann am rechten Bildschirmrand und stellt die wichtigsten Daten und Funktionen zum ausgewählten Datensatz übersichtlich dar.
 
-Wahlweise können Sie zusätzlich zur Vorschaufunktion das Bearbeiten-Fenster öffnen. Auf diese Weise getätigte Änderungen
+Wahlweise können Sie zusätzlich zur Vorschaufunktion das Bearbeiten-Fenster öffnen. Auf diese Weise getätigte Änderungen werden direkt von der Vorschau-Funktion übernommen.
 
 .. image:: ../images/gui/intro/vorschaufunktion.png
 
