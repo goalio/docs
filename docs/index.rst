@@ -24,8 +24,24 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
    Erste Schritte <erste-schritte/index>
 
 
-Modul Referenz
---------------
+Kochbuch
+--------
+Im goalio Kochbuch finden sie Rezepte für ihre täglichen und nicht so alltäglichen Aufgaben.
+Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
+Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentation.
+
+* :doc:`Mitglieder <kochbuch/index>`
+* :doc:`Beiträge <kochbuch/index>`
+
+.. toctree::
+:hidden:
+       :maxdepth: 2
+
+       Kochbuch (Wie mache was?) <kochbuch/index>
+
+
+Modul-Dokumentation
+-------------------
 In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
 
 * :doc:`module/finanzen/index`
@@ -37,19 +53,7 @@ In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen 
    module/finanzen/index
 
 
-Kochbuch
---------
-Im goalio Kochbuch finden sie Rezepte für ihre täglichen und nicht so alltäglichen Aufgaben.
-Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
 
-* :doc:`Mitglieder <kochbuch/index>`
-* :doc:`Beiträge <kochbuch/index>`
-
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   kochbuch/index
 
 
 Entwickler
