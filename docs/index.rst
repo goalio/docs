@@ -14,7 +14,8 @@ Erste Schritte mit goalio
 Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+
    erste-schritte/index
 
 
@@ -42,7 +43,7 @@ Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am
 Entwickler
 ----------
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    developer/bookandplay/index
 

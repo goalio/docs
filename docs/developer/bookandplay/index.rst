@@ -4,6 +4,6 @@ BookAndPlay
 .. toctree::
    :maxdepth: 2
 
-   bookandplay.authentication
-   bookandplay.spieler
-   bookandplay.buchung
+   authentication
+   spieler
+   buchung
