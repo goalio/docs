@@ -34,10 +34,10 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
 * :doc:`Beiträge <kochbuch/index>`
 
 .. toctree::
-:hidden:
-       :maxdepth: 2
+   :hidden:
+   :maxdepth: 2
 
-       Kochbuch (Wie mache was?) <kochbuch/index>
+   Kochbuch (Wie mache was?) <kochbuch/index>
 
 
 Modul-Dokumentation
@@ -51,8 +51,6 @@ In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen 
    :maxdepth: 2
 
    module/finanzen/index
-
-
 
 
 
