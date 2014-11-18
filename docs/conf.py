@@ -15,6 +15,7 @@
 
 import sys
 import os
+import sphinx_bootstrap_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -101,6 +102,11 @@ pygments_style = 'sphinx'
 
 # -- Options for HTML output ----------------------------------------------
 
+import sphinx_bootstrap_theme
+# Activate the theme.
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #html_theme = 'goalio'
@@ -110,15 +116,10 @@ pygments_style = 'sphinx'
 # documentation.
 html_theme_options = {
     "sticky_navigation" : "true",
-    "display_github" : "False",
-    "show_source" : "False"
 }
 
-display_github = False
-show_source = False
-
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['_themes']
+#html_theme_path = ['_themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
