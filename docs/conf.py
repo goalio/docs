@@ -109,7 +109,7 @@ html_theme = 'default'
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    "sticky_navigation" : "true"
+  #  "sticky_navigation" : "true"
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
@@ -185,7 +185,7 @@ html_show_sphinx = False
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'goaliodoc'
 
-html_style = 'foo'
+html_style = ''
 
 
 # -- Options for LaTeX output ---------------------------------------------
