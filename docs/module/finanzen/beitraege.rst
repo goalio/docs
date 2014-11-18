@@ -34,11 +34,15 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 
 **Über die Beitragsseite**
 
-	1. Doppelklicken Sie auf der *Beiträge*-Seite auf den entsprechenden Beitrag
-	2. Öffnen Sie im neuen Fenster_ den Reiter_ *Zahler*
-	3. Klicken Sie auf die Schaltfläche *Neu*
-	4. Legen Sie im neuen Fenster fest, ab wann (gegebenenfalls bis wann) der Beitrag für welches Mitglied zahlungsfällig ist
-	5. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
+1. Doppelklicken Sie auf der *Beiträge*-Seite auf den entsprechenden Beitrag
+
+2. Öffnen Sie im neuen Fenster_ den Reiter_ *Zahler*
+
+3. Klicken Sie auf die Schaltfläche *Neu*
+
+4. Legen Sie im neuen Fenster fest, ab wann (gegebenenfalls bis wann) der Beitrag für welches Mitglied zahlungsfällig ist
+
+5. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
 
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
