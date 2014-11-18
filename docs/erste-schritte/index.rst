@@ -5,6 +5,7 @@ Lorem ipsum
 
 
 .. toctree::
+   :hidden:
 
    benutzeroberflaeche
    suche

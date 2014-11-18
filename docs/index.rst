@@ -40,9 +40,11 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
    Kochbuch (Wie mache was?) <kochbuch/index>
 
 
-Modul-Dokumentation
--------------------
-In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
+Module
+------
+Hier finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
+In diesem Nachschlagewerk werden die Module im Detail beschrieben.
+Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen die Ihre Arbeit erleichtern.
 
 * :doc:`module/finanzen/index`
 
@@ -50,7 +52,7 @@ In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen 
    :hidden:
    :maxdepth: 2
 
-   module/finanzen/index
+   Finanz-Modul <module/finanzen/index>
 
 
 
@@ -68,6 +70,9 @@ Entwickler
 
 Sie benötigen Hilfe?
 ====================
+Sie haben ein konkretes Problem? Sie finden in der Hilfe keine Antwort auf Ihre Frage?
+Dann schreiben Sie uns einfach eine Mail oder rufen uns an!
+
 
 
 
