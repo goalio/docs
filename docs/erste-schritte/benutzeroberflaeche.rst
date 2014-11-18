@@ -44,7 +44,7 @@ Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das Syste
 Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewertet werden soll. Wählt man beispielsweise *ist gleich*, so werden ausschließlich jene Ergebnisse angezeigt, die exakt mit dem Kriterium übereinstimmen. Möglich ist die Verwendung folgender Operatoren:
 
 +--------+------+ 
-| nombre | edad | 
+| Operator | edad | 
 +========+======+ 
 | pepe   | 28   | 
 +--------+------+ 
