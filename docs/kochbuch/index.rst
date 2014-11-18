@@ -1,6 +1,8 @@
-Mitglieder
-==========
+Kochbuch
+========
 
+Mitglieder
+----------
  .. toctree::
     :numbered:
 
@@ -9,7 +11,7 @@ Mitglieder
 
 
 Zahlungen
-=========
+---------
 
  .. toctree::
     :numbered:
