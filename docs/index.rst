@@ -13,17 +13,25 @@ Erste Schritte mit goalio
 -------------------------
 Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
 
+* :doc:`erste-schritte/index`
+* :doc:`erste-schritte/benutzeroberflaeche`
+* :doc:`erste-schritte/suche`
+
 .. toctree::
+   :hidden:
    :maxdepth: 2
 
-   erste-schritte/index
+   Erste Schritte <erste-schritte/index>
 
 
 Modul Referenz
 --------------
 In der Refenzdokumentation finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
 
+* :doc:`module/finanzen/index`
+
 .. toctree::
+   :hidden:
    :maxdepth: 2
 
    module/finanzen/index
@@ -34,7 +42,11 @@ Kochbuch
 Im goalio Kochbuch finden sie Rezepte für ihre täglichen und nicht so alltäglichen Aufgaben.
 Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
 
+* :doc:`Mitglieder <kochbuch/index>`
+* :doc:`Beiträge <kochbuch/index>`
+
 .. toctree::
+   :hidden:
    :maxdepth: 2
 
    kochbuch/index
@@ -42,10 +54,14 @@ Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am
 
 Entwickler
 ----------
+
+* :doc:`Schnittstelle zu BookAndPlay <developer/bookandplay/index>`
+
 .. toctree::
+   :hidden:
    :maxdepth: 2
 
-   developer/bookandplay/index
+   developer/index
 
 
 Sie benötigen Hilfe?
