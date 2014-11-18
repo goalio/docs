@@ -57,7 +57,7 @@ Tabelle:
 ============  =======
 Operator      A and B
 ============  =======
-Beginnt mit  False
+Beginnt mit   False
 True          False
 False         False
 True          True
