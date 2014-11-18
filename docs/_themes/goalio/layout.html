@@ -38,8 +38,12 @@
     <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
   {% endif %}
 
+    {% if READTHEDOCS %}
+    <link rel="stylesheet" href="foo" type="text/css" />
+    {% endif %}
+
   {% for cssfile in css_files %}
-    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" type="text/css" />
+    <link rel="stylesheet" href="{{ pathto(cssfile, 1) }}" bla="blub" type="text/css" />
   {% endfor %}
 
   {%- block linktags %}
