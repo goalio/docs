@@ -23,7 +23,7 @@ Komponenten
 
 In goalio werden unterschiedliche Techniken angewandt, um Daten intuitiv und übersichtlich darzustellen. Die wichtigsten Komponenten bilden dabei Fenster und Reiter.
 
-Ein Fenster (bzw. Formular oder Dialog) öffnet sich bei einem Doppelklick auf einen Datensatz, welcher daraufhin in der Regel bearbeitet werden kann. Ist das Fenster durch ein horizontales Menü in unterschiedliche Abschnitte gegliedert, so spricht man von Reitern (oder Tabs). Betrachtet man also beispielsweise die Mitgliederliste, so handelt es sich bei einem Mitglied um einen Datensatz, und bei den Abschnitten *Adresse*, *Zahlung* oder *Aufgaben* um Reiter.
+Ein Fenster (bzw. Formular oder Dialog) öffnet sich bei einem Doppelklick auf einen Datensatz, welcher daraufhin in der Regel bearbeitet werden kann. Ist das Fenster durch ein horizontales Menü in unterschiedliche Abschnitte gegliedert, so spricht man von Reitern (oder Tabs). Betrachtet man also die Mitgliederliste, so handelt es sich bei einem Mitglied um einen Datensatz, und bei den Abschnitten *Adresse*, *Zahlung* oder *Aufgaben* um Reiter.
 
 .. image:: ../images/gui/intro/reiter.png
 
@@ -32,7 +32,7 @@ Vorschaufunktion
 
 Haben Sie eine Datenübersicht (Mitgliederliste,  Abteilungsliste, ...) geöffnet, so können Sie durch Klick auf einen der Einträge die Vorschaufunktion aufrufen. Diese erscheint am rechten Bildschirmrand und stellt die wichtigsten Daten und Funktionen zum ausgewählten Datensatz übersichtlich dar.
 
-Sollten Sie zusätzlich dazu den *Bearbeiten*-Dialog öffnen und Änderungen vornehmen, so werden diese nach dem Speichern von der Vorschau-Funktion übernommen.
+Sollten Sie zusätzlich dazu das *Bearbeiten*-Fenster öffnen und Änderungen vornehmen, so werden diese nach dem Speichern von der Vorschau-Funktion übernommen.
 
 .. image:: ../images/gui/intro/vorschaufunktion.png
 
