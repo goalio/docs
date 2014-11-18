@@ -21,11 +21,37 @@ Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sic
 Komponenten
 ------------
 
-In goalio werden unterschiedliche Techniken angewandt, um Daten intuitiv und übersichtlich darzustellen. Die wichtigsten Komponenten bilden dabei Fenster und Reiter.
+In goalio werden unterschiedliche Techniken angewandt, um Daten intuitiv und übersichtlich darzustellen. Folgende Komponenten stellen dabei die wichtigsten dar:
 
-Ein Fenster (bzw. Formular oder Dialog) öffnet sich bei einem Doppelklick auf einen Datensatz, welcher daraufhin in der Regel bearbeitet werden kann. Ist das Fenster durch ein horizontales Menü in unterschiedliche Abschnitte gegliedert, so spricht man von Reitern (oder Tabs). Betrachtet man also die Mitgliederliste, so handelt es sich bei einem Mitglied um einen Datensatz, und bei den Abschnitten *Adresse*, *Zahlung* oder *Aufgaben* um Reiter.
+**Fenster**
+
+Ein Fenster (bzw. Formular oder Dialog) öffnet sich in der Regel bei einem Doppelklick auf einen Datensatz (also beispielsweise ein Mitglied in der Mitgliederliste), welcher daraufhin in der Regel bearbeitet werden kann.
+
+**Reiter**
+
+Ist ein Fenster durch ein horizontales Menü in unterschiedliche Abschnitte gegliedert, so spricht man von Reitern (oder Tabs). Betrachtet man also die Mitgliederliste, so handelt es sich bei einem Mitglied um einen Datensatz, beim Bearbeiten-Formular um ein Fenster, und bei den dortigen Abschnitten *Adresse*, *Zahlung* oder *Aufgaben* um Reiter.
 
 .. image:: ../images/gui/intro/reiter.png
+
+**Schaltflächen**
+
+Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das System anweisen, eine bestimmte Operation auszuführen. Beispiele hierfür sind die Schaltflächen *Speichern*, *Löschen* oder auch *Suche*.
+
+.. image:: ../images/gui/suche/schaltflächen.png
+
+**Operatoren**
+
+Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewertet werden soll. Wählt man beispielsweise *ist gleich*, so werden ausschließlich jene Ergebnisse angezeigt, die exakt mit dem Kriterium übereinstimmen. Möglich ist die Verwendung folgender Operatoren:
+
+========== ====== 
+   Eingaben     Funktion 
+------------  ------ 
+STRGSTRGx  speichert aktuelle Änderungen 
+STRGSTRGx  kopiert markierte Eingabe 
+STRGSTRGx  fügt kopierte Eingabe ein 
+==========  ======
+
+.. image:: ../images/gui/suche/operator.png
 
 Vorschaufunktion
 ----------------
