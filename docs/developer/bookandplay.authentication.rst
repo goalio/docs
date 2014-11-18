@@ -37,3 +37,5 @@ Authentifizierung
    :>json string scope: Token ist gültig für diese Scopes
    :statuscode 200: Kein Error
    :statuscode 404: there's no user
+
+   .. image:: ../images/bookandplay/authentification.png
