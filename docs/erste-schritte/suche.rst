@@ -32,4 +32,4 @@ I) Wie kann ich inaktive Mitglieder ausblenden?
 .. note::
 	Haben Sie einen Suchfilter aktiviert, so wird er beispielsweise von der Exportfunktion übernommen.
 
-.. _Operator: /benutzeroberflaeche.html
+.. _Operator: /de/latest/erste-schritte/benutzeroberflaeche.html
