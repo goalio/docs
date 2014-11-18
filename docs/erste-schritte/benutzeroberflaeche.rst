@@ -21,7 +21,11 @@ Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sic
 Vorschaufunktion
 ----------------
 
-Haben Sie eine Seite geöffnet, blablubb
+Haben Sie eine Datenübersicht (Mitgliederliste,  Abteilungsliste, ...) geöffnet, so können Sie durch Klick auf einen der Einträge die Vorschaufunktion aufrufen. Diese erscheint dann am rechten Bildschirmrand und stellt die wichtigsten Daten und Funktionen zum ausgewählten Datensatz übersichtlich dar.
+
+Wahlweise können Sie zusätzlich zur Vorschaufunktion das Bearbeiten-Fenster öffnen. Auf diese Weise getätigte Änderungen
+
+.. image:: ../images/gui/intro/vorschaufunktion.png
 
 Tastenkürzel
 ------------
