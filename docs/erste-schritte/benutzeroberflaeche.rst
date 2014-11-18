@@ -37,7 +37,7 @@ Ist ein Fenster durch ein horizontales Menü in unterschiedliche Abschnitte gegl
 
 Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das System anweisen, eine bestimmte Operation auszuführen. Beispiele hierfür sind die Schaltflächen *Speichern*, *Löschen* oder auch *Suche*.
 
-.. image:: ../images/gui/suche/schaltflächen.png
+.. image:: ../images/gui/suche/schaltflaechen.png
 
 **Operatoren**
 
