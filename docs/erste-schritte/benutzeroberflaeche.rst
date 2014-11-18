@@ -25,10 +25,10 @@ Haben Sie eine Seite geöffnet, blablubb
 
 Tastenkürzel
 ------------
-:kbd:`Strg+A`
-:kbd:`Alt+B`
-:kbd:`Shift+C`
-:kbd:`Shift+D`
+:kbd:`Strg+S`
+:kbd:`Alt+C`
+:kbd:`Shift+V`
+:kbd:`ESC`
 
 =====  =====  ====== 
    Eingaben     Funktion 
