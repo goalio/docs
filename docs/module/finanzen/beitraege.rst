@@ -17,7 +17,7 @@ Um einen neuen Beitrag anzulegen, öffnen Sie die Seite *Beiträge* aus dem Men�
 Zuordnen von Beiträgen
 ----------------------
 
-Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beitragsseite im Reiter_ *Zahler* eingestellt werden, als auch in der Mitgliederliste individuell festgelegt werden.
+Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beitragsseite im Reiter_ *Zahler* eingestellt werden, als auch in der Mitgliederliste festgelegt werden.
 
 **Über die Mitgliederliste**
 
