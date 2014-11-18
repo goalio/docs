@@ -20,6 +20,7 @@ Zuordnen von Beiträgen
 Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beitragsseite im Reiter_ *Zahler* eingestellt werden, als auch in der Mitgliederliste individuell festgelegt werden.
 
 **Über die Mitgliederliste**
+
 1. Doppelklicken Sie in der Mitgliederliste auf das entsprechende Mitglied
 1. Öffnen Sie im neuen Fenster_ den Reiter_ *Beiträge*
 1. Klicken Sie auf die Schaltfläche *Neu*
@@ -27,6 +28,7 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 1. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
 
 **Über die Beitragsseite**
+
 1. Doppelklicken Sie auf der *Beiträge*-Seite auf den entsprechenden Beitrag
 1. Öffnen Sie im neuen Fenster_ den Reiter_ *Zahler*
 1. Klicken Sie auf die Schaltfläche *Neu*
