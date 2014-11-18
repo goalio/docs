@@ -33,8 +33,8 @@ Tastenkürzel
 =====  =====  ====== 
    Eingaben     Ausgaben 
 ------------  ------ 
-STRG   A      Drucken 
-Alt    B      Löschen 
+STRG   S      Speichert aktuelle Änderungen 
+ESC           Schließt das aktive Fenster / den Vorschau-Bereich 
 Shift  C      Speichern 
 Shift  D      Neu 
 =====  =====  ======
