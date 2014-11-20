@@ -10,7 +10,7 @@ Mitglieder
 
     Wie lege ich Mitgliedsbeiträge fest? <beitraege>
     Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
-    Wie lasse ich eine Mitgliedschaft temporär ruhen? <ruhende-mitgliedschaft>
+    Ruhende Mitgliedschaften <ruhende-mitgliedschaft>
 
 
 Zahlungen
