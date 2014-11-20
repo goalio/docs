@@ -15,15 +15,7 @@ I) Wie lasse ich eine Mitgliedschaft ruhen?
 II) Wie blende ich ruhende Mitglieder aus?
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.	Öffnen Sie die Suche durch einen Klick auf die entsprechende Schaltfläche
-
-	.. image:: ../images/gui/suche/suche-button.png
-
-2.	Gehen Sie in das Feld Kündigungsdatum, geben Sie das aktuelle Datum ein und wählen Sie als Operator_ *größer oder gleich* aus. Dadurch werden nur jene Mitglieder dargestellt, deren Kündigungsdatum entweder in der Zukunft liegt, oder nicht eingetragen wurde.  
-
-	.. image:: ../images/gui/suche/operator.png
-  
-3.	Die Mitgliederliste sollte sich nun automatisch aktualisieren und die Suche kann geschlossen werden.
+folgt
 
 .. _Operator: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
