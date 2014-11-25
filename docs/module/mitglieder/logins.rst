@@ -11,7 +11,7 @@ Logins erstellen
 
 1. Um einen Login zu erstellen, doppeklicken Sie auf das entsprechende Mitglied in der Mitgliederliste
 
-2. Wählen Sie aus dem Reiter_ *Login* die Referenz *Benutzer* aus
+2. Wählen Sie aus dem Listenmenü_ im Reiter_ *Login* die Referenz *Benutzer* aus
 
 3. Geben Sie in der neuen Maske die E-Mail Adresse des Mitglieds ein, zu welcher die Zugangsdaten gesendet werden sollen
 
@@ -20,3 +20,4 @@ Logins erstellen
 5. Sobald Sie Ihre Einstellungen gespeichert haben, wird dem Mitglied eine E-Mail Adresse mit den Zugangsdaten gesendet - das Passwort wird hierbei automatisch generiert
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html
