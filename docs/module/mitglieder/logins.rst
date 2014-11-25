@@ -19,5 +19,16 @@ Logins erstellen
 
 5. Sobald Sie Ihre Einstellungen gespeichert haben, wird dem Mitglied eine E-Mail Adresse mit den Zugangsdaten gesendet - das Passwort wird hierbei automatisch generiert
 
+
+Logins deaktivieren
+-------------------
+
+1. Um den Zugang eines Mitglieds zu goalio zu deaktivieren, doppelklicken Sie auf das jeweilige Mitglied in der Mitgliederliste
+
+2. Wählen Sie den Reiter_ *Login* aus und stellen Sie als Status *Inaktiv* ein
+
+3. Nachdem Sie diese Änderung gespeichert haben, sollte sich das Mitglied nicht mehr einloggen können
+
+
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html
