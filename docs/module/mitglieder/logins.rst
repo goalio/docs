@@ -27,7 +27,9 @@ Logins deaktivieren
 
 2. Wählen Sie den Reiter_ *Login* aus und stellen Sie als Status *Inaktiv* ein
 
-3. Nachdem Sie diese Änderung gespeichert haben, sollte sich das Mitglied nicht mehr einloggen können
+3. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche_
+
+4. Das entsprechende Mitglied sollte sich nun nicht mehr einloggen können
 
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
