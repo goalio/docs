@@ -15,7 +15,7 @@ Eine Mitgliedschaft ruhen lassen
 Ruhende Mitgliedschaften ausblenden
 -----------------------------------
 
-Möchten Sie ruhende Mitgliedschaften ausblenden, um die Mitgliederliste geordneter zu gestalten, so können sie wiefolgt vorgehen:
+Möchten Sie ruhende Mitgliedschaften ausblenden, um die Mitgliederliste geordneter zu gestalten, so können sie wie folgt vorgehen:
 
 1. Öffnen Sie die Suche_ durch betätigen der entsprechenden Schaltfläche_ in der Mitgliederliste
 
