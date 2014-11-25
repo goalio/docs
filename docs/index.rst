@@ -37,7 +37,7 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
    :hidden:
    :maxdepth: 2
 
-   Kochbuch (Wie mache was?) <kochbuch/index>
+   Kochbuch (Anwendungsbeispiele) <kochbuch/index>
 
 
 Module
