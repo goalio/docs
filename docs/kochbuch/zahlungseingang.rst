@@ -18,6 +18,6 @@ Hat ein Mitglied seinen Beitrag auf das Vereinskonto eingezahlt, so muss dies au
 7. Das Beitragskonto beziehungsweise der Saldo berechnet sich nun automatisch neu und das Fenster kann geschlossen werden
 
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html
-.. _Dialog: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Bearbeiten-Dialog: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
