@@ -14,7 +14,7 @@ Anlegen eines Mitglieds
 2. Geben Sie im neuen Fenster zunächst alle Ihnen bekannten Daten (Name, Vorname, Adresse, ...) des Mitglieds ein und hinterlegen Sie direkt eine Mitgliedsnummer
 
 
-.. admonition::
+.. warning::
 	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Beachten Sie auch, dass sich diese nachträglich nicht mehr ändern lässt.
 
 
