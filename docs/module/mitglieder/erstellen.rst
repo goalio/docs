@@ -11,11 +11,12 @@ Anlegen eines Mitglieds
 
 1. Um ein neues Mitglied anzulegen, öffnen Sie die Mitgliederliste und klicken Sie links über der Tabelle auf die Schaltfläche_ *Neu*
 
-2. Geben Sie im neuen Fenster zunächst alle Ihnen bekannten Daten (Name, Vorname, Adresse, ...) des Mitglieds ein und hinterlegen Sie direkt eine Mitgliedsnummer
+2. Geben Sie im neuen Fenster zunächst alle Ihnen bekannten Daten (Name, Vorname, Adresse, ...) des Mitglieds ein und hinterlegen Sie eine Mitgliedsnummer
 
+3.
 
-.. warning::
-	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Beachten Sie auch, dass sich diese nachträglich nicht mehr ändern lässt.
+.. note::
+	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert.
 
 
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
