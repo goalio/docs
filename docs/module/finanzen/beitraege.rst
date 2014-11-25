@@ -44,5 +44,10 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 
 5. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
 
+Das Beitragskonto
+------------------
+
+Das Beitragskonto eines jeden Mitglieds ist die individuelle Übersicht aller anfallenden Gebühren, Beiträge, erfolgten Einzahlungen und sonstigen Transaktionen.
+
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
