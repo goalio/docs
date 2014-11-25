@@ -39,16 +39,15 @@ Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das Syste
 
 .. image:: ../images/gui/schaltflaechen.png
 
-**Operatoren**
-
-Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewertet werden soll. Wählt man beispielsweise *ist gleich*, so werden ausschließlich jene Ergebnisse angezeigt, die exakt mit dem Kriterium übereinstimmen. Möglich ist die Verwendung folgender Operatoren:
-
 **Auswahl-Menüs**
 
 Auswahl-Menüs (auch Dropdown-Menüs oder Listenmenüs) sind eine platzsparende Möglichkeit, mehrere Listenpunkte verschachtelt darzustellen. Sie öffnen sich erst, sobald sich der Mauszeiger auf der dafür vorgesehenen Fläche befindet.
 
 .. image:: ../images/gui/dropdown-menu.png
 
+**Operatoren**
+
+Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewertet werden soll. Wählt man beispielsweise *ist gleich*, so werden ausschließlich jene Ergebnisse angezeigt, die exakt mit dem Kriterium übereinstimmen. Möglich ist die Verwendung folgender Operatoren:
 
 ====================  =======
 Operator              Wirkungsweise
