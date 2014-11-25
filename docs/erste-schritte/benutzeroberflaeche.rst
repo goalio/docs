@@ -45,7 +45,7 @@ Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewer
 
 **Auswahl-Menüs**
 
-Auswahl-Menüs (auch Dropdown-Menüs oder Listenmenüs) sind eine platzsparende Möglichkeit, mehrere Listenpunkte verschachtelt anzuzeigen.
+Auswahl-Menüs (auch Dropdown-Menüs oder Listenmenüs) sind eine platzsparende Möglichkeit, mehrere Listenpunkte verschachtelt darzustellen. Sie öffnen sich erst, sobald sich der Mauszeiger auf der dafür vorgesehenen Fläche befindet.
 
 .. image:: ../images/gui/dropdown-menu.png
 
