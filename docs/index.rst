@@ -52,6 +52,7 @@ Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen 
    :hidden:
    :maxdepth: 2
 
+   Mitglieder-Modul <module/mitglieder/index>
    Finanz-Modul <module/finanzen/index>
 
 
