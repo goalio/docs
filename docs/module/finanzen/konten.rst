@@ -1,15 +1,7 @@
-Konten
-======
+Das Beitragskonto
+=================
 
-Lorem ipsum
+Einleitung
+----------
 
-
-Foo
----
-
-bar
----
-
-baz
----
-
+Das Beitragskonto eines jeden Mitglieds ist die individuelle Übersicht über alle anfallenden Gebühren, zu zahlenden Beiträge und erfolgten Einzahlungen. So hat die Vereinsverwaltung direkt alle relevanten Transaktionen eines Mitglieds einfach und schnell im Blick.
