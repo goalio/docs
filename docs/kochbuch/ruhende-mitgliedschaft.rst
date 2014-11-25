@@ -12,11 +12,6 @@ Wie lasse ich eine Mitgliedschaft ruhen?
 
 3. Geben Sie an, wieso und wie lange die Mitgliedschaft ausgesetzt werden soll, und speichern Sie Ihre Eingabe durch betätigen der entsprechenden Schaltfläche_
 
-Wie blende ich ruhende Mitglieder aus?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-folgt
-
 .. _Operator: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
