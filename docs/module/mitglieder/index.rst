@@ -8,3 +8,4 @@ Das Herzstück eines Vereins wird durch seine Mitglieder gebildet, welche zentra
 
    erstellen
    logins
+   ruhende-mitgliedschaft
