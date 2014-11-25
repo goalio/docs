@@ -24,7 +24,19 @@ Anlegen eines Mitglieds
 .. warning::
 	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Beachten Sie auch, dass sich diese im Nachhinein nicht mehr ändern lässt.
 
+Welche Daten sind notwendig?
+----------------------------
 
-.. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
+Minimum
+^^^^^^^
+
+Das absolute Minimum, welches für ein Mitglied hinterlegt werden muss, ist der Nachname. In Kombination mit der (ggf. generierten) Mitgliedernummer ermöglicht er eine Unverwechselbarkeit.
+
+Empfohlen
+^^^^^^^^^
+
+Wir empfehlen Ihnen, bei der Erstellung eines Mitglieds unverzüglich alle Ihnen bereits bekannten Daten einzutragen. Dadurch sinkt zum einen das Risiko, dass das nachträgliche Einpflegen vergessen wird, und zum anderen wird auf diese Weise schon frühzeitig eine Zettelwirtschaft verhindert.
+
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
