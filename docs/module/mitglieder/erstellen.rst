@@ -15,7 +15,7 @@ Anlegen eines Mitglieds
 
 
 .. admonition::
-	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Einmal festgelegt lässt sich diese nicht mehr ändern.
+	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Beachten Sie auch, dass sich diese nachträglich nicht mehr ändern lässt.
 
 
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
