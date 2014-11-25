@@ -11,37 +11,12 @@ Anlegen eines Mitglieds
 
 1. Um ein neues Mitglied anzulegen, öffnen Sie die Mitgliederliste und klicken Sie links über der Tabelle auf die Schaltfläche_ *Neu*
 
-2. Geben Sie im neuen Fenster zunächst die Ihnen bekannten persönlichen Daten (Name, Vorname, Adresse, ...) des Mitglieds ein und hinterlegen Sie direkt eine Mitgliedsnummer
+2. Geben Sie im neuen Fenster zunächst alle Ihnen bekannten Daten (Name, Vorname, Adresse, ...) des Mitglieds ein und hinterlegen Sie direkt eine Mitgliedsnummer
 
-.. attention::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. caution::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. danger::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. error::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. hint::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. important::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. note::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. tip::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
-
-.. warning::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
 
 .. admonition::
-	Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.
+	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Einmal festgelegt lässt sich diese nicht mehr ändern.
+
 
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
