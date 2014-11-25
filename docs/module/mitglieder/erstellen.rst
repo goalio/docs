@@ -11,13 +11,20 @@ Anlegen eines Mitglieds
 
 1. Um ein neues Mitglied anzulegen, öffnen Sie die Mitgliederliste und klicken Sie links über der Tabelle auf die Schaltfläche_ *Neu*
 
-2. Geben Sie im neuen Fenster zunächst alle Ihnen bekannten Daten (Name, Vorname, Adresse, ...) des Mitglieds ein und hinterlegen Sie eine Mitgliedsnummer
+2. Geben Sie nun im neuen Fenster die Ihnen bekannten Daten ein, und hinterlegen Sie für das Mitglied eine Mitgliedsnummer
 
-3.
+3. Sollten Sie für den Verein eine Aufnahmegebühr eingerichtet haben, so wird diese automatisch im Beitragskonto des Mitglieds vermerkt
 
-.. note::
-	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert.
+4. Um das Mitglied der korrekten Abteilung zuzuordnen, öffnen Sie den Reiter_ *Mitglied in* und fügen Sie über die Schaltfläche_ *Neu* die entsprechende Abteilung hinzu
+
+5. Öffnen Sie nun noch den Reiter_ *Beiträge* und fügen Sie durch betätigen der Schaltfläche *Neu* den fälligen Mitgliedsbeitrag dem Mitglied hinzu
+
+6. Sobald Sie Ihre Eingaben gespeichert haben, können Sie das Fenster schließen. Das Mitglied wird ab sofort in der Mitgliederliste erscheinen.
+
+.. warning::
+	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Beachten Sie auch, dass sich diese im Nachhinein nicht mehr ändern lässt.
 
 
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
