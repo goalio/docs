@@ -1,4 +1,4 @@
-Das Beitragskonto
+Beitragskonto
 =================
 
 Einleitung
