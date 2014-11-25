@@ -11,7 +11,7 @@ Navigation
 
 Das zentrale Steuerelement in goalio ist die gelbe/graue Menüleiste, welche sich über dem Seiteninhalt befindet. Bewegen Sie Ihren Mauszeiger auf einen der Einträge, um die verfügbaren Unterseiten angezeigt zu bekommen. Die momentan geöffnete Seite wird dabei blau hinterlegt.
 
-.. image:: ../images/gui/intro/menuleiste.png
+.. image:: ../images/gui/menuleiste.png
 
 .. note ::
 	Sollte das Menü nicht oder nicht richtig dargestellt werden, so stellen Sie bitte sicher, dass Javascript in Ihrem Browser aktiviert ist.  Eine Anleitung dazu finden Sie hier_.
@@ -31,13 +31,13 @@ Ein Fenster (bzw. Formular oder Dialog) öffnet sich in der Regel bei einem Dopp
 
 Ist ein Fenster durch ein horizontales Menü in unterschiedliche Abschnitte gegliedert, so spricht man von Reitern (oder Tabs). Betrachtet man also die Mitgliederliste, so handelt es sich bei einem Mitglied um einen Datensatz, beim Bearbeiten-Formular um ein Fenster, und bei den dortigen Abschnitten *Adresse*, *Zahlung* oder *Aufgaben* um Reiter.
 
-.. image:: ../images/gui/intro/reiter.png
+.. image:: ../images/gui/reiter.png
 
 **Schaltflächen**
 
 Schaltflächen (auch Buttons oder Knöpfe) sind Bedienelemente, welche das System anweisen, eine bestimmte Operation auszuführen. Beispiele hierfür sind die Schaltflächen *Speichern*, *Löschen* oder auch *Suche*.
 
-.. image:: ../images/gui/suche/schaltflaechen.png
+.. image:: ../images/gui/schaltflaechen.png
 
 **Operatoren**
 
@@ -56,7 +56,7 @@ Nicht gesetzt         Liefert alle Ergebnisse, bei denen keine Informationen zu 
 Gesetzt               Liefert alle Ergebnisse, bei denen Informationen zu diesem Feld vorliegen
 ====================  =======
 
-.. image:: ../images/gui/suche/operator.png
+.. image:: ../images/gui/operator.png
 
 Vorschaufunktion
 ----------------
@@ -65,7 +65,7 @@ Haben Sie eine Datenübersicht (Mitgliederliste,  Abteilungsliste, ...) geöffne
 
 Sollten Sie zusätzlich dazu das *Bearbeiten*-Fenster öffnen und Änderungen vornehmen, so werden diese nach dem Speichern von der Vorschau-Funktion übernommen.
 
-.. image:: ../images/gui/intro/vorschaufunktion.png
+.. image:: ../images/gui/vorschaufunktion.png
 
 Tastenkürzel
 ------------
