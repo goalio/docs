@@ -3,7 +3,7 @@ Eingegangene Zahlung verbuchen
 
 Hat ein Mitglied seinen Beitrag auf das Vereinskonto eingezahlt, so muss dies auch in der Software vermerkt werden.
 
-1. Doppelklicken Sie auf das entsprechende Mitglied in der Mitgliederliste, um das Bearbeiten zu aktivieren
+1. Doppelklicken Sie auf das entsprechende Mitglied in der Mitgliederliste, um den Bearbeiten-Dialog_ zu öffnen
 
 2. Öffnen Sie den Reiter_ *Beitragskonto*
 
@@ -18,5 +18,6 @@ Hat ein Mitglied seinen Beitrag auf das Vereinskonto eingezahlt, so muss dies au
 7. Das Beitragskonto beziehungsweise der Saldo berechnet sich nun automatisch neu und das Fenster kann geschlossen werden
 
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Dialog: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
