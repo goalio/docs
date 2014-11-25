@@ -12,7 +12,6 @@ Mitglieder
 
   Wie lege ich Mitgliedsbeiträge fest? <beitraege>
   Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
-  Ruhende Mitgliedschaften <ruhende-mitgliedschaft>
 
 
 Zahlungen
