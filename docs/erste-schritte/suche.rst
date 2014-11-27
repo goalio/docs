@@ -49,5 +49,4 @@ Achten Sie auch darauf, dass im Auswahlmenü_ rechts neben der *Suche* der Punkt
 .. note::
 	Haben Sie einen Suchfilter aktiviert, so wird er beispielsweise von der Exportfunktion übernommen.
 
-.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html
