@@ -1,7 +1,6 @@
 Festlegen von Beiträgen
 ========================
 
-Lorem ipsum
+Siehe Mitgliedsbeitrag_ festelgen
 
-
-
+_Mitgliedsbeitrag: /de/latest/module/finanzen/beitraege.html
