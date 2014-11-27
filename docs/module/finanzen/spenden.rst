@@ -17,7 +17,7 @@ Gehen Sie wie folgt vor, um eine eingegangene Spende einzutragen:
 
 3. Handelt es sich um eine Sachspende, so tragen Sie im neuen Fenster unter *Positiver Betrag* eine null ein und vermerken Sie sich im Feld *Beschreibung*, was gespendet wurde. Handelt es sich um eine Geldspende, so geben Sie unter *Positiver Betrag* ein, in welcher Höhe die Zuwendung getätigt wurde.
 
-4. Ist die Spende von einem Vereinsmitglied, so können Sie dies im Feld *Spender* eingeben - andernfalls haben Sie die Möglichkeit, im Reiter_ *Adresse* eine externe Person oder Firma zu hinterlegen
+4. Ist die Spende von einem Vereinsmitglied, so können Sie dies im Feld *Spender* festhalten - andernfalls haben Sie die Möglichkeit, im Reiter_ *Adresse* eine externe Person oder Firma zu hinterlegen
 
 5. Vermerken Sie zum Schluss noch, ob ein Zuwendungsbescheid ausgestellt zugesendet werden soll, ob eine Sachspende aus Betriebs- oder Privatvermögen stammt, und ob die Spende noch offen oder bereits bestätigt ist
 
