@@ -38,4 +38,4 @@ Authentifizierung
    :statuscode 200: Kein Error
    :statuscode 404: there's no user
 
-   .. image:: ../images/bookandplay/authentification.png
+   .. image:: ../images/developer/bookandplay/authentification.png
