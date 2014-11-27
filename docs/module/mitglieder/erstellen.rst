@@ -21,7 +21,7 @@ Anlegen eines Mitglieds
 
 6. Öffnen Sie nun noch den Reiter_ *Beiträge* und fügen Sie durch betätigen der Schaltfläche *Neu* den zutreffenden Mitgliedsbeitrag hinzu
 
-7. Sind Sie fertig, so können Sie Ihre Eingaben speichern und das Fenster schließen
+7. Sind Sie fertig, so können Sie Ihre Eingaben speichern und das Fenster schließen. Beachten Sie bitte, dass das neue Mitglied gegebenenfalls erst bei erneutem Aufrufen der Mitgliederliste angezeigt wird.
 
 .. warning::
 	Hinterlegen Sie bei der Erstellung eines Mitglieds keine Mitgliedsnummer, so wird diese automatisch generiert. Beachten Sie auch, dass sich diese im Nachhinein nicht mehr ändern lässt.
