@@ -49,6 +49,6 @@ Sie sollten dementsprechend zusätzlich zu den Stammdaten eines Mitglieds (Name,
 
 Optional dazu kann es je nach Verein und Sportart nützlich sein, die Kurs- und Teamzuordnung sowie Spielerpässe und Lizenzen ebenfalls einzutragen.
 
-.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
