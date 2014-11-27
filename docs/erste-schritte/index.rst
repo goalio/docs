@@ -39,7 +39,7 @@ Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den **Schied
 
 
 .. toctree::
-   :hidden:
+   :titlesonly:
 
    benutzeroberflaeche
    suche
