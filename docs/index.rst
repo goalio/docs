@@ -24,22 +24,6 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
    Erste Schritte <erste-schritte/index>
 
 
-Anwendungsfälle
----------------
-Unter den Anwendungsfällen finden Sie Beispiele für ihre täglichen und nicht so alltäglichen Aufgaben.
-Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
-Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentation.
-
-* :doc:`Mitglieder <anwendungsfaelle/index>`
-* :doc:`Beiträge <anwendungsfaelle/index>`
-
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   Anwendungsfälle <anwendungsfaelle/index>
-
-
 Module
 ------
 Hier finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
@@ -54,6 +38,23 @@ Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen 
 
    Mitglieder-Modul <module/mitglieder/index>
    Finanz-Modul <module/finanzen/index>
+
+
+
+Anwendungsfälle
+---------------
+Unter den Anwendungsfällen finden Sie Beispiele für ihre täglichen und nicht so alltäglichen Aufgaben.
+Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
+Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentation.
+
+* :doc:`Mitglieder <anwendungsfaelle/index>`
+* :doc:`Beiträge <anwendungsfaelle/index>`
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+
+   Anwendungsfälle <anwendungsfaelle/index>
 
 
 
