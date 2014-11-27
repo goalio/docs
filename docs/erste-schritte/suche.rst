@@ -50,4 +50,4 @@ Achten Sie auch darauf, dass im Auswahlmenü_ rechts neben der *Suche* der Punkt
 	Haben Sie einen Suchfilter aktiviert, so wird er beispielsweise von der Exportfunktion übernommen.
 
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
-.. _SChaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
