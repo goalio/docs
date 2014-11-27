@@ -32,5 +32,5 @@ Logins deaktivieren
 4. Das entsprechende Mitglied sollte sich nun nicht mehr einloggen können
 
 
-.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
-.. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
+.. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
