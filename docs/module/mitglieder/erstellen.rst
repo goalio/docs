@@ -39,6 +39,16 @@ Empfohlen
 
 Wir empfehlen Ihnen, bei der Erstellung eines Mitglieds unverzüglich alle Ihnen bereits bekannten Daten einzutragen. Dadurch sinkt zum einen das Risiko, dass das nachträgliche Einpflegen vergessen wird, und zum anderen wird auf diese Weise schon frühzeitig eine Zettelwirtschaft verhindert.
 
+Sie sollten dementsprechend zusätzlich zu den Stammdaten eines Mitglieds (Name, Geschlecht, Mitgliedernummer, ...) folgende Informationen hinterlegen:
+
+- Adresse
+- Kontaktinformationen (insbesondere für den Mailversand)
+- Zahlweise definieren (Reiter_: Zahlung)
+- Abteilung (Reiter_: Mitglied in)
+- Beitrag (Reiter_: Beiträge)
+
+Optional dazu kann es je nach Verein und Sportart nützlich sein, die Kurs- und Teamzuordnung sowie Spielerpässe und Lizenzen ebenfalls einzutragen.
+
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
