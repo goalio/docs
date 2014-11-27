@@ -1,6 +1,8 @@
 Willkommen bei goalio
 =====================
 
+.. image:: ../images/goalio-screenshots.png
+
 **Was ist goalio?**
 
 Ein moderner Sportverein muss sich vielen Herausforderungen stellen. Neben den bürokratischen Aufgaben, wie Mitgliederverwaltung, Beitragszahlungen und Buchhaltung, geht viel Zeit in die Planung und Organisation des Spiel- und Wettkampfbetriebs. Da sind Mannschaftseinteilungen, Hallenbelegungen, Spiel- und Trainingszeiten nur ein kleiner Teil der anfallenden Organisationsaufgaben.
