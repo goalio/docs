@@ -52,14 +52,14 @@ Operatoren können in Suchfeldern angeben, wie ein bestimmtes Kriterium ausgewer
 ====================  =======
 Operator              Wirkungsweise
 ====================  =======
-Beginnt mit           Liefert alle Ergebnisse, die mit dem Kriterium beginnen (Mus **>** Mustermann, Muse)
-Enthält               Liefert alle Ergebnisse, die das Kriterium enthalten (ster **>** Mustermann, Holstern)
-Ist gleich            Liefert alle Ergebnisse, die identisch mit dem Kriterium sind (Mustermann **>** Mustermann)
-Größer oder gleich    (Bei Datumsangaben) Liefert Kriterium und alle Tage danach (01. Januar **>** 01. Jan., 02. Jan., 03. Jan., ...)
-Kleiner oder gleich   (Bei Datumsangaben) Liefert Kriterium und alle Tage davor (03. Januar **>** 03. Jan., 02. Jan., 01. Jan., ...)
-Ist nicht gleich      (Bei Datumsangaben) Liefert alles, ausser Kriterium (02. Januar **>** 01. Jan., 03. Jan., ...)
-Nicht gesetzt         Liefert alle Ergebnisse, bei denen keine Informationen zu diesem Feld vorliegen
-Gesetzt               Liefert alle Ergebnisse, bei denen Informationen zu diesem Feld vorliegen
+Beginnt mit           Liefert alle Ergebnisse, die mit der Eingabe beginnen (Mus **>** Mustermann, Muse)
+Enthält               Liefert alle Ergebnisse, welche die Eingabe beinhalten (ster **>** Mustermann, Holstern)
+Ist gleich            Liefert alle Ergebnisse, die mit der Eingabe übereinstimmen (Mustermann **>** Mustermann)
+Größer oder gleich    (Bei Datumsangaben) Liefert alle Ergebnisse, bei denen das Datum in der **Zukunft** liegt oder nicht ausgefüllt ist
+Kleiner oder gleich   (Bei Datumsangaben) Liefert alle Ergebnisse, bei denen das Datum in der **Vergangenheit** liegt oder nicht ausgefüllt ist
+Ist nicht gleich      (Bei Datumsangaben) Liefert alle Ergebnisse, die nicht dem Datum entsprechen
+Nicht gesetzt         Liefert alle Ergebnisse, bei denen dieses Feld nicht ausgefüllt ist
+Gesetzt               Liefert alle Ergebnisse, bei denen dieses Feld ausgefüllt ist
 ====================  =======
 
 .. image:: ../images/gui/operator.png
