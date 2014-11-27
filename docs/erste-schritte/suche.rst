@@ -33,14 +33,14 @@ Einzeln
 
 Um individuell auszuwählen, welcher Suchfilter gelöscht werden soll, klicken Sie in der entsprechenden Eingabemaske rechts auf das kleine Kreuz. Haben Sie dies getan, so wird der jeweilige Filter entfernt, die Mitgliederliste aktualisiert, und die anderen Filter beibehalten.
 
-.. image:: ../images/gui/suchefilter-entfernen.png
+.. image:: ../images/gui/suchfilter-entfernen.png
 
 Alle Filter löschen
 ^^^^^^^^^^^^^^^^^^^
 
 Um die gesamte Mitgliederliste ungefiltert darzustellen, betätigen Sie die Schaltfläche_ *Alle Filter löschen*.
 
-.. image:: ../images/gui/alle-suchefilter-entfernen.png
+.. image:: ../images/gui/alle-suchfilter-entfernen.png
 
 Achten Sie auch darauf, dass im Auswahlmenü_ rechts neben der *Suche* der Punkt *Alle anzeigen* ausgewählt ist, sodass die Darstellung durch kein zusätzliches Kriterium beeinflusst wird.
 
