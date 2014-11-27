@@ -1,12 +1,6 @@
 Willkommen bei goalio
 =====================
 
-.. toctree::
-   :hidden:
-
-   benutzeroberflaeche
-   suche
-
 Was ist goalio?
 ^^^^^^^^^^^^^^^
 
@@ -43,3 +37,9 @@ Als All-in-One Lösung bietet goalio jedem Mitglied Ihres Vereins eigene Funktio
 
 Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den **Schiedsrichter**- und **Platzwarten**, dem **Webmaster**, dem **Pressesprecher** oder den **Eltern von Kindern und Jugendlichen** ermöglichen, mehr Spaß am Vereinsleben zu haben.
 
+
+.. toctree::
+   :hidden:
+
+   benutzeroberflaeche
+   suche
