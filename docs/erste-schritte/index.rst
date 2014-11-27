@@ -33,7 +33,7 @@ Als All-in-One Lösung bietet goalio jedem Mitglied Ihres Vereins eigene Funktio
 
 **Kassenwart**: Behalten Sie die Finanzen des Vereins im Blick. Lassen Sie automatisch Mitgliederbeiträge buchen oder Spendenquittungen erstellen.
 
-**Trainer und Übungsleiter*: Planen Sie Trainingsinhalte und haben Sie jederzeit die aktuelle Mannschaftsliste im Zugriff.
+**Trainer und Übungsleiter**: Planen Sie Trainingsinhalte und haben Sie jederzeit die aktuelle Mannschaftsliste im Zugriff.
 
 Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den Schiedsrichter- und Platzwarten, dem Webmaster, dem Pressesprecher oder den Eltern von Kindern und Jugendlichen ermöglichen, mehr Spaß am Vereinsleben zu haben.
 
