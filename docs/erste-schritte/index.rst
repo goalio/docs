@@ -37,16 +37,7 @@ Als All-in-One Lösung bietet goalio jedem Mitglied Ihres Vereins eigene Funktio
 Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den *Schiedsrichter*- und *Platzwarten*, dem *Webmaster*, dem *Pressesprecher* oder den *Eltern von Kindern und Jugendlichen* ermöglichen, mehr Spaß am Vereinsleben zu haben.
 
 
-.. hint::
-	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
-
-.. note::
-	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
-
 .. tip::
-	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
-
-.. attention::
 	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
 
 
