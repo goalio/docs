@@ -31,6 +31,7 @@ In diesem Nachschlagewerk werden die Module im Detail beschrieben.
 Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen die Ihre Arbeit erleichtern.
 
 * :doc:`module/finanzen/index`
+* :doc:`module/mitglieder/index`
 
 .. toctree::
    :hidden:
