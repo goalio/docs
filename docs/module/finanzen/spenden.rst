@@ -13,7 +13,7 @@ Gehen Sie wie folgt vor, um eine eingegangene Spende einzutragen:
 
 1. Klicken Sie rechts in der Navigationsleiste auf den Menüpunkt *Spenden*
 
-2. Betätigen Sie die Schaltfläche_ *Neu* und wählen Sie aus, ob es sich bei der einzutragenden Zuwendung um eine Geld- oder Sachspende handelt
+2. Betätigen Sie die Schaltfläche_ *Neu* und wählen Sie aus, ob die einzutragende Zuwendung eine Geld- oder Sachspende ist
 
 3. Handelt es sich um eine Sachspende, so tragen Sie im neuen Fenster unter *Positiver Betrag* eine null ein und vermerken Sie sich im Feld *Beschreibung*, was gespendet wurde. Handelt es sich um eine Geldspende, so geben Sie unter *Positiver Betrag* ein, in welcher Höhe die Zuwendung getätigt wurde.
 
