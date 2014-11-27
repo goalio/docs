@@ -40,6 +40,15 @@ Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den *Schieds
 .. hint::
 	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
 
+.. note::
+	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
+
+.. tip::
+	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
+
+.. attention::
+	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__.
+
 
 .. _reglink: http://goal.io/home/?popup=pilotkunde
 __ reglink_
