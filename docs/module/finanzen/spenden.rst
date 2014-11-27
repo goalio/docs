@@ -24,3 +24,4 @@ Gehen Sie wie folgt vor, um eine eingegangene Spende einzutragen:
 6. Optional können Sie noch eine Spendennummer vergeben - tun Sie dies nicht, wird automatisch eine neue generiert
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html
