@@ -24,20 +24,20 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
    Erste Schritte <erste-schritte/index>
 
 
-Kochbuch
---------
-Im goalio Kochbuch finden sie Rezepte für ihre täglichen und nicht so alltäglichen Aufgaben.
+Anwendungsfälle
+---------------
+Unter den Anwendungsfällen finden Sie Beispiele für ihre täglichen und nicht so alltäglichen Aufgaben.
 Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
 Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentation.
 
-* :doc:`Mitglieder <kochbuch/index>`
-* :doc:`Beiträge <kochbuch/index>`
+* :doc:`Mitglieder <anwendungsfaelle/index>`
+* :doc:`Beiträge <anwendungsfaelle/index>`
 
 .. toctree::
    :hidden:
    :maxdepth: 2
 
-   Kochbuch (Anwendungsbeispiele) <kochbuch/index>
+   Anwendungsfälle <anwendungsfaelle/index>
 
 
 Module
