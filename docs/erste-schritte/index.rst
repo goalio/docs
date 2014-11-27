@@ -41,8 +41,8 @@ Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den *Schieds
 	Ihr Verein nutzt goalio noch nicht? `Hier können Sie sich dafür anmelden`__.
 
 
-.. __`Hier können Sie sich dafür anmelden` _reglink
-.. _reglink: http://link.url/
+.. _reglink: http://goal.io/home/?popup=pilotkunde
+__ reglink_
 
 
 .. toctree::
