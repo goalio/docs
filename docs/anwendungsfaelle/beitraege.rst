@@ -3,4 +3,6 @@ Festlegen von Beiträgen
 
 Siehe `Mitgliedsbeitrag festlegen`__
 
-.. __`Mitgliedsbeitrag festlegen`: /de/latest/module/finanzen/beitraege.html
+.. _link: /de/latest/module/finanzen/beitraege.html
+
+__ link_
