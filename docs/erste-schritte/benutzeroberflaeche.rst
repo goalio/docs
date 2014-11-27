@@ -80,12 +80,12 @@ Tastenkürzel
 :kbd:`Shift+V`
 :kbd:`ESC`
 
-=====  =====  ====== 
-   Eingaben     Funktion 
-------------  ------ 
-STRG   S      speichert aktuelle Änderungen 
-STRG   C      kopiert markierte Eingabe 
-STRG   V      fügt kopierte Eingabe ein 
-ESC           schließt aktives Fenster / den Vorschau-Bereich 
-=====  =====  ======
+===============  ===============
+Eingaben         Funktion
+---------------  ---------------
+:kbd:`Strg+S`    speichert aktuelle Änderungen
+:kbd:`Strg+C`    kopiert markierte Eingabe
+:kbd:`Strg+V`    fügt kopierte Eingabe ein
+:kbd:`ESC`       schließt aktives Fenster / den Vorschau-Bereich
+===============  ===============
 
