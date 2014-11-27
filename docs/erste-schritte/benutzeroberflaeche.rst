@@ -28,6 +28,8 @@ Fenster
 
 Ein Fenster (bzw. Formular oder Dialog) öffnet sich in der Regel bei einem Doppelklick auf einen Datensatz (also beispielsweise ein Mitglied in der Mitgliederliste), welcher daraufhin in der Regel bearbeitet werden kann.
 
+.. image:: ../images/gui/fenster.png
+
 Reiter
 ......
 
