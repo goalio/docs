@@ -22,17 +22,17 @@ goalio ist die innovative Software-Lösung die Ihnen die Verwaltungsaufgaben im 
 
 Als All-in-One Lösung bietet goalio jedem Mitglied Ihres Vereins eigene Funktionen an. Speziell für Funktionäre gibt es weitere Möglichkeiten die anstehenden Aufgaben schnell und effizient zu bewältigen:
 
-**Für alle Mitglieder**: Neben einem persönlichen Terminkalender erhalten Sie jederzeit Zugriff auf persönliche Daten und können Adressänderungen selber durchführen.
+*Für alle Mitglieder*: Neben einem persönlichen Terminkalender erhalten Sie jederzeit Zugriff auf persönliche Daten und können Adressänderungen selber durchführen.
 
-**Geschäftsführer**: Sie haben Ihren Verein mit Sicherheit im Griff. Aktuelle Mitgliederlisten und Reports stehen auf Knopfdruck zur Verfügung.
+*Geschäftsführer*: Sie haben Ihren Verein mit Sicherheit im Griff. Aktuelle Mitgliederlisten und Reports stehen auf Knopfdruck zur Verfügung.
 
-**Abteilungsleiter**: Planen Sie Trainings- und Spielzeiten Ihrer Teams. Sie werden bei den Mannschaftseinteilungen und Verbandsmeldungen unterstützt.
+*Abteilungsleiter*: Planen Sie Trainings- und Spielzeiten Ihrer Teams. Sie werden bei den Mannschaftseinteilungen und Verbandsmeldungen unterstützt.
 
-**Kassenwart**: Behalten Sie die Finanzen des Vereins im Blick. Lassen Sie automatisch Mitgliederbeiträge buchen oder Spendenquittungen erstellen.
+*Kassenwart*: Behalten Sie die Finanzen des Vereins im Blick. Lassen Sie automatisch Mitgliederbeiträge buchen oder Spendenquittungen erstellen.
 
-**Trainer und Übungsleiter**: Planen Sie Trainingsinhalte und haben Sie jederzeit die aktuelle Mannschaftsliste im Zugriff.
+*Trainer und Übungsleiter*: Planen Sie Trainingsinhalte und haben Sie jederzeit die aktuelle Mannschaftsliste im Zugriff.
 
-Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den **Schiedsrichter**- und **Platzwarten**, dem **Webmaster**, dem **Pressesprecher** oder den **Eltern von Kindern und Jugendlichen** ermöglichen, mehr Spaß am Vereinsleben zu haben.
+Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den *Schiedsrichter*- und *Platzwarten*, dem *Webmaster*, dem *Pressesprecher* oder den *Eltern von Kindern und Jugendlichen* ermöglichen, mehr Spaß am Vereinsleben zu haben.
 
 
 .. toctree::
