@@ -75,10 +75,6 @@ Sollten Sie zusätzlich dazu das *Bearbeiten*-Fenster öffnen und Änderungen vo
 
 Tastenkürzel
 ------------
-:kbd:`Strg+S`
-:kbd:`Alt+C`
-:kbd:`Shift+V`
-:kbd:`ESC`
 
 ===============  ===============
 Eingaben         Funktion
