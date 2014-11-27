@@ -1,11 +1,11 @@
 Willkommen bei goalio
 =====================
 
-.. image:: ../images/goalio-screenshots.png
-
 **Was ist goalio?**
 
 Ein moderner Sportverein muss sich vielen Herausforderungen stellen. Neben den bürokratischen Aufgaben, wie Mitgliederverwaltung, Beitragszahlungen und Buchhaltung, geht viel Zeit in die Planung und Organisation des Spiel- und Wettkampfbetriebs. Da sind Mannschaftseinteilungen, Hallenbelegungen, Spiel- und Trainingszeiten nur ein kleiner Teil der anfallenden Organisationsaufgaben.
+
+.. image:: ../images/goalio-screenshots.png
 
 goalio ist die innovative Software-Lösung die Ihnen die Verwaltungsaufgaben im Verein erleichtert und gleichzeitig Ihre Mitglieder in die Abläufe einbindet. Alles was Sie für die Nutzung von goalio benötigen, ist ein internetfähiger Computer.
 
@@ -35,6 +35,14 @@ Als All-in-One Lösung bietet goalio jedem Mitglied Ihres Vereins eigene Funktio
 *Trainer und Übungsleiter*: Planen Sie Trainingsinhalte und haben Sie jederzeit die aktuelle Mannschaftsliste im Zugriff.
 
 Darüber hinaus bietet goalio zahlreiche weitere Funktionen, die es den *Schiedsrichter*- und *Platzwarten*, dem *Webmaster*, dem *Pressesprecher* oder den *Eltern von Kindern und Jugendlichen* ermöglichen, mehr Spaß am Vereinsleben zu haben.
+
+
+.. tip::
+	Ihr Verein nutzt goalio noch nicht? `Melden Sie sich heute noch an!`__
+
+
+.. _reglink: http://goal.io/home/?popup=pilotkunde
+__ reglink_
 
 
 .. toctree::
