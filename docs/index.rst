@@ -11,7 +11,7 @@
 
 Erste Schritte mit goalio
 -------------------------
-Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
+Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet, um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
 
 * :doc:`erste-schritte/index`
 * :doc:`erste-schritte/benutzeroberflaeche`
