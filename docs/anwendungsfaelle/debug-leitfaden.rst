@@ -11,10 +11,16 @@ Gerne unterstützen wir Sie auch persönlich - wenden Sie sich dazu telefonisch 
 Ursachen
 --------
 
-Vorhandensein einer Internetverbindung
-......................................
+Verbindung zum Internet
+........................
 
 Stellen Sie zunächst fest, ob Sie mit dem Internet verbunden sind. Neben den entsprechenden Anzeigen Ihres Betriebssystems (Windows, Mac, ...) können Sie dies beispielsweise dadurch testen, dass Sie eine Webseite in Ihrem Browser_ aufrufen. Wird diese angezeigt, so liegt eine Internetverbindung vor.
+
+Benutzung eines aktuellen Browsers
+..................................
+
+Überprüfen Sie, ob Ihre Browser_-Software aktuell ist und die heutigen Webstandards problemlos ausführen kann. Wir raten Ihnen dabei von der Benutzung des Internet Explorers ab, da dieser nicht automatisch aktualisiert wird und häufig zu Darstellungsfehlern neigt.
+
 
 Weitere folgen
 ...............
