@@ -5,7 +5,7 @@ Kommt es bei der Verwendung von goalio zu Fehlern in der Darstellung oder bei de
 
 Benötigen Sie einmal Hilfe bei einem Problem, so können Sie sich natürlich jederzeit an uns wenden.
 
-(folgt)
+**(folgt)**
 
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
