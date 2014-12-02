@@ -24,8 +24,11 @@ Benutzung eines aktuellen Browsers
 Aktivieren von Javascript
 .........................
 
-Um eine ansprechend interaktive Benutzeroberfläche bieten zu können, verwenden wir Javascript. Wenngleich diese Erweiterung bereits standardmäßig in den meisten Browsern aktiviert ist, so kann es hier und da noch 
+Um eine ansprechende und interaktive Benutzeroberfläche bieten zu können, verwenden wir Javascript, welches die Möglichkeiten einfachen Webdesigns um ein Vielfaches erweitert. Haben Sie Javascript deaktiviert, so können Sie `auf dieser Seite`__ nachlesen, wie Sie es wieder reaktivieren können.
 
+.. _reaktivieren: http://www.enable-javascript.com/de/
+
+__ reaktivieren_
 
 Weitere folgen
 ...............
