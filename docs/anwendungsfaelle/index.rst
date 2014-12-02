@@ -21,6 +21,7 @@ Zahlungen
   :numbered:
 
   Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
+  Wann treten Änderungen bei Beiträgen in Kraft? <beitrag-aktualisieren>
 
 Technisches
 -----------
