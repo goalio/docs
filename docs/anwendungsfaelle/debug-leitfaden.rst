@@ -12,9 +12,12 @@ Ursachen
 --------
 
 Vorhandensein einer Internetverbindung
-............................
+......................................
 
-Stellen Sie zunächst fest, ob Sie mit dem Internet verbunden sind. Neben den entsprechenden Anzeigen Ihres Betriebssystems (Windows, Mac, ...) können Sie dies beispielsweise dadurch testen, dass Sie irgendeine Seite in Ihrem Browser_ aufrufen.
+Stellen Sie zunächst fest, ob Sie mit dem Internet verbunden sind. Neben den entsprechenden Anzeigen Ihres Betriebssystems (Windows, Mac, ...) können Sie dies beispielsweise dadurch testen, dass Sie eine Webseite in Ihrem Browser_ aufrufen. Wird diese angezeigt, so liegt eine Internetverbindung vor.
+
+Weitere folgen
+...............
 
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
