@@ -28,4 +28,4 @@ Technisches
  .. toctree::
   :numbered:
 
-  Warum werden Elemente nicht oder falsch dargestellt? <darstellungsfehler>
+  Warum werden Elemente nicht oder falsch dargestellt? <debug-leitfaden>
