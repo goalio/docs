@@ -10,8 +10,8 @@ Mitglieder
 	.. toctree::
  	:numbered:
 
- Wie lege ich Mitgliedsbeiträge fest? <beitraege>
- Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
+ 	Wie lege ich Mitgliedsbeiträge fest? <beitraege>
+	 Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
 
 
 Zahlungen
@@ -20,4 +20,4 @@ Zahlungen
 	.. toctree::
 	:numbered:
 
-  Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
+  	Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
