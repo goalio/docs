@@ -7,17 +7,17 @@ Sollte Ihr Problem hier nicht aufgelistet sein, oder sollten Sie generell weiter
 
 Mitglieder
 ----------
- .. toctree::
-  :numbered:
+	.. toctree::
+ 	:numbered:
 
-  Wie lege ich Mitgliedsbeiträge fest? <beitraege>
-  Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
+ Wie lege ich Mitgliedsbeiträge fest? <beitraege>
+ Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
 
 
 Zahlungen
 ---------
 
- .. toctree::
-  :numbered:
+	.. toctree::
+	:numbered:
 
   Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
