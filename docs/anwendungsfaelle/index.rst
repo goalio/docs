@@ -21,3 +21,11 @@ Zahlungen
   :numbered:
 
   Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
+
+Technisches
+-----------
+
+ .. toctree::
+  :numbered:
+
+  Warum werden Elemente nicht oder falsch dargestellt? <darstellungsfehler>
