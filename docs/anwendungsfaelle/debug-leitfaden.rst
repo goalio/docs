@@ -8,8 +8,8 @@ Kommt es bei der Verwendung von goalio zu Fehlern in der Darstellung oder bei de
 
 Gerne unterstützen wir Sie auch persönlich - wenden Sie sich dazu telefonisch oder via E-Mail an uns.
 
-Ursachen
---------
+Mögliche Ursachen
+-----------------
 
 Verbindung zum Internet
 ........................
@@ -19,7 +19,12 @@ Stellen Sie zunächst fest, ob Sie mit dem Internet verbunden sind. Neben den en
 Benutzung eines aktuellen Browsers
 ..................................
 
-Überprüfen Sie, ob Ihre Browser_-Software aktuell ist und die heutigen Webstandards problemlos ausführen kann. Wir raten Ihnen dabei von der Benutzung des Internet Explorers ab, da dieser nicht automatisch aktualisiert wird und häufig zu Darstellungsfehlern neigt.
+Überprüfen Sie, ob Ihre Browser_-Software aktuell ist und die heutigen Webstandards problemlos ausführen kann. Wir raten Ihnen dabei von der Benutzung des Internet Explorers ab, da dieser nicht automatisch aktualisiert wird und häufig zu Darstellungsfehlern neigt. Doch die Aktualität der eigenen Software hat nicht nur einen gestalterischen Aspekt: Moderne Browser schützen Sie auch vor Schad-Software und Sicherheitsrisiken.
+
+Aktivieren von Javascript
+.........................
+
+Um eine ansprechend interaktive Benutzeroberfläche bieten zu können, verwenden wir Javascript. Wenngleich diese Erweiterung bereits standardmäßig in den meisten Browsern aktiviert ist, so kann es hier und da noch 
 
 
 Weitere folgen
