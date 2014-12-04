@@ -44,6 +44,8 @@ Möchte man eine individuelle Gebühr für einen Spieler vermerken, so kann man 
 
 3. Geben Sie im Feld *Beschreibung* den Grund für die Gebühr an, setzen Sie als *Status* den Wert *Forderung* ein und legen Sie die Höhe der Gebühr fest
 
+4. Sobald Sie Ihre Eingabe durch betätigen der entsprechenden Schaltfläche gespeichert haben, aktualisiert sich das Beitragskonto automatisch und zeigt ab sofort die eingetragene Gebühr an
+
 .. image:: ../../images/gui/gebuehr-eintragen.png
 
 .. _Mahnstufe: /de/latest/module/finanzen/mahnwesen.html
