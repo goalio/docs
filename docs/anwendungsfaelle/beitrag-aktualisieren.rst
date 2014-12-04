@@ -7,4 +7,4 @@ Um in diesem Fall zu verhindern, dass der Beitrag rückwirkend gesenkt wird (wod
 
 Wann genau also eine Änderung wirksam wird, hängt letztlich davon ab, welcher Abrechnungszyklus (monatlich, jährlich, ...) für den Beitrag eingestellt wurde und wann dieser wieder fällig wird. Grundsätzlich gilt allerdings, dass vorgenommene Änderungen erst in zukünftigen Buchungsläufen Anwendung finden und bereits durchgeführte Abrechnungen dementsprechend unberührt bleiben.
 
-Selbstverständlich gilt das gleiche Prinzip auch für Zyklus, Namen und andere Optionen des Beitrages.
+Selbstverständlich gilt das selbe Prinzip auch für Zyklus, Namen und andere Optionen des Beitrages.
