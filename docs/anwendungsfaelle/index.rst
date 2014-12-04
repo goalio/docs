@@ -12,6 +12,7 @@ Mitglieder
 
   Wie lege ich Mitgliedsbeiträge fest? <beitraege>
   Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
+  Wie trage ich eine Rücklastschrift ein? <ruecklastschrift>
 
 
 Zahlungen
