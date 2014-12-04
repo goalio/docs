@@ -12,3 +12,4 @@ Für einen Verein geht es beim Thema Finanzen sowohl um Korrektheit als auch um 
 	spenden
 	mahnwesen
 	buchungslauf
+	gebuehren
