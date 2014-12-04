@@ -36,7 +36,7 @@ Fenster verschieben
 Möchten Sie ein Fenster verschieben, so halten Sie den linken Mauszeiger auf der roten Titelleiste gedrückt. Haben Sie das Fenster dann an die gewünschte Position geschoben, können Sie die Maustaste wieder loslassen.
 
 Fenstergröße ändern
-...................
+"""""""""""""""""""
 
 Ist Ihnen ein Fenster zu groß oder zu klein, so können Sie dessen Maße ohne großen Aufwand ändern: Gehen Sie dabei mit der Maus auf den Rand oder eine Ecke des Fensters, bis sich der Cursor in einen Pfeil verwandelt. Klicken beziehungsweise halten Sie dann die linke Maustaste gedrückt und ziehen Sie das Fenster, bis es die gewünschte Größe erreicht hat.
 
