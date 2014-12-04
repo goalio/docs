@@ -44,7 +44,7 @@ Möchte man eine individuelle Gebühr für einen Spieler vermerken, so kann man 
 
 3. Geben Sie im Feld *Beschreibung* den Grund für die Gebühr an, setzen Sie als *Status* den Wert *Forderung* ein und legen Sie die Höhe der Gebühr fest
 
-.. image:: ../images/gui/gebuehr-eintragen.png
+.. image:: ../../images/gui/gebuehr-eintragen.png
 
 .. _Mahnstufe: /de/latest/module/finanzen/mahnwesen.html
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
