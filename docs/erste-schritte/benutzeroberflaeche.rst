@@ -28,7 +28,24 @@ Fenster
 
 Ein Fenster (bzw. Formular oder Dialog) öffnet sich in der Regel bei einem Doppelklick auf einen Datensatz (also beispielsweise ein Mitglied in der Mitgliederliste), welcher daraufhin in der Regel bearbeitet werden kann.
 
-.. image:: ../images/gui/fenster.png
+
+
+Fenster verschieben
+...................
+
+Möchten Sie ein Fenster verschieben, so halten Sie den linken Mauszeiger auf der roten Titelleiste gedrückt. Haben Sie das Fenster dann an die gewünschte Position geschoben, können Sie die Maustaste wieder loslassen.
+
+Fenstergröße ändern
+...................
+
+Ist Ihnen ein Fenster zu groß oder zu klein, so können Sie dessen Maße ohne großen Aufwand ändern: Gehen Sie dabei mit der Maus auf den Rand oder eine Ecke des Fensters, bis sich der Cursor in einen Pfeil verwandelt. Klicken beziehungsweise halten Sie dann die linke Maustaste gedrückt und ziehen Sie das Fenster, bis es die gewünschte Größe erreicht hat.
+
+Mehrere Fenster öffnen
+.......................
+
+Eine weitere nützliche Funktion ist die Möglichkeit, in mehreren offenen Fenstern gleichzeitig zu arbeiten. Beachten Sie dabei, dass sich ein geöffnetes Fenster beim aufrufen einer neuen Seite wieder schließt und Sie so lediglich Datensätze der gleichen Art (zwei Mitglieder, zwei Abteilungen, ...) simultan bearbeiten können.
+
+.. image:: ../images/gui/mehrere-fenster.png
 
 Reiter
 ......
