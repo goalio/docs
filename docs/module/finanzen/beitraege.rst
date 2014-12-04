@@ -44,6 +44,13 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 
 5. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
 
+Beiträge löschen
+----------------
+
+Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so gibt es mehrere Möglichkeiten, diesen wieder zu entfernen:
+
+
+
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflaechen
