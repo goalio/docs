@@ -11,9 +11,13 @@ Haben Sie nach einem Buchungslauf eine Rücklastschrift erhalten, so können Sie
 
 4. Das Beitragskonto sollte sich automatisch aktualisieren und zwei neue Einträge beinhalten: Zum einen die Rückbuchungsgebühr, welche Sie unter dem Menüpunkt *Beiträge* -> *Gebühren* einstellen können, und zum anderen die offene Forderung aus der Rückbuchung
 
-Hat das Mitglied seinen Beitrag im Nachhinein bezahlt, oder war eine zweite Lastschrift erfolgreich, so vermerken Sie dies bitte durch anlegen einer neuen Zahlung. Alle Informationen dazu hier_.
+Hat das Mitglied seinen Beitrag im Nachhinein bezahlt, oder war eine zweite Lastschrift erfolgreich, so vermerken Sie dies bitte durch `anlegen einer neuen Zahlung`__. Weitere Informationen zum Thema Gebühren finden Sie `auf der entsprechenden Seite`___.
 
 .. _Bearbeiten-Dialog: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
-.. _hier: /de/latest/anwendungsfaelle/zahlungseingang.html
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
+.. _neuerbeitrag: /de/latest/anwendungsfaelle/zahlungseingang.html
+.. _gebuehren: /de/latest/module/finanzen/gebuehren.html
+
+__ neuerbeitrag_
+___ gebuehren_
