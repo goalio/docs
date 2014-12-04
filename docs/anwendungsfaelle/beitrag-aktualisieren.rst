@@ -5,4 +5,4 @@ Haben Sie einen Beitrag angelegt und Mitgliedern zugeordnet, so kann es von Zeit
 
 Um in diesem Fall zu verhindern, dass der Beitrag rückwirkend gesenkt wird (wodurch Gutschriften bei den zahlenden Mitgliedern entstehen würden), übernimmt goalio die Änderung der Beitragshöhe erst für zukünftige Abrechnungen.
 
-Wann genau also eine Änderung wirksam wird, hängt letztlich davon ab, welcher Abrechnungszyklus (monatlich, jährlich, ...) für den Beitrag eingestellt wurde und wann dieser wieder fällig wird. Grundsätzlich gilt allerdings, dass Änderungen auf durchgeführte Buchungen keinen Effekt haben, aber in zukünftigen Buchungsläufen übernommen werden.
+Wann genau also eine Änderung wirksam wird, hängt letztlich davon ab, welcher Abrechnungszyklus (monatlich, jährlich, ...) für den Beitrag eingestellt wurde und wann dieser wieder fällig wird. Grundsätzlich gilt allerdings, dass vorgenommene Änderungen erst in zukünftigen Buchungsläufen Anwendung finden und bereits durchgeführte Abrechnungen dementsprechend unberührt bleiben.
