@@ -47,8 +47,18 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 Beiträge löschen
 ----------------
 
-Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so gibt es mehrere Möglichkeiten, diesen wieder zu entfernen:
+Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so können Sie diesen in der Regel nicht durch einfaches löschen entfernen. Dies liegt daran, dass er nach dem löschen zwar in der Zukunft nicht mehr anfallen wird, aber die bereits abgebuchten Beiträge trotzdem bestehen bleiben und mühsam einzeln herausgelöscht werden müssten. In goalio gibt es daher einen einfach Weg, eine fehlerhafte Beitragszuweisung nichtig zu machen:
 
+1. Doppelklicken Sie in der Mitgliederliste auf das entsprechende Mitglied, um es zu öffnen
+
+2. Steuern Sie den Reiter_ *Beiträge* an
+
+3. Setzen Sie das Enddatum mindestens um einen Beitragszyklus vor das Startdatum. Wird der Beitrag also beispielsweise monatlich fällig, so könnten Sie das Startdatum in den Februar, und das Enddatum in den Januar setzen. Wird der Beitrag jährlich fällig, so könnten Sie das Startdatum in 2015 und das Enddatum in 2014 setzen (und so weiter).
+
+4. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche
+
+.. warning::
+	Berücksichtigen Sie gegebenfalls Abweichungen zwischen dem Kalenderjahr und dem Geschäftsjahr des Vereins
 
 
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
