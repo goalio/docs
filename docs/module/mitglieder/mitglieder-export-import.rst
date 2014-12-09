@@ -49,6 +49,9 @@ Import exportieren
 
 4. that
 
+.. warning::
+	Haben Sie einen Suchfilter aktiviert, so wird er beispielsweise von der Exportfunktion übernommen.
+
 .. _Operator: /de/latest/erste-schritte/benutzeroberflaeche.html#operatoren
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
