@@ -33,7 +33,7 @@ Beim Export von Mitgliedern oder anderen Datensätzen (wie zum Beispiel Abteilun
 Import exportieren
 ------------------
 
-Grundsätzlich soll die Importfunktion ein einfacheres Anlegen von mehreren Mitgliedsdaten ermöglichen, wobei auf das händische Eintippen der jeweiligen Werte verzichtet werden kann. Benötigt wird dazu eine Datei, welche die Mitgliederdaten in tabellarischer Form enthält.
+Grundsätzlich soll die Importfunktion ein einfacheres Anlegen von mehreren Mitgliedsdaten ermöglichen, wobei auf das händische Eintippen der jeweiligen Werte verzichtet werden kann. Benötigt wird dazu eine Datei, welche die Mitgliederdaten in tabellarischer Form enthält. Gehen Sie wie folgt vor:
 
 1. Öffnen Sie zunächst die Liste, in welche Daten importiert werden sollen (Abteilungen, Mitglieder, ...)
 
