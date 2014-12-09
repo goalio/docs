@@ -25,8 +25,6 @@ Möchten Sie ruhende Mitgliedschaften ausblenden, um die Mitgliederliste geordne
 
 4. Die Mitgliederliste sollte sich automatisch aktualisieren und die Suche kann geschlossen werden
 
-Alternativ dazu können Sie auf dieselbe Art und Weise noch jene Mitglieder ausblenden, die bereits ausgetreten sind
-
 .. _Operator: /de/latest/erste-schritte/benutzeroberflaeche.html#operatoren
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
