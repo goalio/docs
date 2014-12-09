@@ -30,8 +30,8 @@ Beim Export von Mitgliedern oder anderen Datensätzen (wie zum Beispiel Abteilun
 
 4. Das System erstellt daraufhin Ihre Datei, was (abhängig von der Menge der zu exportierenden Daten) einige Minuten in Anspruch nehmen kann. Vermeiden Sie es in dieser Zeit, die Seite zu wechseln und/oder auf einen anderen Menüpunkt zu navigieren.
 
-Import exportieren
-------------------
+Daten importieren
+-----------------
 
 Grundsätzlich soll die Importfunktion ein einfacheres Anlegen von mehreren Mitgliedsdaten ermöglichen, wobei auf das händische Eintippen der jeweiligen Werte verzichtet werden kann. Benötigt wird dazu eine Datei, welche die Mitgliederdaten in tabellarischer Form enthält. Gehen Sie wie folgt vor:
 
