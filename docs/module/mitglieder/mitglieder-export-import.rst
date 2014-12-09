@@ -30,13 +30,13 @@ Sowohl beim Import als auch beim Export von Daten stehen Ihnen folgende Dateifor
 Daten exportieren
 -----------------
 
-1. do
+1. Öffnen Sie die Liste, aus welcher Sie Datensätze exportieren möchten (Abteilungen, Mitglieder, ...)
 
-2. this
+2. Möchten Sie nicht alle, sondern nur einige der vorhandenen Datensätze exportieren, so wenden Sie zunächst jene Suchfilter an, die das Ergebnis entsprechend eingrenzen. Weitere Informationen dazu erhalten Sie auf der Seite `Suchfilter anwenden`__
 
-3. and
+3. Betätigen Sie die Schaltfläche_ *Exportieren* und wählen Sie das gewünschte Format aus
 
-4. that
+4. Das System erstellt daraufhin Ihre Datei, was (abhängig von der Menge der zu exportierenden Daten) einige Minuten in Anspruch nehmen kann. Vermeiden Sie es in dieser Zeit, die Seite zu wechseln und/oder auf einen anderen Menüpunkt zu navigieren.
 
 Import exportieren
 ------------------
@@ -50,8 +50,10 @@ Import exportieren
 4. that
 
 .. warning::
-	Haben Sie einen Suchfilter aktiviert, so wird er beispielsweise von der Exportfunktion übernommen.
+	Haben Sie einen Suchfilter aktiviert, so wird er von der Exportfunktion übernommen.
 
+__ _Suchfilteranwenden_
+.. _Suchfilteranwenden: /de/latest/erste-schritte/suche.html#einen-suchfilter-anwenden
 .. _Operator: /de/latest/erste-schritte/benutzeroberflaeche.html#operatoren
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
