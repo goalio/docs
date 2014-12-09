@@ -57,7 +57,7 @@ Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so könn
 
 4. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche
 
-Siehe auch: ´Wann treten Änderungen bei Beiträgen in Kraft?´__
+Siehe auch: `Wann treten Änderungen bei Beiträgen in Kraft?`__
 
 __ link_
 
