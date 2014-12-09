@@ -57,10 +57,14 @@ Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so könn
 
 4. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche
 
+Siehe auch: ´Wann treten Änderungen bei Beiträgen in Kraft?´__
+
+__ link_
+
 .. warning::
 	Berücksichtigen Sie gegebenfalls Abweichungen zwischen dem Kalenderjahr und dem Geschäftsjahr des Vereins
 
-
+.. _link: /de/latest/anwendungsfaelle/beitrag-aktualisieren.html
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflaechen
