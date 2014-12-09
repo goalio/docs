@@ -28,7 +28,7 @@ Beim Export von Mitgliedern oder anderen Datensätzen (wie zum Beispiel Abteilun
 
 3. Betätigen Sie die Schaltfläche_ *Exportieren* und wählen Sie das gewünschte Format aus
 
-4. Das System erstellt daraufhin Ihre Datei, was (abhängig von der Menge der zu exportierenden Daten) einige Minuten in Anspruch nehmen kann. Vermeiden Sie es in dieser Zeit, die Seite zu wechseln und/oder auf einen anderen Menüpunkt zu navigieren.
+4. Das System erstellt daraufhin Ihre Datei, was (abhängig von der Menge der zu exportierenden Daten) einige Minuten in Anspruch nehmen kann. Vermeiden Sie es in dieser Zeit, die Seite zu wechseln und/oder zu aktualisieren.
 
 Daten importieren
 -----------------
