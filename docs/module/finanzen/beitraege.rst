@@ -53,7 +53,7 @@ Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so könn
 
 2. Steuern Sie den Reiter_ *Beiträge* an
 
-3. Setzen Sie das Enddatum mindestens um einen Beitragszyklus vor das Startdatum. Wird der Beitrag also beispielsweise monatlich fällig, so könnten Sie das Startdatum in den Februar, und das Enddatum in den Januar setzen. Wird der Beitrag jährlich fällig, so könnten Sie das Startdatum in 2015 und das Enddatum in 2014 setzen (und so weiter).
+3. Setzen Sie das Enddatum mindestens um einen Beitragszyklus hinter das Startdatum. Wird der Beitrag also beispielsweise monatlich fällig, so könnten Sie das Startdatum in den Februar, und das Enddatum in den Januar setzen. Wird der Beitrag jährlich fällig, so könnten Sie das Startdatum in 2015 und das Enddatum in 2014 setzen (und so weiter).
 
 4. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche
 
