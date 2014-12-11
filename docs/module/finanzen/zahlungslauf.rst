@@ -36,3 +36,4 @@ Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Fel
 3. Die in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
