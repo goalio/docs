@@ -13,12 +13,11 @@ Zahlungslauf durchführen
 
 Gehen Sie folgendermaßen vor, um einen Zahlungslauf durchzuführen:
 
-1. Öffnen Sie über die gelbe Menüleiste die Seite *Verein*
+1. Öffnen Sie in der Navigationsleiste unter dem Menüpunkt *Buchungen* die Seite *Zahlungsläufe*
 
-2. abc
+2. Betätigen Sie die Schaltfläche *Neu*, um das Fenster für einen neuen Zahlungslauf aufzurufen
 
-3. abc
-
+3. Geben Sie zunächst an, zu welchem Datum abgerechnet werden soll, und
 
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
