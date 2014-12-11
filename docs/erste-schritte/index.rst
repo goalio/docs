@@ -48,5 +48,6 @@ __ reglink_
 .. toctree::
    :hidden:
 
+   grundeinstellungen
    benutzeroberflaeche
    suche
