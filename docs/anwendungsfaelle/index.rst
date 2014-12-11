@@ -24,6 +24,7 @@ Zahlungen
   Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
   Wann treten Änderungen bei Beiträgen in Kraft? <beitrag-aktualisieren>
   Wie trage ich eine Rücklastschrift ein? <ruecklastschrift>
+  Welcher Beitragszyklus gilt? <geltender-beitragszyklus>
 
 Technisches
 -----------
