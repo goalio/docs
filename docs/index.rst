@@ -9,6 +9,8 @@
 Überblick
 =========
 
+.. image:: ./images/goalio-software-screenshots.png
+
 Erste Schritte mit goalio
 -------------------------
 Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet, um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
