@@ -11,8 +11,12 @@ goalio Benutzerhandbuch
 
 .. image:: ./images/goalio-software-screenshots.png
 
+Inhalte
+-------
+
 Erste Schritte mit goalio
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet, um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
 
 * :doc:`erste-schritte/index`
@@ -27,7 +31,8 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
 
 
 Module
-------
+^^^^^^
+
 Hier finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
 In diesem Nachschlagewerk werden die Module im Detail beschrieben.
 Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen die Ihre Arbeit erleichtern.
@@ -45,7 +50,8 @@ Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen 
 
 
 Anwendungsfälle
----------------
+^^^^^^^^^^^^^^^
+
 Unter den Anwendungsfällen finden Sie Beispiele für ihre täglichen und nicht so alltäglichen Aufgaben.
 Schritt für Schritt erklären wir Ihnen an einem konkreten Beispiel, wie Sie am besten vorgehen.
 Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentation.
@@ -62,7 +68,7 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
 
 
 Entwickler
-----------
+^^^^^^^^^^
 
 * :doc:`Schnittstelle zu BookAndPlay <developer/bookandplay/index>`
 
@@ -74,7 +80,8 @@ Entwickler
 
 
 Sie benötigen Hilfe?
-====================
+--------------------
+
 Sie haben ein konkretes Problem? Sie finden in der Hilfe keine Antwort auf Ihre Frage?
 Dann schreiben Sie uns einfach eine Mail oder rufen uns an!
 
@@ -82,7 +89,7 @@ Dann schreiben Sie uns einfach eine Mail oder rufen uns an!
 
 
 Verzeichnisse
-=============
+-------------
 * :doc:`glossary`
 * :ref:`genindex`
 * :ref:`search`
