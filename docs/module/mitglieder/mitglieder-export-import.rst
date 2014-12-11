@@ -30,17 +30,6 @@ Beim Export von Mitgliedern oder anderen Datensätzen (wie zum Beispiel Abteilun
 
 4. Das System erstellt daraufhin Ihre Datei, was (abhängig von der Menge der zu exportierenden Daten) einige Minuten in Anspruch nehmen kann. Vermeiden Sie es in dieser Zeit, die Seite zu wechseln und/oder zu aktualisieren.
 
-Daten importieren
------------------
-
-Grundsätzlich soll die Importfunktion ein einfacheres Anlegen von mehreren Mitgliedsdaten ermöglichen, wobei auf das händische Eintippen der jeweiligen Werte verzichtet werden kann. Benötigt wird dazu eine Datei, welche die Mitgliederdaten in tabellarischer Form enthält. Gehen Sie wie folgt vor:
-
-1. Öffnen Sie zunächst die Liste, in welche Daten importiert werden sollen (Abteilungen, Mitglieder, ...)
-
-2. Betätigen Sie die Schaltfläche *Importieren*
-
-3. Laden Sie im neuen Fenster_ die Datei mit den Mitgliederdaten hoch
-
 .. warning::
 	Haben Sie einen Suchfilter aktiviert, so wird er von der Exportfunktion übernommen.
 
@@ -49,4 +38,3 @@ __ _Suchfilteranwenden_
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
-.. _Suche: /de/latest/erste-schritte/suche.html
