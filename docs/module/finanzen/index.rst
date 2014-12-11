@@ -10,5 +10,5 @@ Für einen Verein geht es beim Thema Finanzen sowohl um Korrektheit als auch um 
 	beitraege
 	konten
 	spenden
-	buchungslauf
+	zahlungslauf
 	gebuehren
