@@ -26,8 +26,6 @@ Tritt ein Vorstandsmitglied zurück, oder wird der Vorstand um ein weiteres Mitg
 
 4. Setzen Sie das Enddatum und bestätigen Sie Ihre Eingabe durch einen Klick auf die entsprechende Schaltfläche
 
-.. image:: ../images/gui/vorstandsmitglied-loeschen.png
-
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
