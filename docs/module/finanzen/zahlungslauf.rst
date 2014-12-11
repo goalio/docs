@@ -33,8 +33,6 @@ Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Fel
 
 2. Steuern Sie nun den Reiter_ *Dateien* an
 
-3. Eie in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen
+3. Die in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen
 
-.. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
