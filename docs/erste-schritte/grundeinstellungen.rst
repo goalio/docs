@@ -66,6 +66,8 @@ Vorstandsmitglieder anlegen
 
 4. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_ und wiederholen Sie die Schritte gegebenenfalls, um weitere Vorstandsmitglieder anzulegen
 
+.. image:: ../images/gui/vorstandsmitglied-anlegen.png
+
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
