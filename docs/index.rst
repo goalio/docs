@@ -9,8 +9,6 @@
 goalio Benutzerhandbuch
 =======================
 
-.. image:: ./images/goalio-software-screenshots.png
-
 Inhalte im Überblick
 --------------------
 
