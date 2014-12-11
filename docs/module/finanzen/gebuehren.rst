@@ -29,7 +29,7 @@ Festlegen der automatisch abgezogenen Gebühren
 
 1. Öffnen Sie im Menü unter *Beiträge* den Unterpunkt *Gebühren*
 
-2. Geben Sie im Feld der entsprechenden Gebühr die Höhe des Beitrages an, der pauschal anfallen soll
+2. Geben Sie im Feld der jeweiligen Gebühr die Höhe des Beitrages an, der pauschal anfallen soll
 
 3. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche_
 
