@@ -6,8 +6,8 @@
 
 .. _contents:
 
-Überblick
-=========
+goalio Benutzerhandbuch
+=======================
 
 .. image:: ./images/goalio-software-screenshots.png
 
