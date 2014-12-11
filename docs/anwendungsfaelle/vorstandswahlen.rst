@@ -24,6 +24,8 @@ Tritt ein Vorstandsmitglied zurück, oder wird der Vorstand um ein weiteres Mitg
 
 3. Steuern Sie im neuen Fenster den Reiter_ *Vorstand für* an, und doppelklicken Sie auf den Vorstandsposten, welcher beendet werden soll
 
+4. Setzen Sie das Enddatum und bestätigen Sie Ihre Eingabe durch einen Klick auf die entsprechende Schaltfläche
+
 .. image:: ../images/gui/vorstandsmitglied-entfernen.png
 
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
