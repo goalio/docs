@@ -1,7 +1,0 @@
-Buchungslauf
-============
-
-Lorem ipsum
-
-
-
