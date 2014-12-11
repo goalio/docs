@@ -20,6 +20,7 @@ Erste Schritte mit goalio
 Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbereitet, um Sie schnell mit den wichtigsten Funktionen vertraut zu machen.
 
 * :doc:`erste-schritte/index`
+* :doc:`erste-schritte/grundeinstellungen`
 * :doc:`erste-schritte/benutzeroberflaeche`
 * :doc:`erste-schritte/suche`
 
@@ -58,6 +59,7 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
 
 * :doc:`Mitglieder <anwendungsfaelle/index>`
 * :doc:`Beiträge <anwendungsfaelle/index>`
+* :doc:`Technisches <anwendungsfaelle/index>`
 
 .. toctree::
    :hidden:
