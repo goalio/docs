@@ -11,8 +11,8 @@ goalio Benutzerhandbuch
 
 .. image:: ./images/goalio-software-screenshots.png
 
-Inhalte
--------
+Inhalte im Überblick
+--------------------
 
 Erste Schritte mit goalio
 ^^^^^^^^^^^^^^^^^^^^^^^^^
