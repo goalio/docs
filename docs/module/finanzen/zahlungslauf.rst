@@ -25,7 +25,15 @@ Gehen Sie folgendermaßen vor, um einen Zahlungslauf durchzuführen:
 
 6. Möchten Sie weitere Informationen zu diesem Zahlungslauf vermerken, so können Sie diese in das Beschreibungsfeld eintippen
 
-7. Der Zahlungslauf wird durchgeführt, sobald Sie die Schaltfläche *Speichern* betätigen. Dies kann - je nach Größe des Vereins - einige Minuten in Anspruch nehmen.
+7. Der Zahlungslauf wird durchgeführt, sobald Sie die Schaltfläche *Speichern* betätigen. Dies kann besonders bei größeren Vereinen einige Zeit in Anspruch nehmen, in welcher Sie die Seite wechseln oder schließen können
+
+Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Feld *Status* signalisiert, ob der Testlauf bereits abgeschlossen ist, oder gerade noch durchgeführt wird. Ist er beendet, so finden Sie die generierten Dateien wie folgt:
+
+1. Doppelklicken Sie auf den entsprechenden Zahlungslauf, um Ihn zu öffnen
+
+2. Steuern Sie nun den Reiter_ *Dateien* an
+
+3. Eie in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen
 
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
