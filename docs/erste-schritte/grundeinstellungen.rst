@@ -26,20 +26,25 @@ Finanzinformationen des Vereins
 
 1. Öffnen Sie über die gelbe Menüleiste die Seite *Verein*
 
-2. Öffnen Sie nun den Reiter_ *Bank Information* und geben Sie an, welche Daten das Vereinskonto hat. Läuft das Konto über eine Person, so können Sie deren Namen im Feld *Zahler* eingeben.
+2. Gehen Sie nun auf den Reiter_ *Bank Information* und geben Sie an, welche Daten das Vereinskonto hat. Läuft das Konto über eine Person, so können Sie deren Namen im Feld *Zahler* eingeben.
 
-3. Wählen Sie nun über das Auswahlmenü_ im Reiter *Finanz Informationen* den Punkt *Finanz Information* aus, und geben Sie auf der sich daraufhin öffnenden Seite ein, wann das Geschäftsjahr beginnt, welches Finanzamt zuständig ist, ob beziehungsweise seit wann der Verein einen Freistellungsbescheid hat, und - sofern zutreffend - seit wann und mit welchem Zweck der Verein gemeinnützig ist.
+3. Wählen Sie über das Auswahlmenü_ im Reiter *Finanz Informationen* den Punkt *Finanz Information* aus, und geben Sie auf der sich daraufhin öffnenden Seite ein, wann das Geschäftsjahr beginnt, welches Finanzamt zuständig ist, ob beziehungsweise seit wann der Verein einen Freistellungsbescheid hat, und - sofern zutreffend - seit wann und mit welchem Zweck der Verein gemeinnützig ist.
 
 4. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_
 
 Vereinsstruktur anlegen
 -----------------------
 
-1. Öffnen Sie blablubb
+1. Öffnen Sie über die gelbe Menüleiste die Seite *Verein*
+
+2. Steuern Sie nun den Reiter_ *Abteilungen* an und legen Sie durch betätigen der Schaltfläche_ *Neu* eine erste Abteilung an
+
+3. (folgt)
 
 Vorstandsmitglieder anlegen
 ---------------------------
 
+1. (folgt)
 
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
