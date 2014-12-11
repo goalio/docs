@@ -13,7 +13,7 @@ Zahlungslauf durchführen
 
 Gehen Sie folgendermaßen vor, um einen Zahlungslauf durchzuführen:
 
-1. (folgt)
+1. Öffnen Sie über die gelbe Menüleiste die Seite *Verein*
 
 2. abc
 
