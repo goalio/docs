@@ -6,8 +6,8 @@ Einleitung
 
 Sind Sie neu in goalio, so sollten Sie zunächst grundlegenden Einstellungen prüfen und die wichtigsten Daten zu Ihrem Verein hinterlegen. Auf dieser Seite zeigen wir Ihnen, wie Sie dabei vorgehen können.
 
-Stammdaten des Vereins
-----------------------
+Stammdaten und Kontaktdaten hinterlegen
+---------------------------------------
 
 Gehen Sie folgendermaßen vor, um die Kerninformationen Ihres Vereins in der Software zu hinterlegen:
 
@@ -17,7 +17,9 @@ Gehen Sie folgendermaßen vor, um die Kerninformationen Ihres Vereins in der Sof
 
 3. Wechseln Sie auf den Reiter_ *Adresse* und füllen Sie die dortigen Felder mit der Anschrift des Vereinssitzes aus
 
-4. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_
+4. Steuern Sie nun den Abschnitt *Kontaktinformationen* an, um Telefonnummer(n) und E-Mail Adresse(n) des Vereins abzuspeichern
+
+5. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_
 
 Finanzinformationen des Vereins
 -------------------------------
@@ -34,6 +36,9 @@ Vereinsstruktur anlegen
 -----------------------
 
 1. Öffnen Sie blablubb
+
+Vorstandsmitglieder anlegen
+---------------------------
 
 
 .. _Auswahlmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
