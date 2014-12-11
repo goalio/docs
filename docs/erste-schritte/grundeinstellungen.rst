@@ -39,7 +39,15 @@ Vereinsstruktur anlegen
 
 2. Steuern Sie nun den Reiter_ *Abteilungen* an und legen Sie durch betätigen der Schaltfläche_ *Neu* eine erste Abteilung an
 
-3. (folgt)
+3. Geben Sie im neuen Fenster den Namen, das Gründungsdatum, das Kürzel und die Sportart ein. Sofern zutreffend können Sie ebenfalls noch eine Mitgliedschaft im Fachverband, eine spezielle Webseite der Abteilung sowie eine Verbandsmitgliedschaft hinterlegen.
+
+4. Weicht die Adresse der Abteilung von der Adresse des Vereins ab, so können Sie im Reiter_ *Adresse* eine spezielle Abteilungsanschrift hinterlegen
+
+5. Ist ein Abteilungsleiter vorhanden, so können Sie diesen im Reiter *Abteilungsleiter* festlegen
+
+6. 
+
+.. image:: ../images/gui/abteilung-anlegen.png
 
 Vorstandsmitglieder anlegen
 ---------------------------
