@@ -12,6 +12,7 @@ Mitglieder
 
   Wie lege ich Mitgliedsbeiträge fest? <beitraege>
   Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
+  Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
 
 
 Zahlungen
