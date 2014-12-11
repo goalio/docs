@@ -11,7 +11,6 @@ Mitglieder
   :numbered:
 
   Wie lege ich Mitgliedsbeiträge fest? <beitraege>
-  Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
   Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
 
 
@@ -22,6 +21,7 @@ Zahlungen
   :numbered:
 
   Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
+  Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
   Wann treten Änderungen bei Beiträgen in Kraft? <beitrag-aktualisieren>
   Wie trage ich eine Rücklastschrift ein? <ruecklastschrift>
 
