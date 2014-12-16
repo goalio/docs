@@ -72,12 +72,6 @@ Entwickler
 
 * :doc:`Schnittstelle zu BookAndPlay <developer/bookandplay/index>`
 
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   developer/index
-
 
 Sie benötigen Hilfe?
 --------------------
