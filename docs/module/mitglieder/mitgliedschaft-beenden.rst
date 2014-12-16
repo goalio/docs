@@ -9,7 +9,7 @@ Damit Sie bei der Bereinigung der Mitgliederliste keine Probleme haben, möchten
 Unterschied: Kündigungs- und Austrittsdatum
 -------------------------------------------
 
-Während sich das **Kündigungsdatum** eines Mitglieds auf den Zeitpunkt der Kündigung richtet, so handelt es sich beim **Austrittsdatum** um den (oftmals durch die Vereinssatzung vorgegebenen) letzten Monat der Mitgliedschaft.
+Während sich das **Kündigungsdatum** eines Mitglieds auf den Zeitpunkt der Kündigung richtet, so handelt es sich beim **Austrittsdatum** um den letzten Monat der Mitgliedschaft. Dieser wird in der Regel durch Kündigungsfristen von der jeweiligen Vereinssatzung vorgegeben.
 
 Mitgliedschaft beenden
 ----------------------
