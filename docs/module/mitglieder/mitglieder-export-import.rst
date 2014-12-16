@@ -33,7 +33,7 @@ Beim Export von Mitgliedern oder anderen Datensätzen (wie zum Beispiel Abteilun
 .. warning::
 	Haben Sie einen Suchfilter aktiviert, so wird er von der Exportfunktion übernommen.
 
-__ _Suchfilteranwenden_
+__ Suchfilteranwenden_
 .. _Suchfilteranwenden: /de/latest/erste-schritte/suche.html#einen-suchfilter-anwenden
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
