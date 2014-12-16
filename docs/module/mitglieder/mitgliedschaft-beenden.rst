@@ -18,7 +18,7 @@ Gehen Sie folgendermaßen vor, um eine Vereinsmitgliedschaft zu beenden:
 3. Haben Sie Ihre Eingaben gespeichert, so werden automatisch alle Verknüpfungen zur Vereinsmitgliedschaft beendet, sodass beispielsweise nach dem Austrittsdatum kein Beitrag mehr fällig wird
 
 .. note::
-	Während sich das **Kündigungsdatum** eines Mitglieds auf den Zeitpunkt der Kündigung bezieht, so handelt es sich beim **Austrittsdatum** um den letzten Monat der Mitgliedschaft. Dieser wird in der Regel durch Kündigungsfristen von der jeweiligen Vereinssatzung vorgegeben.
+	Während sich das **Kündigungsdatum** eines Mitglieds auf den Zeitpunkt der Kündigung bezieht, so handelt es sich beim **Austrittsdatum** um den letzten Monat der Mitgliedschaft. Dieser wird in der Regel durch Fristen von der jeweiligen Vereinssatzung vorgegeben.
 
 Abteilungsmitgliedschaft beenden
 --------------------------------
