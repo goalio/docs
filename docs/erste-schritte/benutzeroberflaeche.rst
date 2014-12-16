@@ -68,6 +68,13 @@ Auswahl-Menüs (auch Dropdown-Menüs oder Listenmenüs) sind eine platzsparende 
 
 .. image:: ../images/gui/dropdown-menu.png
 
+Bearbeiten-Stift
+----------------
+
+Der Bearbeiten-Icon (auch Bearbeiten-Knopf oder Bearbeiten-Stift) dient dazu, einen Datensatz schnell und unkompliziert zu bearbeiten. Sichtbar wird er, sobald sich der Mauszeiger über dem entsprechenden Datensatz befindet. Die einem zur Verfügung stehenden Optionen können dabei durch einen Klick auf den Stift in Form eines Listenmenüs ausgeklappt werden.
+
+.. image:: ../images/gui/bearbeiten-stift.png
+
 Operatoren
 ..........
 
