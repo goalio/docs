@@ -34,3 +34,4 @@ Logins deaktivieren
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
