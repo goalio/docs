@@ -10,6 +10,7 @@ Mitglieder
  .. toctree::
   :numbered:
 
+  Wie beende ich eine Mitgliedschaft? <mitgliedschaft-beenden>
   Wie lege ich Mitgliedsbeiträge fest? <beitraege>
   Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
 
