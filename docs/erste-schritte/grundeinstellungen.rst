@@ -19,7 +19,7 @@ Gehen Sie folgendermaßen vor, um die Kerninformationen Ihres Vereins in der Sof
 
 4. Steuern Sie nun den Abschnitt *Kontaktinformationen* an, um Telefonnummer(n) und E-Mail Adresse(n) des Vereins abzuspeichern
 
-5. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_
+5. Speichern Sie Ihre Eingaben durch Betätigen der entsprechenden Schaltfläche_
 
 Finanzinformationen des Vereins
 -------------------------------
@@ -28,16 +28,16 @@ Finanzinformationen des Vereins
 
 2. Gehen Sie nun auf den Reiter_ *Bank Information* und geben Sie an, welche Daten das Vereinskonto hat. Läuft das Konto über eine Person, so können Sie deren Namen im Feld *Zahler* eingeben.
 
-3. Wählen Sie über das Auswahlmenü_ im Reiter *Finanz Informationen* den Punkt *Finanz Information* aus, und geben Sie auf der sich daraufhin öffnenden Seite ein, wann das Geschäftsjahr beginnt, welches Finanzamt zuständig ist, ob beziehungsweise seit wann der Verein einen Freistellungsbescheid hat, und - sofern zutreffend - seit wann und mit welchem Zweck der Verein gemeinnützig ist.
+3. Wählen Sie über das Auswahlmenü_ im Reiter *Finanz Informationen* den Punkt *Finanz Information* aus, und geben Sie auf der sich daraufhin öffnenden Seite ein, wann das Geschäftsjahr beginnt (Standardwert = Januar), welches Finanzamt zuständig ist, ob beziehungsweise seit wann der Verein einen Freistellungsbescheid hat, und - sofern zutreffend - seit wann und mit welchem Zweck der Verein gemeinnützig ist.
 
-4. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_
+4. Speichern Sie Ihre Eingaben durch Betätigen der entsprechenden Schaltfläche_
 
 Vereinsstruktur anlegen
 -----------------------
 
 1. Öffnen Sie über die gelbe Menüleiste die Seite *Verein*
 
-2. Steuern Sie nun den Reiter_ *Abteilungen* an und legen Sie durch betätigen der Schaltfläche_ *Neu* eine erste Abteilung an
+2. Steuern Sie nun den Reiter_ *Abteilungen* an und legen Sie durch Betätigen der Schaltfläche_ *Neu* eine erste Abteilung an
 
 3. Geben Sie im neuen Fenster den Namen, das Gründungsdatum, das Kürzel und die Sportart ein. Sofern zutreffend können Sie ebenfalls noch eine Mitgliedschaft im Fachverband, eine spezielle Webseite der Abteilung sowie eine Verbandsmitgliedschaft hinterlegen.
 
@@ -51,7 +51,7 @@ Vereinsstruktur anlegen
 
 8. Ist eine Abteilung in mehrere Teams unterteilt, so können Sie diese im Tab_ *Teams* festlegen
 
-9. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_ und wiederholen Sie die Schritte gegebenenfalls, um weitere Abteilungen anzulegen
+9. Speichern Sie Ihre Eingaben durch Betätigen der entsprechenden Schaltfläche_ und wiederholen Sie die Schritte gegebenenfalls, um weitere Abteilungen anzulegen
 
 .. image:: ../images/gui/abteilung-anlegen.png
 
@@ -64,7 +64,7 @@ Vorstandsmitglieder anlegen
 
 3. Tragen Sie nun ein, seit wann der Vorstandsposten ausgeübt wird, welche Funktion er erfüllt und von welchem Mitglied er wahrgenommen wird
 
-4. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_ und wiederholen Sie die Schritte gegebenenfalls, um weitere Vorstandsmitglieder anzulegen
+4. Speichern Sie Ihre Eingaben durch Betätigen der entsprechenden Schaltfläche_ und wiederholen Sie die Schritte gegebenenfalls, um weitere Vorstandsmitglieder anzulegen
 
 .. image:: ../images/gui/vorstandsmitglied-anlegen.png
 

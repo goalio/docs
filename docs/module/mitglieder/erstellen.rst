@@ -19,7 +19,7 @@ Anlegen eines Mitglieds
 
 5. Um das Mitglied der korrekten Abteilung zuzuordnen, öffnen Sie den Reiter_ *Mitglied in* und fügen Sie über die Schaltfläche_ *Neu* die entsprechende Abteilung hinzu
 
-6. Öffnen Sie nun noch den Reiter_ *Beiträge* und fügen Sie durch betätigen der Schaltfläche *Neu* den zutreffenden Mitgliedsbeitrag hinzu
+6. Öffnen Sie nun noch den Reiter_ *Beiträge* und fügen Sie durch Betätigen der Schaltfläche *Neu* den zutreffenden Mitgliedsbeitrag hinzu
 
 7. Sind Sie fertig, so können Sie Ihre Eingaben speichern und das Fenster schließen. Beachten Sie bitte, dass das neue Mitglied gegebenenfalls erst bei erneutem Aufrufen der Mitgliederliste angezeigt wird.
 

@@ -32,7 +32,7 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
 Module
 ^^^^^^
 
-Hier finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
+Hier finden Sie umfassende Informationen zu den einzelnen Modulen von goalio.
 In diesem Nachschlagewerk werden die Module im Detail beschrieben.
 Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen, die Ihre Arbeit erleichtern.
 

@@ -43,7 +43,7 @@ Ist Ihnen ein Fenster zu groß oder zu klein, so können Sie dessen Maße ohne g
 Mehrere Fenster öffnen
 """"""""""""""""""""""
 
-Eine weitere nützliche Funktion ist die Möglichkeit, in mehreren offenen Fenstern gleichzeitig zu arbeiten. Beachten Sie dabei, dass sich ein geöffnetes Fenster beim aufrufen einer neuen Seite wieder schließt und Sie so lediglich Datensätze der gleichen Art (zwei Mitglieder, zwei Abteilungen, ...) simultan bearbeiten können.
+Eine weitere nützliche Funktion ist die Möglichkeit, in mehreren offenen Fenstern gleichzeitig zu arbeiten. Beachten Sie dabei, dass sich ein geöffnetes Fenster beim Aufrufen einer neuen Seite wieder schließt und Sie so lediglich Datensätze der gleichen Art (zwei Mitglieder, zwei Abteilungen, ...) simultan bearbeiten können.
 
 .. image:: ../images/gui/mehrere-fenster.png
 
@@ -78,7 +78,7 @@ Operator              Wirkungsweise
 ====================  =======
 Beginnt mit           Liefert alle Ergebnisse, die mit der Eingabe beginnen (Mus **>** Mustermann, Muse)
 Enthält               Liefert alle Ergebnisse, welche die Eingabe beinhalten (ster **>** Mustermann, Holstern)
-Ist gleich            Liefert alle Ergebnisse, die mit der Eingabe übereinstimmen (Mustermann **>** Mustermann)
+Ist gleich            (Bei Zahlen oder Datumsangaben) Liefert alle Ergebnisse, die mit der Eingabe exakt übereinstimmen
 Größer oder gleich    (Bei Datumsangaben) Liefert alle Ergebnisse, bei denen das Datum in der **Zukunft** liegt oder nicht ausgefüllt ist
 Kleiner oder gleich   (Bei Datumsangaben) Liefert alle Ergebnisse, bei denen das Datum in der **Vergangenheit** liegt oder nicht ausgefüllt ist
 Ist nicht gleich      (Bei Datumsangaben) Liefert alle Ergebnisse, die nicht dem Datum entsprechen

@@ -4,7 +4,7 @@ Suche
 Einleitung
 ----------
 
-Die goalio Suche ist ein nützliches Werkzeug, um Informationen gezielt schnell und übersichtlich darzustellen. Sie kann durch einen Klick auf die entsprechende Schaltfläche rechts über einer Liste aufgerufen werden. Die Suche wird automatisch um neue Datenfelder erweitert, sobald diese z.B. in der Mitglieder-Eingabemaske eingefügt werden. Dadurch können selbst vereinsspezifische Datenfelder durchsucht werden.
+Die goalio Suche ist ein nützliches Werkzeug, um Informationen gezielt schnell und übersichtlich darzustellen. Sie kann durch einen Klick auf die entsprechende Schaltfläche rechts über einer Liste aufgerufen werden. Die Suche wird automatisch um neue Datenfelder erweitert, sobald diese z.B. in der Mitglieder-Eingabemaske eingefügt werden. Dadurch können selbst vereins-spezifische Datenfelder durchsucht werden.
 
 .. image:: ../images/gui/suche.png
 
@@ -17,7 +17,7 @@ Um eine Liste zu filtern, können Sie die Kriterien, nach denen dies geschehen s
 
 .. image:: ../images/gui/suche-button.png
 
-2. Standardmäßig wird der Abschnitt *Mitglieder* mit den dazugehörigen Suchkriterien bereits geöffnet dargestellt. Sollten Sie andere Kriterien benötigen (wie zum Beispiel die Adresse, oder die Team-Zugehörigkeit), so können Sie diese durch klicken auf die jeweilige Abschnitts-Überschrift ebenfalls ausklappen lassen:
+2. Standardmäßig wird der Abschnitt *Mitglieder* mit den dazugehörigen Suchkriterien bereits geöffnet dargestellt. Sollten Sie andere Kriterien benötigen (wie zum Beispiel die Adresse, oder die Team-Zugehörigkeit), so können Sie diese durch Klicken auf die jeweilige Abschnitts-Überschrift ebenfalls ausklappen lassen:
 
 .. image:: ../images/gui/suche-abschnitte.png
 
