@@ -23,7 +23,15 @@ Gehen Sie folgendermaßen vor, um eine Vereinsmitgliedschaft zu beenden:
 Abteilungsmitgliedschaft beenden
 --------------------------------
 
-1. (folgt)
+Um lediglich die Zugehörigkeit zu einer Abteilung zu beenden, können Sie wie folgt vorgehen:
+
+1. Öffnen Sie das Mitglied durch einen Doppelklick auf den entsprechenden Eintrag in der Mitgliederliste
+
+2. Steuern Sie den Reiter_ *Mitglied in* an, und wählen Sie die entsprechende Abteilung durch einen Doppelklick zum Bearbeiten aus
+
+3. Legen Sie im Feld *Enddatum* den letzten Tag der Abteilungszugehörigkeit fest, und bestätigen Sie Ihre Eingabe durch Betätigen der Schaltfläche *Speichern*
+
+4. Ähnlich wie beim Beenden der Vereinsmitgliedschaft, werden auch beim Beenden der Abteilungsmitgliedschaft alle dazugehörigen Verknüpfungen beendet, sodass der Abteilungsbeitrag nach Ende der Mitgliedschaft nicht mehr anfällt
 
 .. _Mitgliedererstellung: /de/latest/module/mitglieder/erstellen.html
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
