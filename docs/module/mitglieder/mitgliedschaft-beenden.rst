@@ -22,7 +22,5 @@ Gehen Sie folgendermaßen vor, um eine Mitgliedschaft zu beenden:
 
 3. (folgt)
 
-.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
 .. _Mitgliedererstellung: /de/latest/module/mitglieder/erstellen.html
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
