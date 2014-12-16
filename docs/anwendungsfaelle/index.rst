@@ -32,4 +32,4 @@ Technisches
  .. toctree::
   :numbered:
 
-  Warum werden Elemente nicht oder falsch dargestellt? <debug-leitfaden>
+  Technische Fehler finden und beheben <debug-leitfaden>
