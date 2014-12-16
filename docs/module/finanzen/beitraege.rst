@@ -67,4 +67,4 @@ __ link_
 .. _link: /de/latest/anwendungsfaelle/beitrag-aktualisieren.html
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflaechen
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
