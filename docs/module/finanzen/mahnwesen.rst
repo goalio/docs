@@ -15,7 +15,7 @@ Der Verein hat dabei in goalio die Möglichkeit, die Höhe der Gebühr für die 
 
 2. Geben Sie im Feld der jeweiligen Mahnstufen die Höhe des Beitrages an, der pauschal anfallen soll
 
-3. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche_
+3. Speichern Sie Ihre Änderung durch Betätigen der entsprechenden Schaltfläche_
 
 Mahnlauf durchführen
 --------------------
@@ -34,7 +34,7 @@ Um allen nicht zahlenden Mitgliedern eine Zahlungserinnerung zu schicken, könne
 
 5. Optional können Sie den Mahnlauf auf jene Mitglieder beschränken, welche eine bestimmte Zahlungsmethode verwenden. Wählen Sie diese dazu im Feld *Payment type* aus.
 
-6. Der Mahnlauf wird durchgeführt, sobald Sie die Schaltfläche_ *Speichern* betätigen. Dies kann besonders bei größeren Vereinen einige Zeit in Anspruch nehmen, in welcher Sie die Seite wechseln oder schließen können
+6. Der Mahnlauf wird durchgeführt, sobald Sie die Schaltfläche_ *Speichern* Betätigen. Dies kann besonders bei größeren Vereinen einige Zeit in Anspruch nehmen, in welcher Sie die Seite wechseln oder schließen können
 
 Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Feld *Status* signalisiert, ob der Mahnlauf bereits abgeschlossen ist, oder gerade noch durchgeführt wird. Ist er beendet, so finden Sie die generierten Dateien wie folgt:
 
@@ -42,7 +42,7 @@ Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Fel
 
 2. Steuern Sie nun den Reiter_ *Dateien* an
 
-3. Die in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen. Sollten keine Dateien angezeigt werden, so aktualisieren Sie die Seite durch betätigen der Taste :kbd:`F5`.
+3. Die in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen. Sollten keine Dateien angezeigt werden, so aktualisieren Sie die Seite durch Betätigen der Taste :kbd:`F5`.
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
