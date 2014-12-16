@@ -13,7 +13,7 @@ Hat ein Mitglied seinen Beitrag auf das Vereinskonto eingezahlt, so muss dies au
 
 5. Geben Sie durch das Feld *Status* an, ob der Beitrag bezahlt, zurückgebucht, unbestätigt oder per Lastschrift eingezogen worden ist
 
-6. Speichern Sie Ihre Eingaben durch betätigen der entsprechenden Schaltfläche_
+6. Speichern Sie Ihre Eingaben durch Betätigen der entsprechenden Schaltfläche_
 
 7. Das Beitragskonto_ beziehungsweise der Saldo berechnet sich nun automatisch neu und das Fenster kann geschlossen werden
 
