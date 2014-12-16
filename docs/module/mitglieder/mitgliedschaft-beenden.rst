@@ -16,7 +16,7 @@ Mitgliedschaft beenden
 
 Gehen Sie folgendermaßen vor, um eine Mitgliedschaft zu beenden:
 
-1. Öffnen Sie das Mitglied durch einen doppelklick auf den entsprechenden Eintrag in der Mitgliederliste
+1. Öffnen Sie das Mitglied durch einen Doppelklick auf den entsprechenden Eintrag in der Mitgliederliste
 
 2. Geben Sie nun zunächst das Kündigungs- und Austrittsdatum des Mitglieds ein
 
