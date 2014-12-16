@@ -33,7 +33,7 @@ __ reaktivieren_
 Sitzung abgelaufen
 ...................
 
-Um zu verhindern, dass Unbefugte Zutritt zu Ihren Daten erhalten, werden Sie nach 15 Minuten ohne Aktivität auf goalio automatisch ausgeloggt. Das Speichern von vorgenommenen Änderungen und öffnen neuer Seiten wird in diesem Fall vom System verhindert. Laden Sie die Seite durch betätigen der Taste :kbd:`F5` neu und loggen Sie sich wieder ein, um weiterarbeiten zu können.
+Um zu verhindern, dass Unbefugte Zutritt zu Ihren Daten erhalten, werden Sie nach 15 Minuten ohne Aktivität auf goalio automatisch ausgeloggt. Das Speichern von vorgenommenen Änderungen und öffnen neuer Seiten wird in diesem Fall vom System verhindert. Laden Sie die Seite durch Betätigen der Taste :kbd:`F5` neu und loggen Sie sich wieder ein, um weiterarbeiten zu können.
 
 .. _Listenmenü: /de/latest/erste-schritte/benutzeroberflaeche.html#auswahl-menus
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
