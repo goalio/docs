@@ -60,11 +60,18 @@ Haben Sie einem Mitglied versehentlich den falschen Beitrag zugeordnet, so könn
 Siehe auch: `Wann treten Änderungen bei Beiträgen in Kraft?`__
 
 __ link_
+.. _link: /de/latest/anwendungsfaelle/beitrag-aktualisieren.html
 
 .. warning::
 	Berücksichtigen Sie gegebenfalls Abweichungen zwischen dem Kalenderjahr und dem Geschäftsjahr des Vereins
 
-.. _link: /de/latest/anwendungsfaelle/beitrag-aktualisieren.html
+Weiterführendes
+---------------
+
+* `Welcher Beitragszyklus gilt?`__
+__ beitragszyklus_
+.. _beitragszyklus: /de/latest/anwendungsfaelle/geltender-beitragszyklus.html
+
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
