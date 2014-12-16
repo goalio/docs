@@ -1,4 +1,6 @@
 Eine Mitgliedschaft beenden
 ===========================
 
-(folgt)
+Gehen Sie folgendermaßen vor, um eine Mitgliedschaft zu beenden:
+
+1. (folgt)
