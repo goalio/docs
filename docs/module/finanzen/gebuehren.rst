@@ -51,4 +51,4 @@ Möchte man eine individuelle Gebühr für einen Spieler vermerken, so kann man 
 .. _Mahnstufe: /de/latest/module/finanzen/mahnwesen.html
 .. _Fenster: /de/latest/erste-schritte/benutzeroberflaeche.html#fenster
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
-.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflaechen
+.. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
