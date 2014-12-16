@@ -1,12 +1,10 @@
 Eine Mitgliedschaft beenden
 ===========================
 
-Damit Sie bei der Bereinigung der Mitgliederliste keine Probleme haben, möchten wir Ihnen auf dieser Seite zeigen, wie Sie Mitglieder korrekt austreten lassen. Dies geschieht - wie auch die Mitgliedererstellung_ - über die bereits bekannten Bedienelemente und Mechanismen von goalio.
-
 Einleitung
 ----------
 
-abc abc abc
+Damit Sie bei der Bereinigung der Mitgliederliste keine Probleme haben, möchten wir Ihnen auf dieser Seite zeigen, wie Sie Mitglieder korrekt austreten lassen. Dies geschieht - wie auch die Mitgliedererstellung_ - über die bereits bekannten Bedienelemente und Mechanismen von goalio.
 
 Was unterscheidet das Kündigungs- vom das Austrittsdatum?
 ---------------------------------------------------------
