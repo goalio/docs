@@ -6,8 +6,8 @@ Einleitung
 
 Damit Sie bei der Bereinigung der Mitgliederliste keine Probleme haben, möchten wir Ihnen auf dieser Seite zeigen, wie Sie Mitglieder korrekt austreten lassen. Dies geschieht - wie auch die Mitgliedererstellung_ - über die bereits bekannten Bedienelemente und Mechanismen von goalio.
 
-Unterschied: Kündigungs- und Austrittsdatum?
---------------------------------------------
+Unterschied: Kündigungs- und Austrittsdatum
+-------------------------------------------
 
 Während sich das **Kündigungsdatum** eines Mitglieds auf den Zeitpunkt der Kündigung richtet, so handelt es sich beim **Austrittsdatum** um das (oftmals durch die Vereinssatzung vorgegebene) Datum, zu welchem die Kündigung wirksam wird und das Mitglied den Verein offiziell verlässt.
 
