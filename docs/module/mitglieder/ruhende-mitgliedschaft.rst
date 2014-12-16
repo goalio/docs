@@ -10,14 +10,14 @@ Eine Mitgliedschaft ruhen lassen
 
 2. Wählen Sie im neu geöffneten Fenster den Reiter_ *Beurlaubungen* aus
 
-3. Geben Sie an, wieso und wie lange die Mitgliedschaft ausgesetzt werden soll, und speichern Sie Ihre Eingabe durch betätigen der entsprechenden Schaltfläche_
+3. Geben Sie an, wieso und wie lange die Mitgliedschaft ausgesetzt werden soll, und speichern Sie Ihre Eingabe durch Betätigen der entsprechenden Schaltfläche_
 
 Ruhende Mitgliedschaften ausblenden
 -----------------------------------
 
 Möchten Sie ruhende Mitgliedschaften ausblenden, um die Mitgliederliste geordneter zu gestalten, so können sie wie folgt vorgehen:
 
-1. Öffnen Sie die Suche_ durch betätigen der entsprechenden Schaltfläche_ in der Mitgliederliste
+1. Öffnen Sie die Suche_ durch Betätigen der entsprechenden Schaltfläche_ in der Mitgliederliste
 
 2. Wählen Sie aus der Liste mit Kriterien den Abschnitt *Mitglieder Beurlaubungen aus*
 
