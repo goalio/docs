@@ -35,3 +35,4 @@ Um lediglich die Zugehörigkeit zu einer Abteilung zu beenden, können Sie wie f
 
 .. _Mitgliedererstellung: /de/latest/module/mitglieder/erstellen.html
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
+.. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
