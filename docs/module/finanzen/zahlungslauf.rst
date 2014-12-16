@@ -33,7 +33,7 @@ Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Fel
 
 2. Steuern Sie nun den Reiter_ *Dateien* an
 
-3. Die in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen. Sollten keine Dateien angezeigt werden, so aktualisieren Sie die Seite durch betätigen der Taste :kbd:`F5`.
+3. Die in der Liste angezeigten Dokumente können Sie jetzt zur weiteren Verwendung mit einem einfachen Klick herunterladen. Sollten keine Dateien angezeigt werden, so aktualisieren Sie die Seite durch Betätigen der Taste :kbd:`F5`.
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
 .. _Schaltfläche: /de/latest/erste-schritte/benutzeroberflaeche.html#schaltflachen
