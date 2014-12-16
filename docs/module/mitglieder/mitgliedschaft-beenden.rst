@@ -1,5 +1,5 @@
-Eine Mitgliedschaft beenden
-===========================
+Mitgliedschaft beenden
+======================
 
 Einleitung
 ----------
