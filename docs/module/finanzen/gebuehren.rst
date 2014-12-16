@@ -31,7 +31,7 @@ Festlegen der automatisch abgezogenen Gebühren
 
 2. Geben Sie im Feld der jeweiligen Gebühr die Höhe des Beitrages an, der pauschal anfallen soll
 
-3. Speichern Sie Ihre Änderung durch betätigen der entsprechenden Schaltfläche_
+3. Speichern Sie Ihre Änderung durch Betätigen der entsprechenden Schaltfläche_
 
 Vermerken einer individuellen Gebühr
 ------------------------------------
@@ -40,11 +40,11 @@ Möchte man eine individuelle Gebühr für einen Spieler vermerken, so kann man 
 
 1. Öffnen Sie das Mitglied über die Mitgliederliste
 
-2. Steuern Sie den Reiter_ Beitragskonto an und fügen Sie durch betätigen der Schaltfläche_ *Neu* eine *Mitgliederbeitrag Buchung* hinzu
+2. Steuern Sie den Reiter_ Beitragskonto an und fügen Sie durch Betätigen der Schaltfläche_ *Neu* eine *Mitgliederbeitrag Buchung* hinzu
 
 3. Geben Sie im Feld *Beschreibung* den Grund für die Gebühr an, setzen Sie als *Status* den Wert *Forderung* ein und legen Sie die Höhe der Gebühr fest
 
-4. Sobald Sie Ihre Eingabe durch betätigen der entsprechenden Schaltfläche gespeichert haben, aktualisiert sich das Beitragskonto automatisch und zeigt ab sofort die eingetragene Gebühr an
+4. Sobald Sie Ihre Eingabe durch Betätigen der entsprechenden Schaltfläche gespeichert haben, aktualisiert sich das Beitragskonto automatisch und zeigt ab sofort die eingetragene Gebühr an
 
 .. image:: ../../images/gui/gebuehr-eintragen.png
 
