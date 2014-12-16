@@ -31,7 +31,7 @@ Um lediglich die Zugehörigkeit zu einer Abteilung zu beenden, können Sie wie f
 
 3. Legen Sie im Feld *Enddatum* den letzten Tag der Abteilungszugehörigkeit fest, und bestätigen Sie Ihre Eingabe durch Betätigen der Schaltfläche *Speichern*
 
-4. Ähnlich wie beim Beenden der Vereinsmitgliedschaft, werden auch beim Beenden der Abteilungsmitgliedschaft alle dazugehörigen Verknüpfungen beendet, sodass der Abteilungsbeitrag nach Ende der Mitgliedschaft nicht mehr anfällt
+4. Ähnlich wie beim Beenden der Vereinsmitgliedschaft, werden auch beim Beenden der Abteilungsmitgliedschaft alle dazugehörigen Verknüpfungen beendet, sodass beispielsweise der Abteilungsbeitrag nach Ende der Mitgliedschaft nicht mehr anfällt
 
 .. _Mitgliedererstellung: /de/latest/module/mitglieder/erstellen.html
 .. _Bedienelemente: /de/latest/erste-schritte/benutzeroberflaeche.html
