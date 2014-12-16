@@ -1,4 +1,4 @@
-.. goalio documentation master file, created by
+﻿.. goalio documentation master file, created by
    sphinx-quickstart on Fri Nov 14 10:36:01 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -34,7 +34,7 @@ Module
 
 Hier finden sie umfassende Informationen zu den einzelnen Modulen von goalio.
 In diesem Nachschlagewerk werden die Module im Detail beschrieben.
-Nehmen Sie sich ruhig etwas Zeit zum stöbern und entdecken Sie neue Funktionen die Ihre Arbeit erleichtern.
+Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen, die Ihre Arbeit erleichtern.
 
 * :doc:`module/finanzen/index`
 * :doc:`module/mitglieder/index`
