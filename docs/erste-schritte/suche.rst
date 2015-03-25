@@ -28,7 +28,7 @@ Suchfilter entfernen
 
 Haben Sie einen Suchfilter angewandt, so gibt es mehrere Möglichkeiten, diesen wieder zu deaktivieren:
 
-Einzeln
+Einzeln2
 ^^^^^^^
 
 Um individuell auszuwählen, welcher Suchfilter gelöscht werden soll, klicken Sie in der entsprechenden Eingabemaske rechts auf das kleine Kreuz. Haben Sie dies getan, so wird der jeweilige Filter entfernt, die Mitgliederliste aktualisiert, und die anderen Filter beibehalten.
