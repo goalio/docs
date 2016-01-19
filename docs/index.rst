@@ -64,8 +64,15 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
    :maxdepth: 2
 
    Anwendungsfälle <anwendungsfaelle/index>
+   
+Statistiken
+^^^^^^^^^^^^^^^
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
 
+   Anwendungsfälle <statistiken/index>
 
 Entwickler
 ^^^^^^^^^^
