@@ -72,7 +72,7 @@ Statistiken
    :hidden:
    :maxdepth: 2
 
-   Anwendungsfälle <statistiken/index>
+   Statistiken <statistiken/index>
 
 Entwickler
 ^^^^^^^^^^
