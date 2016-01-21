@@ -38,6 +38,7 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
 
 * :doc:`module/finanzen/index`
 * :doc:`module/mitglieder/index`
+* :doc:`module/statistiken/index`
 
 .. toctree::
    :hidden:
@@ -45,6 +46,7 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
 
    Mitglieder-Modul <module/mitglieder/index>
    Finanz-Modul <module/finanzen/index>
+   Statistiken <module/statistiken/index>
 
 
 
@@ -64,15 +66,6 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
    :maxdepth: 2
 
    Anwendungsfälle <anwendungsfaelle/index>
-   
-Statistiken
-^^^^^^^^^^^^^^^
-
-.. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   Statistiken <statistiken/index>
 
 Entwickler
 ^^^^^^^^^^
