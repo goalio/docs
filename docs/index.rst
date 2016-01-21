@@ -9,7 +9,7 @@
 goalio Benutzerhandbuch
 =======================
 
-Inhalte im Überblick
+Inhalt im Überblick
 --------------------
 
 Erste Schritte mit goalio
