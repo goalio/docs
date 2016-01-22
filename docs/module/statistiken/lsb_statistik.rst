@@ -6,8 +6,8 @@ Jedes Jahr sind Sportvereine dazu aufgerufen die Meldestatistik an ihre jeweilig
 .. warning::
  Stellen Sie sicher, dass die notwendigen Vereins- (Name, LSB-Nummer) und Abteilungsinformationen (Name, Verein, Verband & Sport)  für die Meldestatistik im goalio-System hinterlegt sind.
 
-1. Navigieren Sie mit der Maus über den Menüpunkt Statistik
-2. Wählen Sie im angezeigten Auswahlmenü die Schaltfläche LSB-Jahresstatistik
+1. Navigieren Sie mit der Maus über den Menüpunkt *Statistik*
+2. Wählen Sie im angezeigten Auswahlmenü die Schaltfläche *LSB-Jahresstatistik*
 3. Falls Sie einen abweichenden Stichtag nutzen wollen, nutzen Sie das dafür vorgesehene Feld
 4. Exportieren und Speichern Sie die Mitgliederdaten als DOSB-Statistik
 
