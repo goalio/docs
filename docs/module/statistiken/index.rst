@@ -1,24 +1,21 @@
 Statistiken
 ===========
-Goalio stellt neben der Verwaltung von Abteilung, Teams und Mitglieder auch ein Statistikmodul zur Verfügung, welches Ihnen eine schnelle Übersicht über Ihre Mitgliederzahlen und aktuellen/prognostizierten Einnahmen gewährt. Gleichzeitig ermöglicht Ihnen goalio eine reibungslose Jahresmeldung an den jeweiligen Landessportbund
-Um ihre aktuellen Übersichten aufzurufen gehen Sie folgenden Schritt:
+Goalio stellt neben der Verwaltung von Abteilung, Teams und Mitglieder auch ein Statistikmodul zur VerfÃ¼gung, welches Ihnen eine schnelle Ãœbersicht Ã¼ber Ihre Mitgliederzahlen und aktuellen/prognostizierten Einnahmen gewÃ¤hrt. Gleichzeitig ermÃ¶glicht Ihnen goalio eine reibungslose Jahresmeldung an den jeweiligen Landessportbund
+Um ihre aktuellen Ãœbersichten aufzurufen gehen Sie folgenden Schritt:
 
-1. Navigieren Sie mit der Maus über den Punkt Statistik
-2. Wählen Sie im angezeigten Auswahlmenü zwischen Mitgliederübersicht, Einnahmen und  Dashboard
+1. Navigieren Sie mit der Maus Ã¼ber den Punkt Statistik
+2. WÃ¤hlen Sie im angezeigten AuswahlmenÃ¼ zwischen MitgliederÃ¼bersicht, Einnahmen und  Dashboard
 
 Allgemeine Bestandserhebung 
 ---------------------------
-Sollten Sie eine allgemeine Bestandsdatenerhebung durchführen, so gehen Sie folgende Schritte:
+Sollten Sie eine allgemeine Bestandsdatenerhebung durchfÃ¼hren, so gehen Sie folgende Schritte:
 
-1. Navigieren Sie mit der Maus über den Punkt Statistik
-2. Den Stichtag für die Statistik eingeben.
+1. Navigieren Sie mit der Maus Ã¼ber den Punkt Statistik
+2. Den Stichtag fÃ¼r die Statistik eingeben.
 3. Mitgliederdaten in einem der jeweilig vorgegebenen Formate exportieren
 4. Speichern Sie die Datei lokal auf Ihrem Rechner
 
 .. toctree::
-	
      :hidden:
-
-	
-lsb_statistik
-lsb_statistikbrandenburg
+     lsb_statistik
+     lsb_statistikbrandenburg
