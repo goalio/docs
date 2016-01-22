@@ -24,7 +24,7 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
 
 .. toctree::
    :hidden:
-   :maxdepth: 4
+   :maxdepth: 3
 
    Erste Schritte <erste-schritte/index>
 
@@ -36,15 +36,18 @@ Hier finden Sie umfassende Informationen zu den einzelnen Modulen von goalio.
 In diesem Nachschlagewerk werden die Module im Detail beschrieben.
 Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen, die Ihre Arbeit erleichtern.
 
-* :doc:`module/finanzen/index`
 * :doc:`module/mitglieder/index`
+* :doc:`module/abteilungen/index`
+* :doc:`module/finanzen/index`
 * :doc:`module/statistiken/index`
+
 
 .. toctree::
    :hidden:
-   :maxdepth: 4
+   :maxdepth: 3
 
    Mitglieder-Modul <module/mitglieder/index>
+   Abteilungen-Modul <module/abteilungen/index>
    Finanz-Modul <module/finanzen/index>
    Statistiken <module/statistiken/index>
  
@@ -62,7 +65,7 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
 
 .. toctree::
    :hidden:
-   :maxdepth: 4
+   :maxdepth: 3
 
    Anwendungsfälle <anwendungsfaelle/index>
 

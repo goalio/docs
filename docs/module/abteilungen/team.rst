@@ -6,13 +6,13 @@ Teams anlegen
 -------------
 Für das Anlegen von Mannschaften empfehlen wir folgende Schritte:
 
-.. image:: images/gui/teams_1
+.. image:: ../../images/gui/teams1.png
  
 1. Klicken Sie in der gelben Menüleiste auf das Feld Teams
 2. Klicken Sie auf die Schaltfläche „Neu“, tragen Sie den Namen der Mannschaft ein und ordnen Sie die Mannschaft einer Abteilung zu. (Optional haben Sie die Möglichkeit das Team einer Liga und eine Altersklasse zuzuweisen)
 3. Klicken Sie auf Speichern und Schließen
 
-.. image:: images/gui/teams_2
+.. image:: ../../images/gui/teams2.png
  
 Trainer hinzufügen
 ^^^^^^^^^^^^^^^^^^
