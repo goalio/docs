@@ -47,7 +47,7 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
    :maxdepth: 3
 
    Mitglieder-Modul <module/mitglieder/index>
-   Abteilungen-Modul <module/abteilungen/index>
+   Abteilungen-Team-Modul <module/abteilungen/index>
    Finanz-Modul <module/finanzen/index>
    Statistiken <module/statistiken/index>
  

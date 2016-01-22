@@ -1,33 +1,33 @@
 Abteilungen
 ===========
 
-Egal ob großer oder kleiner Verein – jeder Verein besitzt eine Hierachie, die die alltägliche Vereinsverwaltung bestimmt. Mit goalio besitzen Sie die Möglichkeit diese Hierarchie in eine funktionelle Arbeitsumgebung zu verwandeln und sorgen somit für eine optimale Arbeitsverteilung. 
+Egal ob groÃŸer oder kleiner Verein: jeder Verein besitzt eine Hierachie, die die alltÃ¤gliche Vereinsverwaltung bestimmt. Mit goalio besitzen Sie die MÃ¶glichkeit diese Hierarchie in eine funktionelle Arbeitsumgebung zu verwandeln und sorgen somit fÃ¼r eine optimale Arbeitsverteilung. 
 
 .. image:: ../../images/gui/abteilungen1.png
 
 **Abteilung anlegen**
 
-Abteilungen bilden die Motoren jedes Vereines und können mit goalio gepflegt werden. Um eine Abteilung anzulegen empfehlen wir folgende Schritte:
+Abteilungen bilden die Motoren jedes Vereines und kÃ¶nnen mit goalio gepflegt werden. Um eine Abteilung anzulegen empfehlen wir folgende Schritte:
 
-1. Klicken Sie in der gelben Menüleiste auf das Feld Abteilungen
-2. Klicken Sie auf die Schaltfläche „Neu“, tragen Sie den Namen der Abteilung ein und bestätigen sie, wenn gewünscht,  mit einem Häkchen die Zugehörigkeit zu einem Fachverband. (Optional lassen sich Informationen zum Gründungsdatum, einer Homepage und einer möglichen Abkürzung festhalten)
+1. Klicken Sie in der gelben MenÃ¼leiste auf das Feld Abteilungen
+2. Klicken Sie auf die SchaltflÃ¤che *Neu*, tragen Sie den Namen der Abteilung ein und bestÃ¤tigen sie, wenn gewÃ¼nscht,  mit einem HÃ¤kchen die ZugehÃ¶rigkeit zu einem Fachverband. (Optional lassen sich Informationen zum GrÃ¼ndungsdatum, einer Homepage und einer mÃ¶glichen AbkÃ¼rzung festhalten)
 
 .. image:: ../../images/gui/abteilungen2.png
 
-3. Bestimmen Sie für die Abteilung über die restlichen Auswahlfelder den zugehörigen Verein, Fachverband und die Sportart
+3. Bestimmen Sie fÃ¼r die Abteilung Ã¼ber die restlichen Auswahlfelder den zugehÃ¶rigen Verein, Fachverband und die Sportart
 
 .. image:: ../../images/gui/abteilungen3.png
 
 .. note :: 
- Für die jährliche LSB-Mitgliederstatistik ist es notwendig jeder Abteilung den zugehörigen Fachverband und die Sportart zuzuweisen. Andernfalls wird die Abteilung in der Meldung für den Landessportbund nicht vermerkt.
+ FÃ¼r die jÃ¤hrliche LSB-Mitgliederstatistik ist es notwendig jeder Abteilung den zugehÃ¶rigen Fachverband und die Sportart zuzuweisen. Andernfalls wird die Abteilung in der Meldung fÃ¼r den Landessportbund nicht vermerkt.
 
 4. Sollte die Anschrift der Abteilung von der des Vereines abweichen, so klicken Sie auf den Reiter Adresse und notieren die Postanschrift mit Hilfe der vorgegeben Felder
 
 .. image:: ../../images/gui/abteilungen4.png
 
-5. Speichern und Schließen Sie das Fenster
+5. Speichern und SchlieÃŸen Sie das Fenster
 
-Sie haben nun innerhalb des Vereines eine Abteilung angelegt. Sollten Sie in Zukunft weitere Abteilungen hinzufügen oder anderweitige Änderungen vornehmen, empfehlen wir Ihnen den oben genannten Weg zu nutzen.
+Sie haben nun innerhalb des Vereines eine Abteilung angelegt. Sollten Sie in Zukunft weitere Abteilungen hinzufÃ¼gen oder anderweitige Ã„nderungen vornehmen, empfehlen wir Ihnen den oben genannten Weg zu nutzen.
 
 
 .. toctree::

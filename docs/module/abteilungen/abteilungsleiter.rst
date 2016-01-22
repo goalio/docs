@@ -1,46 +1,46 @@
 Abteilungsleiter
 ================
 
-Nachdem Sie eine Abteilung angelegt haben, haben Sie die Möglichkeit den Abteilungen Leiter zuzuweisen. Abteilungsleiter sind mit den nötigen umfangreichen Rechten ausgestattet, um deren Zuständigkeitsbereich optimal zu organisieren und verwalten zu können. Grundsätzlich verfügen die Abteilungsleiter über spezifische Rechte, die sie im Rollenkatalog einsehen können.
+Nachdem Sie eine Abteilung angelegt haben, haben Sie die MÃ¶glichkeit den Abteilungen Leiter zuzuweisen. Abteilungsleiter sind mit den nÃ¶tigen umfangreichen Rechten ausgestattet, um deren ZustÃ¤ndigkeitsbereich optimal zu organisieren und verwalten zu kÃ¶nnen. GrundsÃ¤tzlich verfÃ¼gen die Abteilungsleiter Ã¼ber spezifische Rechte, die sie im Rollenkatalog einsehen kÃ¶nnen.
 
 Abteilungsleiter anlegen
 ------------------------
-Aufgrund der sehr funktionellen Softwareoberfläche gibt es verschiedene Wege einen Abteilungsleiter anzulegen. Um Schwierigkeiten zu vermeiden, empfehlen wir folgenden Weg:
+Aufgrund der sehr funktionellen SoftwareoberflÃ¤che gibt es verschiedene Wege einen Abteilungsleiter anzulegen. Um Schwierigkeiten zu vermeiden, empfehlen wir folgenden Weg:
 
-1. Klicken Sie in der Gelben Menüleiste auf das Feld Abteilungen
-2. Doppelklicken Sie auf die Abteilung, der Sie einen Abteilungsleiter hinzufügen möchten
-3. Klicken Sie in dem geöffneten Fenster auf den Reiter Abteilungsleiter
+1. Klicken Sie in der Gelben MenÃ¼leiste auf das Feld Abteilungen
+2. Doppelklicken Sie auf die Abteilung, der Sie einen Abteilungsleiter hinzufÃ¼gen mÃ¶chten
+3. Klicken Sie in dem geÃ¶ffneten Fenster auf den Reiter Abteilungsleiter
 
 .. image:: ../../images/gui/abteilungsleiter1.png
 
-4. Klicken Sie auf die Schaltfläche „Neu“ und tragen Sie Startdatum, Enddatum und das Mitglied ein, welches die Rolle des Abteilungsleiters übernehmen soll. Sollten Sie das Enddatum nicht eintragen, erhält das Mitglied die Rolle des Abteilungsleiters auf unbestimmte Zeit
+4. Klicken Sie auf die SchaltflÃ¤che *Neu* und tragen Sie Startdatum, Enddatum und das Mitglied ein, welches die Rolle des Abteilungsleiters Ã¼bernehmen soll. Sollten Sie das Enddatum nicht eintragen, erhÃ¤lt das Mitglied die Rolle des Abteilungsleiters auf unbestimmte Zeit
 
 .. image:: ../../images/gui/abteilungsleiter2.png
 
-5. Speichern und Schließen Sie das Fenster
+5. Speichern und SchlieÃŸen Sie das Fenster
 
-Sie haben der Abteilung erfolgreich einen Abteilungsleiter zugewiesen. Sollten Sie in Zukunft weitere Abteilungsleiter hinzufügen oder anderweitige Änderungen vornehmen, empfehlen wir Ihnen den oben genannten Weg zu nutzen.
+Sie haben der Abteilung erfolgreich einen Abteilungsleiter zugewiesen. Sollten Sie in Zukunft weitere Abteilungsleiter hinzufÃ¼gen oder anderweitige Ã„nderungen vornehmen, empfehlen wir Ihnen den oben genannten Weg zu nutzen.
 
 .. tip::
- Falls Sie zu einem späteren Zeitpunkt ein Enddatum für die Rolle des Abteilungsleiters hinzufügen  möchten, nutzen Sie dafür den Bearbeiten-Stift und wählen Sie im Auswahl-Menü das Feld Bearbeiten. TIPP: Über diesen Weg lässt sich der Abteilungsleiter ebenfalls ändern, ohne einen neuen Eintrag vornehmen zu müssen.
+ Falls Sie zu einem spÃ¤teren Zeitpunkt ein Enddatum fÃ¼r die Rolle des Abteilungsleiters hinzufÃ¼gen  mÃ¶chten, nutzen Sie dafÃ¼r den Bearbeiten-Stift und wÃ¤hlen Sie im Auswahl-MenÃ¼ das Feld Bearbeiten. TIPP: Ãœber diesen Weg lÃ¤sst sich der Abteilungsleiter ebenfalls Ã¤ndern, ohne einen neuen Eintrag vornehmen zu mÃ¼ssen.
 
-Der Leiter einer Abteilung ist nun für alle Mitglieder sichtbar, die das nötige Recht besitzen. Allerdings ist die bisherige Eintragung vergleichbar mit einer öffentlich einsehbaren Liste, die einen rein kommunikativen Charakter besitzt – Arbeitsteilung weit gefehlt.  
+Der Leiter einer Abteilung ist nun fÃ¼r alle Mitglieder sichtbar, die das nÃ¶tige Recht besitzen. Allerdings ist die bisherige Eintragung vergleichbar mit einer Ã¶ffentlich einsehbaren Liste, die einen rein kommunikativen Charakter besitzt - Arbeitsteilung weit gefehlt.  
 
 Abteilungsleiter-Login vergeben
 -------------------------------
-Damit der Abteilungsleiter seine Geschäfte verrichten kann, muss ihm ein Zugang zu goalio gewährt werden - ähnlich wie Sie Mitgliedern einen Login gewähren können.
+Damit der Abteilungsleiter seine Arbeit verrichten kann, muss ihm ein Zugang zu goalio gewÃ¤hrt werden - Ã¤hnlich wie Sie Mitgliedern einen Login gewÃ¤hren kÃ¶nnen.
 
-1. Bleiben Sie im oder Kehren Sie zurück zum Reiter Abteilungsleiter der jeweiligen Abteilung
+1. Bleiben Sie im oder Kehren Sie zurÃ¼ck zum Reiter Abteilungsleiter der jeweiligen Abteilung
 2. Doppelklicken Sie auf den Datensatz des neu erstellten Abteilungsleiters
 3. Klicken Sie auf den Reiter Login
-4. Setzen Sie den Status auf Aktiv und tragen Sie eine gültige E-Mail-Adresse ein
-5. Soll das Mitglied Verwaltungs- und Organisationsaufgaben innerhalb von goalio übernehmen, dann setzen Sie ein Häkchen bei „Allow Management“
+4. Setzen Sie den Status auf Aktiv und tragen Sie eine gÃ¼ltige E-Mail-Adresse ein
+5. Soll das Mitglied Verwaltungs- und Organisationsaufgaben innerhalb von goalio Ã¼bernehmen, dann setzen Sie ein HÃ¤kchen bei *Allow Management*
 
 .. image:: ../../images/gui/abteilungsleiter3.png
 
-6. Speichern und Schließen Sie das Fenster
+6. Speichern und SchlieÃŸen Sie das Fenster
 
 .. note:: 
- Falls ein Abteilungsleiter/Mitglied in Zukunft einmal sein Passwort vergessen sollte, können Sie mit einem Häkchen bei „Neues Passwort erzeugen“ diesen Umstand beheben. Dem Abteilungsleiter/Mitglied wird ein neues Passwort zugesendet. Setzen Sie ein Häkchen bei „Passwort beim nächsten Login ändern“ wird der Benutzer beim nächsten Login aufgefordert ein eigenes Passwort zu erstellen.
+ Falls ein Abteilungsleiter/Mitglied in Zukunft einmal sein Passwort vergessen sollte, kÃ¶nnen Sie mit einem HÃ¤kchen bei *Neues Passwort erzeugen* diesen Umstand beheben. Dem Abteilungsleiter/Mitglied wird ein neues Passwort zugesendet. Setzen Sie ein HÃ¤kchen bei *Passwort beim nÃ¤chsten Login Ã¤ndern* wird der Benutzer beim nÃ¤chsten Login aufgefordert ein eigenes Passwort zu erstellen.
 
-Nachdem Sie die Eingaben gespeichert haben, erhält der Abteilungsleiter einen Benutzerzugang zum System. Gleichzeitig wird ihm ein automatisch generiertes Passwort für den Zugang per E-Mail zugesendet. Der Abteilungsleiter ist nun nicht mehr nur eine starre Information im System, sondern eine lebendige Person, die mit Hilfe der Oberfläche Aufgaben aktiv übernehmen und mit Trainern, Spielern, Eltern kommunizieren kann.
+Nachdem Sie die Eingaben gespeichert haben, erhÃ¤lt der Abteilungsleiter einen Benutzerzugang zum System. Gleichzeitig wird ihm ein automatisch generiertes Passwort fÃ¼r den Zugang per E-Mail zugesendet. Der Abteilungsleiter ist nun nicht mehr nur eine starre Information im System, sondern eine lebendige Person, die mit Hilfe der OberflÃ¤che Aufgaben aktiv Ã¼bernehmen und mit Trainern, Spielern, Eltern kommunizieren kann.
