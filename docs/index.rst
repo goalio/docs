@@ -38,7 +38,6 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
 
 * :doc:`module/finanzen/index`
 * :doc:`module/mitglieder/index`
-* :doc:`module/abteilungen/index`
 * :doc:`module/statistiken/index`
 
 .. toctree::
@@ -47,7 +46,6 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
 
    Mitglieder-Modul <module/mitglieder/index>
    Finanz-Modul <module/finanzen/index>
-   Abteilungen-Team-Modul <module/abteilungen/index>
    Statistiken <module/statistiken/index>
  
 

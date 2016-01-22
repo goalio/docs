@@ -20,5 +20,5 @@ Sollten Sie eine allgemeine Bestandsdatenerhebung durchführen, so gehen Sie folg
      :hidden:
 
 	
-lsb_statistik
-lsb_statistikbrandenburg
+     lsb_statistik
+     lsb_statistikbrandenburg
