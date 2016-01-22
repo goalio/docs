@@ -1,15 +1,15 @@
 Die LSB-Jahresstatistik 
 -----------------------
-Jedes Jahr sind Sportvereine dazu aufgerufen die Meldestatistik an ihre jeweiligen Landesverbände zu übermitteln. Die Meldestatistik lässt sich dabei mit goalio in wenigen Minuten abschließen. Gehen Sie dabei wie folgt vor:
+Jedes Jahr sind Sportvereine dazu aufgerufen die Meldestatistik an ihre jeweiligen LandesverbÃ¤nde zu Ã¼bermitteln. Die Meldestatistik lÃ¤sst sich dabei mit goalio in wenigen Minuten abschlieÃŸen. Gehen Sie dabei wie folgt vor:
 
 .. warning::
- Stellen Sie sicher, dass die notwendigen Vereins- (Name, LSB-Nummer) und Abteilungsinformationen (Name, Verein, Verband & Sport)  für die Meldestatistik im goalio-System hinterlegt sind.
+ Stellen Sie sicher, dass die notwendigen Vereins- (Name, LSB-Nummer) und Abteilungsinformationen (Name, Verein, Verband & Sport)  fÃ¼r die Meldestatistik im goalio-System hinterlegt sind.
 
-1. Navigieren Sie mit der Maus über den Menüpunkt Statistik
-2. Wählen Sie im angezeigten Auswahlmenü die Schaltfläche LSB-Jahresstatistik
-3. Falls Sie einen abweichenden Stichtag nutzen wollen, nutzen Sie das dafür vorgesehene Feld
+1. Navigieren Sie mit der Maus Ã¼ber den MenÃ¼punkt Statistik
+2. WÃ¤hlen Sie im angezeigten AuswahlmenÃ¼ die SchaltflÃ¤che LSB-Jahresstatistik
+3. Falls Sie einen abweichenden Stichtag nutzen wollen, nutzen Sie das dafÃ¼r vorgesehene Feld
 4. Exportieren und Speichern Sie die Mitgliederdaten als DOSB-Statistik
 
-.. image:: ../images/gui/DOSB_1.png
+.. image:: ../images/gui/dosb_1.png
  
-Nachdem Sie die DOSB-Statistik erfolgreich exportiert haben, müssen Sie die in der Datei hinterlegten Daten dem jeweiligen Landessportbund zukommen lassen. Nutzen Sie das dafür bereitgestellte System ihres Landessportbundes.
+Nachdem Sie die DOSB-Statistik erfolgreich exportiert haben, mÃ¼ssen Sie die in der Datei hinterlegten Daten dem jeweiligen Landessportbund zukommen lassen. Nutzen Sie das dafÃ¼r bereitgestellte System ihres Landessportbundes.
