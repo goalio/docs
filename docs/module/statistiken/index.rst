@@ -1,6 +1,6 @@
 ﻿Statistiken
 ===========
-Goalio stellt neben der Verwaltung von Abteilung, Teams und Mitglieder auch ein Statistikmodul zur Verfügung, welches Ihnen eine schnelle Übersicht über Ihre Mitgliederzahlen und aktuellen/prognostizierten Einnahmen gewährt. Gleichzeitig ermöglicht Ihnen goalio eine reibungslose Jahresmeldung an den jeweiligen Landessportbund
+Goalio stellt neben der Verwaltung von Abteilung, Teams und Mitglieder auch ein Statistikmodul zur Verfügung, welches Ihnen eine schnelle Übersicht über Ihre Mitgliederzahlen und aktuellen/prognostizierten Einnahmen gewährt. Gleichzeitig ermöglicht Ihnen goalio eine reibungslose Jahresmeldung an den jeweiligen Landessportbund.
 Um ihre aktuellen Übersichten aufzurufen gehen Sie folgenden Schritt:
 
 1. Navigieren Sie mit der Maus über den Punkt *Statistik*
