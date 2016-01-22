@@ -1,4 +1,4 @@
-Teams
+﻿Teams
 =====
 Mit dem Anlegen einer oder mehrerer Abteilungen haben Sie die nötigen Voraussetzungen geschaffen Mannschaften/Teams den jeweiligen Abteilungen zuzuordnen.
  
@@ -14,7 +14,8 @@ Für das Anlegen von Mannschaften empfehlen wir folgende Schritte:
 
 .. image:: ../../images/gui/teams2.png
  
-**Trainer hinzufügen**
+Trainer hinzufügen
+------------------
 
 Nachdem Sie eine Mannschaft angelegt haben, können Sie der Mannschaft ebenfalls einen Trainer zuordnen. 
 
@@ -26,7 +27,8 @@ Nachdem Sie eine Mannschaft angelegt haben, können Sie der Mannschaft ebenfalls
 .. note::
  Stellen Sie sicher, dass der künftige Trainer bereits im System (Mitgliederliste oder externe Kontakte) als Person angelegt ist. Falls dies nicht der Fall sein, müssen Sie diesen erst noch anlegen. 
 
-**Spieler hinzufügen**
+Spieler hinzufügen
+------------------
 
 Um Spieler einem Team hinzu zufügen, nutzen Sie folgende Schritte:
 
