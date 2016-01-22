@@ -1,5 +1,5 @@
-Die LSB-Jahresstatistik 
-=======================
+LSB-Jahresstatistik 
+===================
 
 Jedes Jahr sind Sportvereine dazu aufgerufen die Meldestatistik an ihre jeweiligen Landessportverbände zu übermitteln. Die Meldestatistik lässt sich dabei mit goalio in wenigen Minuten abschließen. Gehen Sie dabei wie folgt vor:
 
