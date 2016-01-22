@@ -25,6 +25,7 @@ Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie b
   
   
 In Verminet gehen Sie wie folgt vor:
+
 a. Navigieren Sie bei Verminet über Bestandsmeldung auf die entsprechende Seite
 b. Klicken Sie auf die Schaltfläche Bestandsdaten einlesen (siehe Bild 3)
 c. Wählen Sie das Format DOSB-Import
