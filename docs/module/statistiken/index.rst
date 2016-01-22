@@ -6,8 +6,7 @@ Um ihre aktuellen Übersichten aufzurufen gehen Sie folgenden Schritt:
 1. Navigieren Sie mit der Maus über den Punkt Statistik
 2. Wählen Sie im angezeigten Auswahlmenü zwischen Mitgliederübersicht, Einnahmen und  Dashboard
 
-Allgemeine Bestandserhebung
-"""""""""""""""""""""""""""
+**Allgemeine Bestandserhebung**
 
 Sollten Sie eine allgemeine Bestandsdatenerhebung durchführen, so gehen Sie folgende Schritte:
 
