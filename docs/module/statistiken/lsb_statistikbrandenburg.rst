@@ -18,7 +18,7 @@ Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie b
 .. image:: ../../images/gui/dosb3.png  
   
   
-4. Erstellen Sie eine DOSB-Statistik mit *goalio* (Siehe LSB-Statistik_)
+4. Erstellen Sie eine DOSB-Statistik mit *goalio* (siehe LSB-Statistik_)
 5. Lesen Sie die Bestandsdaten über *Verminet* ein
 
 .. image:: ../../images/gui/dosb4.png  
