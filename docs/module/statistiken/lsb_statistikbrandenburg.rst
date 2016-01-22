@@ -33,4 +33,4 @@ d. Wählen und bestätigen Sie die zuvor bei goalio exportierte Datei
 e. Bei Bedarf können die Daten manuell verändert werden
 f. Fixieren Sie die Bestandsdaten
 
-.. _LSB-Statistik: de/latest/module/statistiken/lsbstatistik.rst
+.. _LSB-Statistik: de/latest/module/statistiken/lsb_statistik.html
