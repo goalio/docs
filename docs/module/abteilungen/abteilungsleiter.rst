@@ -11,11 +11,11 @@ Aufgrund der sehr funktionellen Softwareoberfläche gibt es verschiedene Wege ein
 2. Doppelklicken Sie auf die Abteilung, der Sie einen Abteilungsleiter hinzufügen möchten
 3. Klicken Sie in dem geöffneten Fenster auf den Reiter Abteilungsleiter
 
-.. image:: ../images/gui/abteilungsleiter_1.png
+.. image:: ../images/gui/abteilungsleiter1.png
 
 4. Klicken Sie auf die Schaltfläche „Neu“ und tragen Sie Startdatum, Enddatum und das Mitglied ein, welches die Rolle des Abteilungsleiters übernehmen soll. Sollten Sie das Enddatum nicht eintragen, erhält das Mitglied die Rolle des Abteilungsleiters auf unbestimmte Zeit
 
-.. image:: ../images/gui/abteilungsleiter_2.png
+.. image:: ../images/gui/abteilungsleiter2.png
 
 5. Speichern und Schließen Sie das Fenster
 
@@ -36,7 +36,7 @@ Damit der Abteilungsleiter seine Geschäfte verrichten kann, muss ihm ein Zugang 
 4. Setzen Sie den Status auf Aktiv und tragen Sie eine gültige E-Mail-Adresse ein
 5. Soll das Mitglied Verwaltungs- und Organisationsaufgaben innerhalb von goalio übernehmen, dann setzen Sie ein Häkchen bei „Allow Management“
 
-.. image:: ../images/gui/abteilungsleiter_3.png
+.. image:: ../images/gui/abteilungsleiter3.png
 
 6. Speichern und Schließen Sie das Fenster
 
