@@ -17,5 +17,6 @@ Sollten Sie eine allgemeine Bestandsdatenerhebung durchführen, so gehen Sie fol
 
 .. toctree::
      :hidden:
+     
      lsb_statistik
      lsb_statistikbrandenburg
