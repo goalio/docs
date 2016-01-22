@@ -11,7 +11,7 @@ Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie b
 2. Öffnen Sie Ihre goalio-Software-Oberfläche und überprüfen Sie die DOSB-Nummer und Fachverbandsnummer jeder zu meldeten Abteilung
 
 .. note:: 
- Die Verbandsnummern in Brandenburg waren früher nach einem anderen System zugewiesen und wurden in Verminet noch nicht an die DOSB-Spezifikation angeglichen. Daher müssen die Abteilungsnamen (siehe Punkt 1) in der beigefügten PDF-Liste nachgeschlagen werden.
+ Die Verbandsnummern in Brandenburg waren früher nach einem anderen System zugewiesen und wurden in Verminet noch nicht an die DOSB-Spezifikation angeglichen. Daher müssen die Abteilungsnamen (siehe Punkt 1) in `hier hinterlegten PDF <https://owncloud.goalio.de/index.php/s/ggrOtcrfbBvR6WU>`_ nachgeschlagen werden.
 
 3. Pflegen Sie die zugehörige DOSB-Nummer und Fachverbandsnummer anhand der bereitgestellten PDF bei den jeweiligen Abteilungen nach und speichern Sie die Eingaben
 
