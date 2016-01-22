@@ -5,8 +5,7 @@ Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie b
 
 1. Loggen Sie sich mit Ihrem Vereins-Zugangsdaten bei Verminet ein und kreuzen Sie die jeweiligen Abteilungen an, die Sie melden möchten
 
-.. image:: ../../images/gui/dosb2.png
-
+.. image:: ../../images/gui/dosb2.png  
 
 2. Öffnen Sie Ihre goalio-Software-Oberfläche und überprüfen Sie die DOSB-Nummer und Fachverbandsnummer jeder zu meldeten Abteilung
 
@@ -15,12 +14,12 @@ Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie b
 
 3. Pflegen Sie die zugehörige DOSB-Nummer und Fachverbandsnummer anhand der bereitgestellten PDF bei den jeweiligen Abteilungen nach und speichern Sie die Eingaben
 
-.. image:: ../../images/gui/dosb3.png
+.. image:: ../../images/gui/dosb3.png  
 
 4. Erstellen Sie eine DOSB-Statistik mit goalio (SIEHE LSB STATISTIK)
 5. Lesen Sie die Bestandsdaten über Verminet ein
 
-.. image:: ../../images/gui/dosb4.png
+.. image:: ../../images/gui/dosb4.png  
 
 In Verminet gehen Sie wie folgt vor:
 
