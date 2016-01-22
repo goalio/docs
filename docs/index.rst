@@ -24,7 +24,7 @@ Sie sind neu bei goalio? Kein Problem! Wir haben für Sie eine Einführung vorbe
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 4
 
    Erste Schritte <erste-schritte/index>
 
@@ -42,7 +42,7 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 4
 
    Mitglieder-Modul <module/mitglieder/index>
    Finanz-Modul <module/finanzen/index>
@@ -62,7 +62,7 @@ Für weiterführende Informationen schauen Sie einfach in die Modul-Dokumentatio
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 4
 
    Anwendungsfälle <anwendungsfaelle/index>
 
