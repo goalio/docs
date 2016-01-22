@@ -1,32 +1,32 @@
 LSB-Jahresstatistik in Brandenburg
 ===================================================
 
-Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie bei der Bestandsmeldung einige kleine Dinge beachten. Wenn goalio in Ihrem Verein bereits seit 2013/2014 eingesetzt wird und die Abteilungen unverändert sind, entfallen die Schritte 1-3. Gehen Sie für die Bestandsmeldung des LSB-Brandenburg wie folgt vor:
+Sollte Ihr Verein dem Landessportbund Brandenburg zugehÃ¶rig sein, mÃ¼ssen Sie bei der Bestandsmeldung einige kleine Dinge beachten. Wenn goalio in Ihrem Verein bereits seit 2013/2014 eingesetzt wird und die Abteilungen unverÃ¤ndert sind, entfallen die Schritte 1-3. Gehen Sie fÃ¼r die Bestandsmeldung des LSB-Brandenburg wie folgt vor:
 
-1. Loggen Sie sich mit Ihrem Vereins-Zugangsdaten bei Verminet ein und kreuzen Sie die jeweiligen Abteilungen an, die Sie melden möchten
+1. Loggen Sie sich mit Ihrem Vereins-Zugangsdaten bei Verminet ein und kreuzen Sie die jeweiligen Abteilungen an, die Sie melden mÃ¶chten
 
 .. image:: images/gui/dosb2.png
 
 
-2. Öffnen Sie Ihre goalio-Software-Oberfläche und überprüfen Sie die DOSB-Nummer und Fachverbandsnummer jeder zu meldeten Abteilung
+2. Ã–ffnen Sie Ihre goalio-Software-OberflÃ¤che und Ã¼berprÃ¼fen Sie die DOSB-Nummer und Fachverbandsnummer jeder zu meldeten Abteilung
 
 .. note:: 
- Die Verbandsnummern in Brandenburg waren früher nach einem anderen System zugewiesen und wurden in Verminet noch nicht an die DOSB-Spezifikation angeglichen. Daher müssen die Abteilungsnamen (siehe Punkt 1) in der beigefügten PDF-Liste nachgeschlagen werden.
+ Die Verbandsnummern in Brandenburg waren frÃ¼her nach einem anderen System zugewiesen und wurden in Verminet noch nicht an die DOSB-Spezifikation angeglichen. Daher mÃ¼ssen die Abteilungsnamen (siehe Punkt 1) in der beigefÃ¼gten PDF-Liste nachgeschlagen werden.
 
-3. Pflegen Sie die zugehörige DOSB-Nummer und Fachverbandsnummer anhand der bereitgestellten PDF bei den jeweiligen Abteilungen nach und speichern Sie die Eingaben
+3. Pflegen Sie die zugehÃ¶rige DOSB-Nummer und Fachverbandsnummer anhand der bereitgestellten PDF bei den jeweiligen Abteilungen nach und speichern Sie die Eingaben
 
 .. image:: images/gui/dosb3.png
 
 4. Erstellen Sie eine DOSB-Statistik mit goalio (SIEHE LSB STATISTIK)
-5. Lesen Sie die Bestandsdaten über Verminet ein
+5. Lesen Sie die Bestandsdaten Ã¼ber Verminet ein
 
 .. image:: images/gui/dosb4.png
 
 In Verminet gehen Sie wie folgt vor:
 
-a. Navigieren Sie bei Verminet über „Bestandsmeldung“ auf die entsprechende Seite
-b. Klicken Sie auf die Schaltfläche „Bestandsdaten einlesen“ (siehe Bild 3)
-c. Wählen Sie das Format „DOSB-Import“
-d. Wählen und bestätigen Sie die zuvor bei goalio exportierte Datei
-e. Bei Bedarf können die Daten manuell verändert werden
+a. Navigieren Sie bei Verminet Ã¼ber Bestandsmeldung auf die entsprechende Seite
+b. Klicken Sie auf die SchaltflÃ¤che Bestandsdaten einlesen (siehe Bild 3)
+c. WÃ¤hlen Sie das Format DOSB-Import
+d. WÃ¤hlen und bestÃ¤tigen Sie die zuvor bei goalio exportierte Datei
+e. Bei Bedarf kÃ¶nnen die Daten manuell verÃ¤ndert werden
 f. Fixieren Sie die Bestandsdaten

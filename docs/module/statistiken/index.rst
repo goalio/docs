@@ -7,7 +7,7 @@ Um ihre aktuellen Übersichten aufzurufen gehen Sie folgenden Schritt:
 2. Wählen Sie im angezeigten Auswahlmenü zwischen Mitgliederübersicht, Einnahmen und  Dashboard
 
 Allgemeine Bestandserhebung 
----------------------------
+============================
 Sollten Sie eine allgemeine Bestandsdatenerhebung durchführen, so gehen Sie folgende Schritte:
 
 1. Navigieren Sie mit der Maus über den Punkt Statistik
@@ -18,6 +18,5 @@ Sollten Sie eine allgemeine Bestandsdatenerhebung durchführen, so gehen Sie fol
 .. toctree::
      :hidden:
 
-	
-     lsb_statistik
+	 lsb_statistik
      lsb_statistikbrandenburg
