@@ -1,7 +1,7 @@
 LSB-Jahresstatistik in Brandenburg
 ===================================================
 
-Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie bei der Bestandsmeldung einige kleine Dinge beachten. Wenn goalio in Ihrem Verein bereits seit 2013/2014 eingesetzt wird und die Abteilungen unverändert sind, entfallen die Schritte 1-3. Gehen Sie für die Bestandsmeldung des LSB-Brandenburg wie folgt vor:
+Sollte Ihr Verein dem Landessportbund Brandenburg zugehörig sein, müssen Sie bei der Bestandsmeldung einige kleine Dinge beachten. Wenn goalio in Ihrem Verein bereits seit 2013/2014 eingesetzt wird und die Abteilungen unverändert sind, entfallen die Schritte 1-3. Gehen Sie für die Bestandsmeldung des LSB-Brandenburgs wie folgt vor:
 
 1. Loggen Sie sich mit Ihrem Vereins-Zugangsdaten bei Verminet ein und kreuzen Sie die jeweiligen Abteilungen an, die Sie melden möchten
 
