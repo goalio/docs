@@ -14,7 +14,7 @@ Um einen neuen Beitrag anzulegen gehen Sie wie folgt vor:
 
 2.	Klicken Sie auf die Schaltfläche Neu. 
 
-.. image:: ../../images/gui/beitrag1.png
+.. image:: ../images/gui/beitrag1.png
 
 3.	Legen Sie im neuen Fenster welchen Namen (Schüler, Erwachsener, ...) der Beitrag hat und wie oft (Beitragszyklus) er in welcher Höhe (Beitragshöhe) zu entrichten ist. Wählen Sie anschließend noch die Abteilung aus, in welcher er fällig wird
 
@@ -33,7 +33,7 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 
 2. Öffnen Sie im neuen Fenster_ den Reiter_ *Beiträge*
 
-.. image:: ../../images/gui/beitrag2.png
+.. image:: ../images/gui/beitrag2.png
 
 3. Klicken Sie auf die Schaltfläche *Neu*
 
@@ -54,7 +54,7 @@ Welcher Beitrag für ein Mitglied gültig ist, kann sowohl direkt über die Beit
 
 5. Sobald Sie die Änderungen gespeichert haben, ist dieser Beitrag für das Mitglied hinterlegt
 
-.. image:: ../../images/gui/beitrag3.png
+.. image:: ../images/gui/beitrag3.png
 
 Beiträge löschen
 ----------------
