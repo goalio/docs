@@ -3,7 +3,7 @@
 
 Eines der wohl wichtigsten Themen bei der Vereinsorganisation ist die ordnungsgemäße Durchführung der Beitragsverwaltung. Um also für alle Anwendungsfälle gewappnet zu sein, bietet goalio bei diesem Thema eine vielfältige Auswahl an Möglichkeiten, welche auf dieser Seite näher beleuchtet werden.
 
-.. note::
+.. note ::
 Der Kern der Funktionalität liegt hierbei auf dem Verhältnis von Abteilungen, Mitgliedern und deren Beiträgen: Während es in einer Abteilung mehrere Beiträge (ermäßigt, normal, ...) geben kann, so kann ein Beitrag nicht mehreren Abteilungen zugeordnet werden. Im Gegensatz dazu ist es aber möglich, jedem Mitglied beliebig viele Beiträge zuzuordnen. Durch diese Handhabe ist gewährleistet, dass ein Mitglied problemlos in mehreren Abteilungen aktiv spielen kann.
 
 Anlegen von Beiträgen
@@ -77,7 +77,7 @@ Siehe auch: `Wann treten Änderungen bei Beiträgen in Kraft?`__
 __ link_
 .. _link: /de/latest/anwendungsfaelle/beitrag-aktualisieren.html
 
-.. warning::
+.. warning ::
 	Berücksichtigen Sie gegebenfalls Abweichungen zwischen dem Kalenderjahr und dem Geschäftsjahr des Vereins
 
 Weiterführendes
