@@ -8,7 +8,6 @@ Sollte Ihr Problem hier nicht aufgelistet sein, oder sollten Sie generell weiter
 Mitglieder
 ----------
  .. toctree::
-  :numbered:
   :maxdepth: 1
 
   Wie lege ich Mitgliedsbeiträge fest? <../module/finanzen/beitraege>
@@ -19,7 +18,6 @@ Zahlungen
 ---------
 
  .. toctree::
-  :numbered:
 
   Wie rechne ich die Mitglieder meines Vereins ab? <buchungslauf>
   Wie verbuche ich einen Zahlungseingang? <zahlungseingang>
@@ -31,7 +29,6 @@ LSB-Jahresstatistik
 -------------------
 
  .. toctree::
-  :numbered:
   
   Wie führe ich eine Jahresmeldung an den Landessportbund im Allgemeinen durch? <../module/statistiken/lsb_statistik>
   Wie führe ich eine Jahresmeldung an den Landessportbund Brandenburg durch? <../module/statistiken/lsb_statistikbrandenburg>
