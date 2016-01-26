@@ -9,6 +9,7 @@ Mitglieder
 ----------
  .. toctree::
   :numbered:
+  :maxdepth: 1
 
   Wie lege ich Mitgliedsbeiträge fest? <../module/finanzen/beitraege>
   Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
