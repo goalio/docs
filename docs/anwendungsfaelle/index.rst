@@ -13,6 +13,7 @@ Mitglieder
 
   Wie lege ich Mitgliedsbeiträge fest? <../module/finanzen/beitraege>
   Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
+  Wie vergebe ich ein Mitglieder-/Abteilungsleiterlogin? <../module/mitglieder/logins>
 
 Zahlungen
 ---------
