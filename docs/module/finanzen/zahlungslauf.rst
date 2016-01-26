@@ -5,8 +5,7 @@ Ein Zahlungslauf hat in goalio die Funktion, alle Konten zu saldieren, und die e
 
 Dabei haben Sie mit goalio die Möglichkeit, zusätzliche Filter einzustellen, welche es Ihnen erlauben, die Abrechnung auf bestimmte Mitglieder zu beschränken, sodass beispielsweise nur die Spieler einer festgelegten Abteilung oder mit einer festgelegten Zahlungsmethode abgerechnet werden.
 
-Zahlungslauf durchführen
-------------------------
+**Zahlungslauf durchführen**
 
 Gehen Sie folgendermaßen vor, um einen Zahlungslauf durchzuführen:
 

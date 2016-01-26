@@ -3,8 +3,7 @@
 
 Ähnlich wie Mitgliedsbeiträge müssen auch die Spenden eines Vereins korrekt und sorgfältig festgehalten werden. Auch hier unterstützt goalio Sie mit einer Funktion: Ob Geld- oder Sachspende, jede Art von Zuwendung kann mit unserer Software problemlos vermerkt werden.
 
-Spende vermerken
-----------------
+**Spende vermerken**
 
 Gehen Sie wie folgt vor, um eine eingegangene Spende einzutragen:
 

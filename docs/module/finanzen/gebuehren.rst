@@ -6,18 +6,15 @@ Unregelmäßig anfallende oder nur einmal zu zahlende Beiträge werden in goalio
 Arten von Gebühren
 ---------------------
 
-Anmeldegebühr
-^^^^^^^^^^^^^
+**Anmeldegebühr**
 
 Die Anmeldegebühr gehört zu den Gebühren, die vom System ohne Zutun eines Administrators abgezogen werden. Sie wird automatisch vom Beitragskonto eines neu angelegten Mitgliedes abgezogen.
 
-Rückbuchungsgebühr
-^^^^^^^^^^^^^^^^^^
+**Rückbuchungsgebühr**
 
 Ebenfalls zu den automatisch abgezogenen Gebühren gehört die Rückbuchungsgebühr, welche beispielsweise dann anfällt, wenn man den *Status* einer Lastschrift in *Rückbuchung* umändert. Sie dient dazu, die für den Verein angefallenen Bank- und Bearbeitungskosten zu decken.
 
-Mahngebühren
-^^^^^^^^^^^^
+**Mahngebühren**
 
 Eine Mahngebühr wird fällig, sobald man die Mahnstufe_ eines Mitglieds ändert. Der Verein hat dabei in goalio die Möglichkeit, die Höhe der Gebühr für die ersten drei und alle weiteren Stufen unterschiedlich hoch anzusetzen.
 
