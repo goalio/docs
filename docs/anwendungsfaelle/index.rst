@@ -10,9 +10,8 @@ Mitglieder
  .. toctree::
   :numbered:
 
-  Wie lege ich Mitgliedsbeiträge fest? <beitraege>
+  Wie lege ich Mitgliedsbeiträge fest? <../module/finanzen/beitraege>
   Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
-
 
 Zahlungen
 ---------
@@ -25,6 +24,15 @@ Zahlungen
   Wann treten Änderungen bei Beiträgen in Kraft? <beitrag-aktualisieren>
   Wie trage ich eine Rücklastschrift ein? <ruecklastschrift>
   Welcher Beitragszyklus gilt? <geltender-beitragszyklus>
+  
+LSB-Jahresstatistik
+-------------------
+
+ .. toctree::
+  :numbered:
+  
+  Wie führe ich eine Jahresmeldung an den Landessportbund im Allgemeinen durch? <../module/statistiken/lsb_statistik>
+  Wie führe ich eine Jahresmeldung an den Landessportbund Brandenburg durch? <../module/statistiken/lsb_statistikbrandenburg>
 
 Technisches
 -----------

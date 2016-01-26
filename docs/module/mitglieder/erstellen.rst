@@ -26,13 +26,11 @@ Anlegen eines Mitglieds
 Welche Daten sind notwendig?
 ----------------------------
 
-Minimum
-^^^^^^^
+**Minimum**
 
 Das absolute Minimum, welches für ein Mitglied hinterlegt werden muss, ist der Nachname. In Kombination mit der (ggf. generierten) Mitgliedernummer ermöglicht er zwar eine technische Unverwechselbarkeit, doch ohne weitere persönliche Daten kann es (besonders bei häufig vorkommenden Namen) zu Verwechslungen kommen.
 
-Empfohlen
-^^^^^^^^^
+**Empfohlen**
 
 Wir empfehlen Ihnen, bei der Erstellung eines Mitglieds unverzüglich alle Ihnen bereits bekannten Daten einzutragen. Dadurch sinkt zum einen das Risiko, dass das nachträgliche Einpflegen vergessen wird, und zum anderen wird auf diese Weise schon frühzeitig eine Zettelwirtschaft verhindert.
 
