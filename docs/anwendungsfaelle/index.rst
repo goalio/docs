@@ -10,9 +10,9 @@ Mitglieder
  .. toctree::
   :maxdepth: 1
 
-  Wie lege ich Mitgliedsbeiträge fest? <../module/finanzen/beitraege>
+  Wie lege ich Mitgliedsbeiträge fest? :doc:`../module/finanzen/beitraege`
   Was muss ich bei Veränderungen im Vorstand beachten? <vorstandswahlen>
-  Wie vergebe ich ein Mitglieder-/Abteilungsleiterlogin? <../module/mitglieder/logins>
+  Wie vergebe ich ein Mitglieder-/Abteilungsleiterlogin? <:doc:`../module/Mitglieder/logins`>
 
 Zahlungen
 ---------
