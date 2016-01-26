@@ -1,5 +1,5 @@
-﻿Teams
-=====
+﻿Teams anlegen
+=============
 Mit dem Anlegen einer oder mehrerer Abteilungen haben Sie die nötigen Voraussetzungen geschaffen Mannschaften/Teams den jeweiligen Abteilungen zuzuordnen.
  
 Teams anlegen

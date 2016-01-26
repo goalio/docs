@@ -1,8 +1,5 @@
-Mitgliederlogins
+﻿Mitgliederlogins
 ====================
-
-Einleitung
-----------
 
 Durch Logins haben die Mitglieder einen direkten Zugriff auf relevante Daten des Vereins, wodurch sie jederzeit den Überblick darüber behalten, wann und wo das nächste Spiel stattfindet bzw. welche Aufgaben Ihnen zugewiesen wurden.
 

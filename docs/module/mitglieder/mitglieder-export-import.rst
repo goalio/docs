@@ -1,8 +1,5 @@
-Import und Export von Mitgliedern
+﻿Import und Export von Mitgliedern
 =================================
-
-Einleitung
-----------
 
 Was man sonst aus der Wirtschaft kennt, findet auch in der Informatik Anwendung. Dabei geht es allerdings nicht um die Ein- und Ausfuhr von Waren, sondern um den Import und Export von Daten. Das Prinzip bleibt jedoch gleich: Die Produkte (Daten) eines Landes (goalio) werden einem anderen Land (Microsoft Excel) zur Verfügung gestellt.
 

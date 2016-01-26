@@ -1,8 +1,5 @@
-Zahlungslauf
+﻿Zahlungslauf
 ============
-
-Einleitung
-----------
 
 Ein Zahlungslauf hat in goalio die Funktion, alle Konten zu saldieren, und die entsprechenden Dateien für Lastschrifteinzüge und Rechnungen anzulegen.
 

@@ -1,8 +1,5 @@
-Mahnwesen
+﻿Mahnwesen
 =========
-
-Einleitung
-----------
 
 Möchten Sie Mitglieder, die Ihre Beiträge nicht zahlen, eindringlich zum Begleichen Ihrer Schuld auffordern, so kommen Mahnungen ins Spiel. Als starkes Werkzeug kann goalio Ihnen auch bei diesem Thema mit mehreren Funktionalitäten zur Seite stehen. Auf dieser Seite möchten wir Ihnen die Prinzipien dahinter ein wenig näher bringen.
 

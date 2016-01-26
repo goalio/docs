@@ -1,8 +1,5 @@
-Gebühren
+﻿Gebühren
 ========
-
-Einleitung
-----------
 
 Unregelmäßig anfallende oder nur einmal zu zahlende Beiträge werden in goalio unter dem Stichwort Gebühren geführt. So wird es Vereinen ermöglicht, Kostenpunkte schnell und unkompliziert einzutragen und abzuspeichern.
 

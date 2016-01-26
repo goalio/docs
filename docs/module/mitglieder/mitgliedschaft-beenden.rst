@@ -1,8 +1,5 @@
-Mitgliedschaft beenden
+﻿Mitgliedschaft beenden
 ======================
-
-Einleitung
-----------
 
 Damit Sie bei der Bereinigung der Mitgliederliste keine Probleme haben, möchten wir Ihnen auf dieser Seite zeigen, wie Sie Mitglieder korrekt austreten lassen. Dies geschieht - wie auch die Mitgliedererstellung_ - über die bereits bekannten Bedienelemente und Mechanismen von goalio.
 
