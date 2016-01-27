@@ -47,6 +47,7 @@ Kehren Sie an einem späteren Zeitpunkt auf die Seite zurück, wird Ihnen im Fel
  Zur besseren Nachverfolgung Ihrer Beitragseinzüge empfehlen wir alle durchgeführten Zahlungsläufe zu erhalten.
 
 **SEPA-Lastschriftverfahren**
+
 Neben den Dateien, die den durchgeführten Zahlungslauf beschreiben, erstellt goalio Ihnen eine Datei, die für den Lastschrifteinzug über Ihre Hausbank genutzt werden kann. Laden Sie die dafür erstellte XML-Datei herunter und stellen Sie die Datei so Ihrer Hausbank zur Verfügung. Viele Banken unterstützen den Lastschrifteinzug mittels Datei-Upload im Online-Banking. Für weitere Informationen zum Thema Lastschriftverfahren kontaktieren Sie bitte Ihre Hausbank.
 
 .. _Reiter: /de/latest/erste-schritte/benutzeroberflaeche.html#reiter
