@@ -50,6 +50,19 @@ Nehmen Sie sich ruhig etwas Zeit zum Stöbern und entdecken Sie neue Funktionen,
    Abteilung-Team-Modul <module/abteilungen/index>
    Finanz-Modul <module/finanzen/index>
    Statistiken <module/statistiken/index>
+   
+goalio-Service
+^^^^^^^^^^^^^^
+ 
+Im Bereich "goalio-Service" finden Beschreibungen zu Funktionumfängen und der Einrichtung spezieller goalio-Dienste, die Ihr Vereinsmanagement nochmals vereinfachen. Für alle goalio-Service-Dienste fallen zusätzliche Kosten an. 
+ 
+ * :doc:`service/DMA/index`
+ 
+ .. toctree::
+   :hidden:
+   :maxdepth: 3
+
+   Digitaler-Mitgliedsantrag <service/DMA/index>
  
 
 Anwendungsfälle
