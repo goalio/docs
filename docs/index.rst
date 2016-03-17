@@ -56,7 +56,7 @@ goalio-Service
  
 Im Bereich "goalio-Service" finden Beschreibungen zu Funktionumfängen und der Einrichtung spezieller goalio-Dienste, die Ihr Vereinsmanagement nochmals vereinfachen. Für alle goalio-Service-Dienste fallen zusätzliche Kosten an. 
  
- * :doc:`service/DMA/index`
+* :doc:`service/DMA/index`
  
  .. toctree::
    :hidden:

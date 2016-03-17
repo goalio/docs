@@ -1,14 +1,16 @@
-Anpassungen
+ï»¿Anpassungen
 ===========
 
-Mit dem digitalen Mitgliedsantrag bieten wir Ihnen zusätzlich die Möglichkeit Inhalte, Design, Layout und Texte zu bestimmen. 
+Mit dem digitalen Mitgliedsantrag bieten wir Ihnen zusÃ¤tzlich die MÃ¶glichkeit Inhalte, Design, Layout und Texte zu bestimmen. 
 
-Folgende Anpassungen bieten wir unseren Vereinen kostenlos an:
-1. Verlinkung zu rechtskräftigen Dokumenten (Satzung, Beitragsordnung und Datenschutzbestimmung)
-2. Anpassung des Zahlweise (Monatlich, Vierteljährlich, Halbjährlich, Jährlich)
+Folgende Anpassungen bieten wir unseren Vereinen kostenlos an:  
 
-Folgende Informationen benötigen wir für die kostenlose Anpassungen
-1. Internetadresse (URL) der rechtskräftigen Dokumente, die verlinkt werden sollen
-2. Informationen über die Zahlweisen, die im Verein vornehmlich präferiert werden
+  1. Verlinkung zu rechtskrÃ¤ftigen Dokumenten (Satzung, Beitragsordnung und Datenschutzbestimmung)
+  2. Anpassung des Zahlweise (Monatlich, VierteljÃ¤hrlich, HalbjÃ¤hrlich, JÃ¤hrlich)
 
-Neben den kostenlosen Anpassungen bieten wir Ihnen die Möglichkeit den digitalen Mitgliedantrages Ihres Vereines zu individualisieren. Eine Liste von Möglichkeiten und deren Preise entnehmen Sie bitte folgenden Dokument: `Preisliste-DMA <https://owncloud.goalio.de/index.php/s/RDxEiHaxVPkBO1Y>`_
+Folgende Informationen benÃ¶tigen wir fÃ¼r die kostenlose Anpassungen  
+
+  1. Internetadresse (URL) der rechtskrÃ¤ftigen Dokumente, die verlinkt werden sollen
+  2. Informationen Ã¼ber die Zahlweisen, die im Verein vornehmlich prÃ¤feriert werden
+
+Neben den kostenlosen Anpassungen bieten wir Ihnen die MÃ¶glichkeit den digitalen Mitgliedantrages Ihres Vereines zu individualisieren. Eine Liste von MÃ¶glichkeiten und deren Preise entnehmen Sie bitte folgenden Dokument: `Preisliste-DMA <https://owncloud.goalio.de/index.php/s/RDxEiHaxVPkBO1Y>`_
