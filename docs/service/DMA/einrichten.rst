@@ -18,7 +18,7 @@ Sollten Sie keine allgemeine Aufnahmegebühr erheben, können Sie die folgende S
 
 **Spezielle Aufnahmegebühr**  
 
-Einige Vereine und vielleicht auch Sie erheben eine abteilungsspezifische Aufnahmegebühr. Sollten Sie keine spezielle Aufnahmegebühr erheben, können Sie diesen Schritt überspringen. Um diese auch innerhalb des digitalen Mitgliedantrages verfügbar zu machen, gehen Sie wie folgt vor:
+Einige Vereine und vielleicht auch Sie erheben eine abteilungsspezifische Aufnahmegebühr. Sollten Sie keine spezielle Aufnahmegebühr erheben, können Sie diesen Schritt überspringen. Um eine spezielle Aufnahmegebühr auch innerhalb des digitalen Mitgliedantrages verfügbar zu machen, gehen Sie wie folgt vor:
 
   1. Klicken Sie in der *Gelben Menüleiste* auf das Feld *Beiträge*
   2. Doppelklicken Sie den Abteilungsbeitrag, dem Sie eine Aufnahmegebühr hinzufügen möchten
@@ -89,5 +89,5 @@ Nutzen Sie hierfür die Adresse:
 https://mein-verein.goal.io/service/dma
 
 .. note:: 
- Die oben genannten Links dienen als Beispiel. Nutzen Sie für Ihren Verein innerhalb des Links ihre Vereins-goalio-Domain.
+ Die oben genannten Links dienen als Beispiel. Nutzen Sie für Ihren Verein innerhalb des Links Ihre goalio-Vereins-Domain.
 

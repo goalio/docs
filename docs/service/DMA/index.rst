@@ -14,7 +14,7 @@ Zusätzlich werden weitere Funktion in naher Zukunft dafür sorgen, dass Mitglie
 
 Sie als Verein haben lediglich nur noch die Aufgabe die Antragssteller zu bestätigen, ehe diese in das vereinsinterne goalio-System geladen werden. Ein Klick und alle Daten sind im System. Als Verein behalten Sie während dieses Prozesses stets die Kontrolle und können falsch eingetragene Information vor dem Übertragen ändern. Gleichzeitig werden Abteilungsleiter und Trainer in den Anmeldeprozess involviert und schaffen Klarheit über ein Neumitglied.
 
-Auf den folgenden Seiten geben wir Ihnen weitere Informationen zum Funktionsumfang, Einrichtung und Anpassung.
+Auf den folgenden Seiten geben wir Ihnen weitere Informationen zum Funktionsumfang, Einrichtung und Anpassung des digitalen Mitgliedantrages.
 
 .. toctree::
    :hidden:

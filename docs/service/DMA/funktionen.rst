@@ -1,6 +1,6 @@
 ﻿Funktionsumfang
 ===============
-Der digitale Mitgliedsantrag bietet Ihnen die Möglichkeit ihr Vereinsanmeldungsprozess zu digitalisieren und gleichzeitig von der Schnittstelle zum goalio-Vereinssystem zu profitieren, indem Sie eingetragene Informationen nur noch bestätigen müssen.
+Der digitale Mitgliedsantrag bietet Ihnen die Möglichkeit Ihr Vereinsanmeldungsprozess zu digitalisieren und gleichzeitig von der Schnittstelle zum goalio-Vereinssystem zu profitieren, indem Sie eingetragene Informationen nur noch bestätigen müssen.
 
 Digitaler Anmeldeprozess
 ------------------------

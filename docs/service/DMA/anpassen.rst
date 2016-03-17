@@ -10,7 +10,7 @@ Folgende Anpassungen bieten wir unseren Vereinen kostenlos an:
 
 Folgende Informationen benötigen wir für die kostenlose Anpassungen  
 
-  1. Internetadresse (URL) der rechtskräftigen Dokumente, die verlinkt werden sollen
-  2. Informationen über die Zahlweisen, die im Verein vornehmlich präferiert werden
+  1. Internetadresse (URL) der rechtskräftigen, zu verlinkenden Dokumente
+  2. Informationen über die im Verein vornehmlich präferierten Zahlweisen
 
 Neben den kostenlosen Anpassungen bieten wir Ihnen die Möglichkeit den digitalen Mitgliedantrages Ihres Vereines zu individualisieren. Eine Liste von Möglichkeiten und deren Preise entnehmen Sie bitte folgenden Dokument: `Preisliste-DMA <https://owncloud.goalio.de/index.php/s/RDxEiHaxVPkBO1Y>`_
