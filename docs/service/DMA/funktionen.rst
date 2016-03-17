@@ -7,13 +7,11 @@ Digitaler Anmeldeprozess
 Mit dem digitalen Mitgliedsantrag wird ein potentielles Neumitglied in die Lage versetzt, sich für Ihren Verein via Smartphone, Tablet oder auch PC anzumelden. Der Mitgliedsantrag passt sich dabei auf Grundlage ihrer vorgenommenen Einstellungen bei goalio an und kann so individuell angepasst werden. Nicht jede angelegte Abteilung muss damit im Digitalen Mitgliedsantrag sichtbar sein.
 
 Folgende freigegebene Inhalte bestimmen den Digitalen Mitgliedsantrag:  
-
   1. Abteilungen
   2. Aufnahmegebühr := Aufnahmegebühr (Verein) + Aufnahmegebühr (Abteilung)
   3. Teams & Angebote
 
 Folgende Informationen werden vom Mitglied selber eingetragen:  
-
   1. Mitgliedschaftsbeginn
   2. Stamm-, Adress- und Kontaktdaten
   3. Zahlungsinformationen (Lastschrift)
@@ -31,11 +29,9 @@ Automatisierter Mailversand
 Nachdem das Mitglied alle Information übermittelt hat, wird ein automatisierter Prozess für den E-Mailversand angestoßen.
 
 Folgende E-Mails werden an den Verein und seine Funktionäre versendet:  
-
   1. Informationen an die Abteilungsleiter, Trainer und Übungsleiter (inkl. der Aufforderung eine Rückmeldung zum neuen Mitglied zu geben)
 
 Folgende E-Mails werden an das Mitglied versendet:  
-
   1. Bestätigungsinformationen bei Abschluss der Online-Anmeldung (inkl. Link zur Zusammenfassung der Anmeldung und dem SEPA-Lastschriftmandat)
   2. Bestätigungsinformationen bei der Annahme des Mitgliedantrages (inkl. Zugangsdaten zum Self-Service Portal)
 

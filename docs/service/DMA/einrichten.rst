@@ -13,7 +13,7 @@ Sollten Sie keine allgemeine Aufnahmegebühr erheben, können Sie die folgende S
 
   1. Zeigen Sie mit dem Mauszeigen in der Gelben Menüleiste auf das Funktionsfeld "Beiträge"
   2. Wählen Sie im DropDown-Menü "Gebühren"
-  2. Tragen Sie im Feld "Aufnahmegebühr" die entsprechende "Aufnahmegebühr" ein.
+  2. Tragen Sie im Feld "Aufnahmegebühr" die entsprechende "Aufnahmegebühr" ein
   3. "Speichern" Sie die entsprechenden Änderungen
 
 **Spezielle Aufnahmegebühr**  
