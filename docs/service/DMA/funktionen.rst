@@ -8,7 +8,7 @@ Mit dem digitalen Mitgliedsantrag wird ein potentielles Neumitglied in die Lage 
 
 Folgende freigegebene Inhalte bestimmen den Digitalen Mitgliedsantrag:  
   1. Abteilungen
-  2. Aufnahmegebühr := Aufnahmegebühr (Verein) + Aufnahmegebühr (Abteilung)
+  2. Aufnahmegebühr := Allgemeine Aufnahmegebühr + Spezielle Aufnahmegebühr
   3. Teams & Angebote
 
 Folgende Informationen werden vom Mitglied selber eingetragen:  

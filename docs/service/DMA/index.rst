@@ -16,6 +16,9 @@ Sie als Verein haben lediglich nur noch die Aufgabe die Antragssteller zu bestä
 
 Auf den folgenden Seiten geben wir Ihnen weitere Informationen zum Funktionsumfang, Einrichtung und Anpassung des digitalen Mitgliedantrages.
 
+.. note::
+ Bitte beachten Sie, dass durch die Nutzung des digitalen Mitgliedsantrages zusätzliche Kosten entstehen. Für Rücksprachen stehen wir Ihnen gerne zur Verfügung.
+
 .. toctree::
    :hidden:
    
