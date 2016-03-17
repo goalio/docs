@@ -1,7 +1,8 @@
 ﻿Digitaler Mitgliedsantrag
 =========================
 
-Es gibt die unterschiedslichsten Szenarien, die dazu führen, dass ein Mitgliedsantrag nicht wie gewünscht in der Geschäftsstelle eingeht. Unser Unternehmen goalio hat sich dazu Gedanken gemacht und unterstützt Sie bei der Erleichterung des Anmeldeverfahrens in Ihrem Verein.
+Es gibt die unterschiedslichsten Szenarien, die dazu führen, dass ein Mitgliedsantrag nicht wie gewünscht in der Geschäftsstelle eingeht. Unser Unternehmen goalio hat sich dazu Gedanken gemacht und unterstützt Sie bei der Erleichterung der Mitgliederanmeldung in Ihrem Verein.
+
 Die Zeiten von unleserlichen Schriften, Vergesslichkeit, Beitragsverlusten und hohen Arbeitsaufwand beim Übertragen der Daten in das Vereinssystem sind vorbei. Mit dem digitalen Mitgliedsantrag geht Ihr Verein einen innovativen Weg, der für noch mehr Komfort und Übersichtlichkeit sorgt. 
 
 *Der Vorteil auf Mitgliederseite:*  
