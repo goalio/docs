@@ -11,28 +11,28 @@ Da im fortlaufenden Anmeldeprozess die Beiträge in Abhängigkeit einer Abteilun
 
 Sollten Sie keine allgemeine Aufnahmegebühr erheben, können Sie die folgende Schritte vernachlässigen.  
 
-  1. Zeigen Sie mit dem Mauszeigen in der Gelben Menüleiste auf das Funktionsfeld "Beiträge"
-  2. Wählen Sie im DropDown-Menü "Gebühren"
-  2. Tragen Sie im Feld "Aufnahmegebühr" die entsprechende "Aufnahmegebühr" ein
-  3. "Speichern" Sie die entsprechenden Änderungen
+  1. Zeigen Sie mit dem Mauszeigen in der *Gelben Menüleiste* auf das Funktionsfeld *Beiträge*
+  2. Wählen Sie im DropDown-Menü *Gebühren*
+  3. Tragen Sie im Feld *Aufnahmegebühr* den entsprechenden Betrag ein
+  4. *Speichern* Sie die entsprechenden Änderungen
 
 **Spezielle Aufnahmegebühr**  
 
 Einige Vereine und vielleicht auch Sie erheben eine abteilungsspezifische Aufnahmegebühr. Sollten Sie keine spezielle Aufnahmegebühr erheben, können Sie diesen Schritt überspringen. Um diese auch innerhalb des digitalen Mitgliedantrages verfügbar zu machen, gehen Sie wie folgt vor:
 
-  1. Klicken Sie in der Gelben Menüleiste auf das Feld Beiträge
+  1. Klicken Sie in der *Gelben Menüleiste* auf das Feld *Beiträge*
   2. Doppelklicken Sie den Abteilungsbeitrag, dem Sie eine Aufnahmegebühr hinzufügen möchten
-  3. Tragen Sie in das Feld "Aufnahmegebühr" den entsprechenden Betrag ein
-  4. "Speichern und Schließen" Sie das Fenster
+  3. Tragen Sie in das Feld *Aufnahmegebühr* den entsprechenden Betrag ein
+  4. *Speichern und Schließen* Sie das Fenster
 
 **Beiträge**  
 
 Um Beiträge im digitalen Mitgliedsantrag anzuzeigen, gehen Sie wie folgt vor:  
 
-  1. Klicken Sie in der Gelben Menüleiste auf das Feld Beiträge
+  1. Klicken Sie in der *Gelben Menüleiste* auf das Feld *Beiträge*
   2. Doppelklicken Sie den freizugebenden Abteilungsbeitrag
-  3. Setzen Sie ein Häkchen im Feld "Im Mitgliedantrag anzeigen"
-  4. "Speichern und Schließen" Sie das Fenster
+  3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
+  4. *Speichern und Schließen* Sie das Fenster
 
 .. note:: 
  Alternativ können sie die Beiträge auch über den Weg der Abteilungen freigeben. Wählen Sie dafür in der Gelben Menüleiste das Feld Abteilungen und Doppelklicken Sie die entsprechende Abteilung. Wählen Sie den Reiter Beiträge und gehen Sie vor, wie im Abschnitt *Beiträge* beschrieben - Unterpunkt 2.
@@ -44,28 +44,28 @@ Vereinsstruktur
 
 Um Abteilungen für den digitalen Mitgliedantrages freizuschalten, gehen Sie wie folgt vor:  
 
-  1. Klicken Sie in der Gelben Menüleiste auf das Feld Abteilungen
+  1. Klicken Sie in der *Gelben Menüleiste* auf das Feld *Abteilungen*
   2. Doppelklicken Sie die freizugebende Abteilung
-  3. Setzen Sie ein Häkchen im Feld "Im Mitgliedantrag anzeigen"
-  4. "Speichern und Schließen" Sie das Fenster
+  3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
+  4. *Speichern und Schließen* Sie das Fenster
 
 **Teams**  
 
 Um Teams für den digitalen Mitgliedantrages freizuschalten, gehen Sie wie folgt vor:  
 
-  1. Klicken Sie in der Gelben Menüleiste auf das Feld Teams
+  1. Klicken Sie in der *Gelben Menüleiste* auf das Feld *Teams*
   2. Doppelklicken Sie das freizugebende Team
-  3. Setzen Sie ein Häkchen im Feld "Im Mitgliedantrag anzeigen"
-  4. "Speichern und Schließen" Sie das Fenster
+  3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
+  4. *Speichern und Schließen* Sie das Fenster
 
 **Angebote**  
 
 Um Angebote für den digitalen Mitgliedantrages freizuschalten, gehen Sie wie folgt vor:  
 
-  1. Klicken Sie in der Gelben Menüleiste auf das Feld Angebote
+  1. Klicken Sie in der *Gelben Menüleiste* auf das Feld *Angebote*
   2. Doppelklicken Sie das freizugebende Angebot
-  3. Setzen Sie ein Häkchen im Feld "Im Mitgliedantrag anzeigen"
-  4. "Speichern und Schließen" Sie das Fenster
+  3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
+  4. *Speichern und Schließen* Sie das Fenster
 
 Antragsprozess
 --------------
@@ -85,7 +85,7 @@ Hierzu müssen Sie einfach folgenden Code-Schnipsel in Ihre Website einfügen:
 **Möglichkeit 2:**
 
 Sie können einfach auf Ihrer Homepage einen Link auf den digitalen Mitgliedsantrag setzen.
-Nutzen Sie hierfür die Adresse:
+Nutzen Sie hierfür die Adresse:  
 https://mein-verein.goal.io/service/dma
 
 .. note:: 
