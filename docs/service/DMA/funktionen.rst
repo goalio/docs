@@ -43,7 +43,7 @@ Vereinsinterne Abstimmung
 -------------------------
 Mit dem E-Mailversand an die Abteilungsleiter, Trainer und Übungsleiter werden diese in den Anmeldeprozess mit integriert. Damit stellen Sie sicher, dass auch nur die Mitglieder aufgenommen werden von denen Trainer, Übungsleiter oder auch Abteilungsleiter Kenntnis haben. 
 
-.. image:: ../../images/gui/dma_membership.png
+.. image:: ../../images/gui/dma_vote.png
 
 Bestätigung und Import von Mitgliedern
 --------------------------------------
