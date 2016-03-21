@@ -2,6 +2,8 @@
 ===============
 Der digitale Mitgliedsantrag bietet Ihnen die Möglichkeit Ihr Vereinsanmeldungsprozess zu digitalisieren und gleichzeitig von der Schnittstelle zum goalio-Vereinssystem zu profitieren, indem Sie eingetragene Informationen nur noch bestätigen müssen.
 
+.. image:: ../../images/gui/dma_welcome.png
+
 Digitaler Anmeldeprozess
 ------------------------
 Mit dem digitalen Mitgliedsantrag wird ein potentielles Neumitglied in die Lage versetzt, sich für Ihren Verein via Smartphone, Tablet oder auch PC anzumelden. Der Mitgliedsantrag passt sich dabei auf Grundlage ihrer vorgenommenen Einstellungen bei goalio an und kann so individuell angepasst werden. Nicht jede angelegte Abteilung muss damit im Digitalen Mitgliedsantrag sichtbar sein.
@@ -19,6 +21,8 @@ Folgende Informationen werden vom Mitglied selber eingetragen:
 Self-Service-Portal
 -------------------
 In Kombination mit dem digitalen Mitgliedsantrag wird den Mitgliedern künftig ein Self-Service-Portal für Ihren Verein angeboten, das in naher Zukunft immer mehr an Funktionalität gewinnen wird. Beispielsweise werden Mitglieder künftig die Möglichkeit haben, Stamm-, Adress- und Kontaktdaten selbstständig anzupassen. Sie müssen nur noch bestätigen.
+
+.. image:: ../../images/gui/self_service.png
 
 Bereitstellung von Dokumenten
 -----------------------------
@@ -39,10 +43,12 @@ Vereinsinterne Abstimmung
 -------------------------
 Mit dem E-Mailversand an die Abteilungsleiter, Trainer und Übungsleiter werden diese in den Anmeldeprozess mit integriert. Damit stellen Sie sicher, dass auch nur die Mitglieder aufgenommen werden von denen Trainer, Übungsleiter oder auch Abteilungsleiter Kenntnis haben. 
 
+.. image:: ../../images/gui/dma_membership.png
+
 Bestätigung und Import von Mitgliedern
 --------------------------------------
 Nachdem die Übungsleiter, Trainer und Abteilungsleiter über die Aufnahme des Neumitglieds erfolgreich bestimmt haben, kann das neue Mitglied durch die Mitgliederverwaltung in das goalio-System importiert werden. Sollten noch Änderungen am Datensatz vorgenommen werden müssen, kann dies vor dem Überführen durchgeführt werden.
 
-
+.. image:: ../../images/gui/dma_goalio.png
 
 

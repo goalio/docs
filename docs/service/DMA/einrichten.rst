@@ -15,6 +15,8 @@ Sollten Sie keine allgemeine Aufnahmegebühr erheben, können Sie die folgende S
   2. Wählen Sie im DropDown-Menü *Gebühren*
   3. Tragen Sie im Feld *Aufnahmegebühr* den entsprechenden Betrag ein
   4. *Speichern* Sie die entsprechenden Änderungen
+  
+.. image:: ../../images/gui/dma_aufnahme_allgemein.png
 
 **Spezielle Aufnahmegebühr**  
 
@@ -24,7 +26,7 @@ Einige Vereine und vielleicht auch Sie erheben eine abteilungsspezifische Aufnah
   2. Doppelklicken Sie den Abteilungsbeitrag, dem Sie eine Aufnahmegebühr hinzufügen möchten
   3. Tragen Sie in das Feld *Aufnahmegebühr* den entsprechenden Betrag ein
   4. *Speichern und Schließen* Sie das Fenster
-
+  
 **Beiträge**  
 
 Um Beiträge im digitalen Mitgliedsantrag anzuzeigen, gehen Sie wie folgt vor:  
@@ -33,6 +35,8 @@ Um Beiträge im digitalen Mitgliedsantrag anzuzeigen, gehen Sie wie folgt vor:
   2. Doppelklicken Sie den freizugebenden Abteilungsbeitrag
   3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
   4. *Speichern und Schließen* Sie das Fenster
+  
+.. image:: ../../images/gui/dma_aufnahme_speziell.png
 
 .. note:: 
  Alternativ können sie die Beiträge auch über den Weg der Abteilungen freigeben. Wählen Sie dafür in der Gelben Menüleiste das Feld Abteilungen und Doppelklicken Sie die entsprechende Abteilung. Wählen Sie den Reiter Beiträge und gehen Sie vor, wie im Abschnitt *Beiträge* beschrieben - Unterpunkt 2.
@@ -48,6 +52,8 @@ Um Abteilungen für den digitalen Mitgliedantrages freizuschalten, gehen Sie wie
   2. Doppelklicken Sie die freizugebende Abteilung
   3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
   4. *Speichern und Schließen* Sie das Fenster
+  
+.. image:: ../../images/gui/dma_division.png
 
 **Teams**  
 
@@ -57,6 +63,8 @@ Um Teams für den digitalen Mitgliedantrages freizuschalten, gehen Sie wie folgt
   2. Doppelklicken Sie das freizugebende Team
   3. Setzen Sie ein Häkchen im Feld *Im Mitgliedantrag anzeigen*
   4. *Speichern und Schließen* Sie das Fenster
+  
+.. image:: ../../images/gui/dma_team.png
 
 **Angebote**  
 
